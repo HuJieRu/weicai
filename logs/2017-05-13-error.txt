@@ -1,0 +1,293 @@
+
+2017-05-13T00:50:18+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T00:50:41+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-05-13T00:50:41+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T00:51:46+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T00:52:13+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-05-13T00:52:13+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T00:52:16+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T00:52:26+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T00:52:35+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T08:55:08+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T08:55:08+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T08:55:08+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T08:55:10+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T08:55:18+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T08:55:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T08:55:18+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T08:55:33+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T08:55:33+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T09:03:38+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T09:03:38+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T09:03:38+08:00: 
+     GET --- /css/images/icon.fw.png : Error: Not Found
+
+2017-05-13T09:03:38+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:41+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:44+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:47+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:47+08:00: 
+     GET --- /commodity/recommendList?p=NaN&&tag=2 : TypeError: C:\Users\Administrator\Desktop\weicai\views\commodity\commodityList.html:10
+    8| 	<% include ../common/head.html  %>
+    9|      <div id="wrapper">
+ >> 10|          <%if(goods.length==0){%>
+    11| 			<div class="commodity-hint"><img  src="/img/hint2.gif"  />很抱歉，没有你要的商品</div>
+    12| 		 <%}else{%>
+    13| 		  <div class="sort" id="sort">
+
+Cannot read property 'length' of undefined
+
+2017-05-13T09:03:47+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:49+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:51+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:54+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:55+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:55+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:57+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:03:57+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:50:54+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:50:56+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:50:58+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:51:02+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:51:05+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:51:08+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:51:10+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:51:12+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:51:17+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:51:39+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T09:51:43+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:00:59+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:01:18+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:01:24+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:01:51+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T10:01:51+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T10:01:57+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T10:01:57+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T10:01:57+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-05-13T10:05:10+08:00: 
+     GET --- /css/img/loading.gif : Error: Not Found
+
+2017-05-13T10:05:42+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T10:05:42+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T10:05:48+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T10:05:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T10:05:50+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T10:05:50+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T10:05:54+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T10:05:54+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-05-13T10:05:54+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T10:06:02+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T10:06:02+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T10:06:08+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:06:14+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:06:17+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:06:28+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:06:30+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:06:48+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T10:06:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T10:06:50+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T10:06:50+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T10:06:50+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-05-13T10:08:10+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-05-13T10:08:10+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-05-13T10:08:17+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:08:20+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:08:22+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:08:28+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:08:38+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:08:40+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:08:42+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:13:55+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:13:56+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-05-13T10:13:56+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:14:33+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:14:35+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:14:37+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:15:04+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:15:05+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:15:08+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-05-13T10:15:08+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-05-13T10:15:15+08:00: 
+     GET --- /favicon.ico : Error: Not Found

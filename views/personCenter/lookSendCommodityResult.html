@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      	<% include ../common/header.html  %> 
+        <link rel="stylesheet" type="text/css" href="/css/plugs/bootstrap.min.css" />
+    </head>
+  
+    <body style="background-color: #FAFAFA">
+    <% include ../common/head2.html  %>
+	
+	  <div class="comWidth ">
+		<table class="table table-striped tablelist" >
+			<caption><h4>已发货商品</h4></caption>
+			<tr>
+				<th>id</th>
+				<th>收货人姓名</th>
+				<th>手机号</th>
+				<th>商品名称</th>
+				<th>购买数量</th>
+				<th>收货邮编</th>
+				<th>收货地址</th>
+				<th>交易状态</th>
+			</tr>
+
+			<%if(goods.length){%>
+				<%goods.forEach(function(product){%>
+				<tr>
+					<td><%=product.id%></td>
+					<td><%=product.recipient%></td>
+					<td><%=product.phone%></td>
+					<td><%=product.name%></td>
+					<td><%=product.number%></td>
+					<td><%=product.postcode%></td>
+					<td><%=product.province+product.city+product.area+product.address%></td>
+					<td style='color:#ca5fe3;'><%=product.payment_status==1?"已发货":(product.payment_status==2?"完成交易":"用户已经评论")%></td>
+				</tr>
+				<%});%>
+			<%}else {%>
+				<tr>
+					<td></td>
+					<td></td>
+					<td>没有已经发货的商品</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			<%}%>
+		</table>
+	</div>
+    <% include ../common/footer.html  %>                
+    </body>
+     <script src="/js/Jquery.js"></script>
+         <script type="text/javascript">
+           seajs.use([], function() {
+            
+          });
+         </script>   
+    </html>

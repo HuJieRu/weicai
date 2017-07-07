@@ -1,0 +1,165 @@
+2017-02-06T11:49:26+08:00 error: 123
+2017-02-06T11:59:26+08:00: 
+123
+2017-02-06T11:59:26+08:00: 
+Unexpected token E in JSON at position 0
+2017-02-06T11:59:27+08:00: 
+123
+2017-02-06T11:59:27+08:00: 
+Unexpected token E in JSON at position 0
+2017-02-06T11:59:28+08:00: 
+123
+2017-02-06T11:59:28+08:00: 
+Unexpected token E in JSON at position 0
+2017-02-06T11:59:33+08:00: 
+123
+2017-02-06T11:59:33+08:00: 
+Unexpected token E in JSON at position 0
+2017-02-06T12:00:03+08:00: 
+123
+2017-02-06T12:00:03+08:00: 
+Unexpected token E in JSON at position 0
+2017-02-06T12:00:11+08:00: 
+Unexpected token E in JSON at position 0
+2017-02-06T12:00:12+08:00: 
+Unexpected token E in JSON at position 0
+2017-02-06T12:00:12+08:00: 
+Unexpected token E in JSON at position 0
+2017-02-06T12:01:42+08:00: 
+{"status":404}
+2017-02-06T12:01:42+08:00: 
+Not Found
+2017-02-06T12:02:42+08:00: 
+{"status":404}
+2017-02-06T12:02:42+08:00: 
+Not Found
+2017-02-06T12:02:43+08:00: 
+{"status":404}
+2017-02-06T12:02:43+08:00: 
+Not Found
+2017-02-06T12:03:11+08:00: 
+Cannot read property 'p' of undefined
+2017-02-06T12:03:11+08:00: 
+Cannot read property 'p' of undefined
+2017-02-06T12:03:12+08:00: 
+Cannot read property 'p' of undefined
+2017-02-06T12:03:17+08:00: 
+Cannot read property 'p' of undefined
+2017-02-06T12:06:38+08:00: 
+result is not defined
+2017-02-06T12:06:39+08:00: 
+result is not defined
+2017-02-06T12:07:01+08:00: 
+/home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|      <% include ../common/head.html  %>
+    9|      <div id="wrapper">
+    10|         
+    11|          <div class="sort">
+
+/home/weicai/views/common/head.html:6
+    4|                         <div class="fr">
+    5|                             <div class="loginAndRegister">
+ >> 6| 							<%if(data){ %> 
+    7|                                <a href="/personCenter/personalCenter"><%=data.phone%></a>
+    8|                             <%}else{%>
+    9| 							 <a href="/user/login">请登录</a>
+
+data is not defined
+2017-02-06T12:07:16+08:00: 
+/home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|      <% include ../common/head.html  %>
+    9|      <div id="wrapper">
+    10|         
+    11|          <div class="sort">
+
+/home/weicai/views/common/head.html:6
+    4|                         <div class="fr">
+    5|                             <div class="loginAndRegister">
+ >> 6| 							<%if(data){ %> 
+    7|                                <a href="/personCenter/personalCenter"><%=data.phone%></a>
+    8|                             <%}else{%>
+    9| 							 <a href="/user/login">请登录</a>
+
+data is not defined
+2017-02-06T12:08:08+08:00: 
+/home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|      <% include ../common/head.html  %>
+    9|      <div id="wrapper">
+    10|         
+    11|          <div class="sort">
+
+/home/weicai/views/common/head.html:6
+    4|                         <div class="fr">
+    5|                             <div class="loginAndRegister">
+ >> 6| 							<%if(data){ %> 
+    7|                                <a href="/personCenter/personalCenter"><%=data.phone%></a>
+    8|                             <%}else{%>
+    9| 							 <a href="/user/login">请登录</a>
+
+data is not defined
+
+2017-02-06T12:16:41+08:00: 
+undefined
+
+2017-02-06T12:16:41+08:00: 
+Not Found
+
+2017-02-06T12:16:41+08:00: 
+undefined
+
+2017-02-06T12:16:41+08:00: 
+Not Found
+
+2017-02-06T12:16:41+08:00: 
+undefined
+
+2017-02-06T12:16:41+08:00: 
+Not Found
+
+2017-02-06T12:18:35+08:00: 
+undefined
+
+2017-02-06T12:18:35+08:00: 
+Not Found
+
+2017-02-06T12:18:35+08:00: 
+undefined
+
+2017-02-06T12:18:35+08:00: 
+Not Found
+
+2017-02-06T12:18:51+08:00: 
+undefined
+
+2017-02-06T12:18:51+08:00: 
+Not Found
+
+2017-02-06T12:18:51+08:00: 
+undefined
+
+2017-02-06T12:18:51+08:00: 
+Not Found
+
+2017-02-06T12:18:51+08:00: 
+undefined
+
+2017-02-06T12:18:51+08:00: 
+Not Found
+
+2017-02-06T12:19:24+08:00: 
+undefined
+
+2017-02-06T12:19:24+08:00: 
+Not Found
+
+2017-02-06T12:19:25+08:00: 
+undefined
+
+2017-02-06T12:19:25+08:00: 
+Not Found

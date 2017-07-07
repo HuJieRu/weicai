@@ -1,0 +1,36 @@
+2017-02-06T10:58:43+08:00:
+   sql:
+   result:{"fieldCount":0,"affectedRows":1,"insertId":72,"serverStatus":2,"warningCount":4,"message":"","protocol41":true,"changedRows":0}
+2017-02-06T10:58:43+08:00:
+   sql:
+   result:[{"id":72,"mid":0,"gid":0,"account":"18312168364","password":"4c73f36c4fe32b7be7f89ae708290bbd","reg_time":"0000-00-00 00:00:00","last_time":"0000-00-00 00:00:00","status":1}]
+2017-02-06T11:03:27+08:00:
+   sql:
+   result:{"fieldCount":0,"affectedRows":1,"insertId":73,"serverStatus":2,"warningCount":4,"message":"","protocol41":true,"changedRows":0}
+2017-02-06T11:03:27+08:00:
+   sql:
+   result:[{"id":73,"mid":0,"gid":0,"account":"18312168364","password":"4c73f36c4fe32b7be7f89ae708290bbd","reg_time":"0000-00-00 00:00:00","last_time":"0000-00-00 00:00:00","status":1}]
+2017-02-06T11:03:42+08:00:
+   sql:
+   result:{"fieldCount":0,"affectedRows":1,"insertId":74,"serverStatus":2,"warningCount":4,"message":"","protocol41":true,"changedRows":0}
+2017-02-06T11:03:42+08:00:
+   sql:
+   result:[{"id":74,"mid":0,"gid":0,"account":"18312168364","password":"4c73f36c4fe32b7be7f89ae708290bbd","reg_time":"0000-00-00 00:00:00","last_time":"0000-00-00 00:00:00","status":1}]
+2017-02-06T11:04:52+08:00:
+   sql:insert into users(account,password) values('18312168364','4c73f36c4fe32b7be7f89ae708290bbd')
+   result:{"fieldCount":0,"affectedRows":1,"insertId":75,"serverStatus":2,"warningCount":4,"message":"","protocol41":true,"changedRows":0}
+2017-02-06T11:04:52+08:00:
+   sql:select * from users where id=75
+   result:[{"id":75,"mid":0,"gid":0,"account":"18312168364","password":"4c73f36c4fe32b7be7f89ae708290bbd","reg_time":"0000-00-00 00:00:00","last_time":"0000-00-00 00:00:00","status":1}]
+2017-02-06T12:16:41+08:00:
+   sql:select * from goods order by DESC limit 0,15
+   Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC limit 0,15' at line 1
+2017-02-06T12:18:35+08:00:
+   sql:select * from goods order by DESC limit 0,15
+   Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC limit 0,15' at line 1
+2017-02-06T12:18:50+08:00:
+   sql:select * from goods order by create_time DESC  limit 0,15
+   result:[{"id":2,"uid":1,"typeid":2,"name":"毛巾","price":12,"number":15,"image":"123","caption":"便宜实惠的毛巾","update_time":"2017-02-05T06:30:04.000Z","create_time":"2017-02-05T06:30:04.000Z","status":1},{"id":1,"uid":1,"typeid":2,"name":"毛巾","price":12,"number":15,"image":"123","caption":"便宜实惠的毛巾","update_time":"2017-02-05T06:26:33.000Z","create_time":"2017-02-05T06:26:33.000Z","status":1},{"id":3,"uid":1,"typeid":2,"name":"毛巾","price":0,"number":0,"image":"","caption":"","update_time":"0000-00-00 00:00:00","create_time":"0000-00-00 00:00:00","status":1}]
+2017-02-06T12:19:24+08:00:
+   sql:select * from goods order by create_time DESC  limit 0,15
+   result:[{"id":2,"uid":1,"typeid":2,"name":"毛巾","price":12,"number":15,"image":"123","caption":"便宜实惠的毛巾","update_time":"2017-02-05T06:30:04.000Z","create_time":"2017-02-05T06:30:04.000Z","status":1},{"id":1,"uid":1,"typeid":2,"name":"毛巾","price":12,"number":15,"image":"123","caption":"便宜实惠的毛巾","update_time":"2017-02-05T06:26:33.000Z","create_time":"2017-02-05T06:26:33.000Z","status":1},{"id":3,"uid":1,"typeid":2,"name":"毛巾","price":0,"number":0,"image":"","caption":"","update_time":"0000-00-00 00:00:00","create_time":"0000-00-00 00:00:00","status":1}]

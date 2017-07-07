@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+            <% include ../common/header.html  %>
+       <link rel="stylesheet" type="text/css" href="/css/personalCenter.css" />
+       <link rel="stylesheet" type="text/css" href="/css/attention.css" />
+    </head>
+    <body style="background-color: #FAFAFA">
+    <% include ../common/head.html  %>
+    <!-- Begin Wrapper -->
+    <div id="wrapper">
+        <!-- Begin Sidebar -->
+        <div id="sidebar" >
+        <!-- Begin Menu -->
+        <div id="menu" class="menu-v">
+          <ul>
+            <li><a href="personalCenter">收藏的商品</a>
+            </li>
+            <li><a href="publish">发布的商品</a> 
+            </li>
+            <li><a href="myIndent"  >我的订单</a>
+            </li>
+            <li><a href="attentionPerson" class="active">关注的同学</a>
+            </li>
+            <li><a href="attentionSchool">关注的学校</a></li>
+          </ul>
+        </div>
+        <!-- End Menu -->
+                            
+        </div>
+        <!-- End Sidebar -->
+        
+        <!-- Begin Content -->
+        <div id="content">
+		<%if(data.length==0){%>
+			<div class="commodity-hint"><img  src="/img/hint2.gif"  />您没有关注任何人</div>
+		<%}%>
+		<%data.forEach(function(person){%>
+          <div class="attention-list " >
+				<div class="attention cle">
+				  <span>
+					  <img class="face" src="<%=person.avatar%>">
+					  <span class="name"><%=person.title%>&nbsp&nbsp<%=person.schoolname%></span>
+					  <a class="delete" href="deleteStudent?id=<%=person.uid %>"><i >删除</i></a>
+				  </span>
+				  <a href="/commodity/studentGoodsList?key=<%=person.uid%>&&p=1&&tag=0" class="more">查看更多></a>
+				</div>
+              <div  id="productlist" class="pro_list" >
+                  
+                  <ul class="cle">
+					<%person.goods.forEach(function(product){%>				  
+                      <li>
+                          <a href="/commodity/commoditySpecific?id=<%=product.id%>">
+                              <p class="pic">
+                                  <img width="150" height="150"  src="<%=product.image.split(",")[0]%>"  />
+                              </p>
+                              <div class="btm cle">
+                                  <span class="price">
+                                      &#165;<%=product.price%>
+                                  </span>
+                                  <span class="sales">
+                                      <i >销量</i>
+                                      <%=product.sales%>
+                                  </span>
+                              </div>
+                              <p class="title">
+                                  <%=product.name%>
+                              </p>
+                          </a>
+                      </li>
+                     <%});%>
+                  </ul>
+              </div>
+           
+          </div>
+          <%});%>  
+               <% include ../common/pages.html  %>   
+        </div>
+        <!-- End Content -->
+        
+    </div>
+    <!-- End Wrapper -->
+    <div class="clear"></div>
+    <% include ../common/footer.html  %>
+     </body>
+       <script src="/js/Jquery1.7.js"></script>
+        <script type="text/javascript">
+       seajs.use(["PanginationControl","Slide","ShopClass"], function(p) {
+			let key=p.getQueryString('key');
+			p.initPagination({
+			page:"<%=page%>",
+			currentPage:<%=locals.get.p?(locals.get.p-1):0%>,
+			key:key
+			});
+          });
+        </script> 
+</html>

@@ -1,0 +1,303 @@
+
+2017-03-29T22:42:12+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:42:13+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:42:21+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:25+08:00: 
+     GET --- /commodity/commoditySpecific?id=33 : Error: Can't set headers after they are sent.
+
+2017-03-29T22:42:25+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:28+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:29+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:41+08:00: 
+     GET --- /index/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:42:41+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:42:41+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:42:41+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:43+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:42:43+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:42:43+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:42:43+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:46+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:42:46+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:42:46+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:42:46+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:47+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:42:47+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:42:47+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:42:47+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:48+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:42:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:42:48+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:42:49+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:50+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:42:50+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:42:50+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:42:50+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:52+08:00: 
+     GET --- /commodity/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:42:52+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:42:52+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:42:52+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:54+08:00: 
+     GET --- /commodity/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:42:54+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:42:54+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:42:55+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:42:59+08:00: 
+     GET --- /commodity/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:42:59+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:42:59+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:42:59+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:43:02+08:00: 
+     GET --- /commodity/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:43:02+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:43:02+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:43:02+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:43:12+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:43:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:43:12+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:43:14+08:00: 
+     GET --- /commodity/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:43:14+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:43:14+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:43:14+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-03-29T22:43:14+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:43:18+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:43:29+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:44:10+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:44:13+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:44:13+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:44:13+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:44:13+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:44:30+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:44:30+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:44:30+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:44:30+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:44:31+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:44:31+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:44:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:44:31+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:44:33+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:44:33+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:44:33+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:44:35+08:00: 
+     GET --- /commodity/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:44:35+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:44:35+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:44:35+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-03-29T22:44:35+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:44:54+08:00: 
+     GET --- /commodity/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:44:54+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-29T22:44:54+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-29T22:44:54+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-03-29T22:44:54+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:44:57+08:00: 
+     GET --- /commodity/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:44:57+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:45:01+08:00: 
+     GET --- /commodity/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:45:01+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:45:11+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:45:11+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:45:13+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:45:13+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:45:14+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:45:15+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:45:16+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:45:16+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:45:20+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:45:20+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:45:21+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:45:21+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-29T22:45:22+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-03-29T22:45:22+08:00: 
+     GET --- /favicon.ico : Error: Not Found

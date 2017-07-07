@@ -1,0 +1,391 @@
+
+2017-04-18T11:30:36+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T11:30:36+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T11:30:36+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T11:30:36+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T11:45:36+08:00: 
+     GET --- /user/login : ReferenceError: D:\hjr\毕业设计\weicai\views\user\login.html:45
+    43|                                       <input type="text"  placeholder="验证码" style="padding: 5px;width: 60px;border:1px solid #ccc;margin-top: 3px;" />
+    44|                                    </div>
+ >> 45| 								    <input type = "button" id="code" class="code" value="<%=code%>" onclick="createCode()"/> 
+    46|                                </li>
+    47|                                <li class="last">
+    48|                                    <input type="submit" id="loginBtn" class="btn" value="登录" />
+
+code is not defined
+
+2017-04-18T11:47:26+08:00: 
+     GET --- /user/login : ReferenceError: D:\hjr\毕业设计\weicai\views\user\login.html:45
+    43|                                       <input type="text"  placeholder="验证码" style="padding: 5px;width: 60px;border:1px solid #ccc;margin-top: 3px;" />
+    44|                                    </div>
+ >> 45| 								    <input type = "button" id="code" class="code" value="<%=code%>" onclick="createCode()"/> 
+    46|                                </li>
+    47|                                <li class="last">
+    48|                                    <input type="submit" id="loginBtn" class="btn" value="登录" />
+
+code is not defined
+
+2017-04-18T11:47:28+08:00: 
+     GET --- /user/login : ReferenceError: D:\hjr\毕业设计\weicai\views\user\login.html:45
+    43|                                       <input type="text"  placeholder="验证码" style="padding: 5px;width: 60px;border:1px solid #ccc;margin-top: 3px;" />
+    44|                                    </div>
+ >> 45| 								    <input type = "button" id="code" class="code" value="<%=code%>" onclick="createCode()"/> 
+    46|                                </li>
+    47|                                <li class="last">
+    48|                                    <input type="submit" id="loginBtn" class="btn" value="登录" />
+
+code is not defined
+
+2017-04-18T12:00:53+08:00: 
+     GET --- /user/login : ReferenceError: D:\hjr\毕业设计\weicai\views\user\login.html:45
+    43|                                       <input type="text"  placeholder="验证码" style="padding: 5px;width: 60px;border:1px solid #ccc;margin-top: 3px;" />
+    44|                                    </div>
+ >> 45| 								    <input type = "button" id="code" class="code" value="<%=code%>" onclick="createCode()"/> 
+    46|                                </li>
+    47|                                <li class="last">
+    48|                                    <input type="submit" id="loginBtn" class="btn" value="登录" />
+
+code is not defined
+
+2017-04-18T13:48:58+08:00: 
+     GET --- /user/login : ReferenceError: D:\hjr\毕业设计\weicai\views\user\login.html:45
+    43|                                       <input type="text"  placeholder="验证码" style="padding: 5px;width: 60px;border:1px solid #ccc;margin-top: 3px;" />
+    44|                                    </div>
+ >> 45| 								    <img src="<%=codesrc%>" id="code" class="code"  /> 
+    46|                                </li>
+    47|                                <li class="last">
+    48|                                    <input type="submit" id="loginBtn" class="btn" value="登录" />
+
+codesrc is not defined
+
+2017-04-18T13:48:59+08:00: 
+     GET --- /user/%3C%=codesrc%%3E : Error: Not Found
+
+2017-04-18T13:51:25+08:00: 
+     GET --- /user/login : ReferenceError: D:\hjr\毕业设计\weicai\views\user\login.html:45
+    43|                                       <input type="text"  placeholder="验证码" style="padding: 5px;width: 60px;border:1px solid #ccc;margin-top: 3px;" />
+    44|                                    </div>
+ >> 45| 								    <img src="<%=codesrc%>" id="code" class="code"  /> 
+    46|                                </li>
+    47|                                <li class="last">
+    48|                                    <input type="submit" id="loginBtn" class="btn" value="登录" />
+
+codesrc is not defined
+
+2017-04-18T13:51:25+08:00: 
+     GET --- /user/%3C%=codesrc%%3E : Error: Not Found
+
+2017-04-18T14:08:25+08:00: 
+     GET --- /user/login : ReferenceError: data is not defined
+
+2017-04-18T14:15:45+08:00: 
+     GET --- /user/login : ReferenceError: D:\hjr\毕业设计\weicai\views\user\login.html:45
+    43|                                       <input type="text"  placeholder="验证码" style="padding: 5px;width: 60px;border:1px solid #ccc;margin-top: 3px;" />
+    44|                                    </div>
+ >> 45| 								    <img src="<%=codesrc%>" id="code" class="code"  /> 
+    46|                                </li>
+    47|                                <li class="last">
+    48|                                    <input type="submit" id="loginBtn" class="btn" value="登录" />
+
+codesrc is not defined
+
+2017-04-18T14:15:45+08:00: 
+     GET --- /user/%3C%=codesrc%%3E : Error: Not Found
+
+2017-04-18T14:15:48+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T14:15:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T14:15:51+08:00: 
+     GET --- /personCenter/personalCenter : Error: Can't set headers after they are sent.
+
+2017-04-18T14:15:52+08:00: 
+     GET --- /user/login : ReferenceError: D:\hjr\毕业设计\weicai\views\user\login.html:45
+    43|                                       <input type="text"  placeholder="验证码" style="padding: 5px;width: 60px;border:1px solid #ccc;margin-top: 3px;" />
+    44|                                    </div>
+ >> 45| 								    <img src="<%=codesrc%>" id="code" class="code"  /> 
+    46|                                </li>
+    47|                                <li class="last">
+    48|                                    <input type="submit" id="loginBtn" class="btn" value="登录" />
+
+codesrc is not defined
+
+2017-04-18T14:15:52+08:00: 
+     GET --- /user/%3C%=codesrc%%3E : Error: Not Found
+
+2017-04-18T14:16:17+08:00: 
+     GET --- /user/1 : Error: Not Found
+
+2017-04-18T14:16:18+08:00: 
+     GET --- /user/1 : Error: Not Found
+
+2017-04-18T14:17:36+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T14:17:36+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T14:17:39+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T14:17:39+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T14:17:53+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T14:17:53+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T15:08:37+08:00: 
+     GET --- /personCenter/personalCenter : Error: Can't set headers after they are sent.
+
+2017-04-18T15:08:39+08:00: 
+     GET --- /user/1 : Error: Not Found
+
+2017-04-18T15:08:44+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T15:08:44+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T15:08:49+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T15:08:49+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T15:35:38+08:00: 
+     GET --- /css/images/icon.fw.png : Error: Not Found
+
+2017-04-18T15:38:12+08:00: 
+     GET --- /personCenter/publish : Error: Can't set headers after they are sent.
+
+2017-04-18T15:38:18+08:00: 
+     GET --- /user/1 : Error: Not Found
+
+2017-04-18T15:38:19+08:00: 
+     GET --- /user/1 : Error: Not Found
+
+2017-04-18T15:38:26+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:38:35+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:38:35+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:38:38+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:39:54+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:39:54+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:40:05+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:40:16+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:41:20+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:41:20+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:41:22+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:41:22+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:41:27+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:41:29+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:41:33+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:42:28+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:42:42+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:43:22+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:43:23+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:43:55+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:43:55+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:45:10+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:45:26+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T15:45:26+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T17:56:23+08:00: 
+     GET --- / : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-18T17:56:24+08:00: 
+     GET --- /favicon.ico : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-18T17:56:24+08:00: 
+     GET --- /favicon.ico : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-18T17:59:00+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T17:59:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T17:59:01+08:00: 
+     GET --- /user/NNAG : Error: Not Found
+
+2017-04-18T18:01:21+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:01:21+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:01:29+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:01:29+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:01:34+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:01:35+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:01:36+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:01:36+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:01:37+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:01:37+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:01:38+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:01:38+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:02:03+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:02:03+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:02:03+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T18:02:25+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:02:25+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:02:25+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T18:02:27+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:02:27+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:02:27+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T18:02:28+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:02:28+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:02:28+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T18:02:29+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:02:29+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:02:29+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T18:02:30+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:02:30+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:02:30+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T18:02:31+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:02:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:02:31+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T18:02:31+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:02:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:02:31+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T18:02:41+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T18:02:45+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-18T18:02:45+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-18T18:02:45+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-18T18:03:02+08:00: 
+     GET --- /favicon.ico : Error: Not Found

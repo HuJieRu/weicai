@@ -1,0 +1,127 @@
+.pro_list {
+    margin-bottom: 10px;
+    overflow: hidden;
+    border-top: 1px solid #ddd;
+    padding: 2px 0;
+}
+
+.search-selected a, .search-selected span {
+    display: inline-block;
+}
+a:hover {
+    color: #34495e;
+    text-decoration: underline;
+}
+.search-selected {
+    padding: 0 0 9px
+}
+.search-selected a {
+    padding: 4px 0
+}
+.search-selected a.item {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    margin-right: 8px;
+    box-shadow: 0 1px 1px #ddd;
+    color: #ff666b;
+    padding: 4px 8px
+}
+.search-selected a.item em.iconfont {
+    color: #999;
+    margin-left: 3px
+}
+.search-selected a.item:hover {
+    background-color: #f2f2f2;
+    text-decoration: none
+}
+.search-null {
+    border: 1px solid #ddd;
+    background: #fff;
+    padding: 30px 20px;
+    text-align: center;
+    font-size: 14px
+}
+.search-null img {
+    vertical-align: middle;
+    margin-right: 10px
+}
+.search-options {
+    background-color: #fff
+}
+.search-options .bd {
+    border: 1px solid #ddd;
+    border-bottom: none;
+    +zoom: 1
+}
+.search-options dl {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+    width: 100%;
+    position: relative
+}
+.search-options dt {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    font-size: 14px
+}
+.search-options dd {
+    position: relative;
+    padding: 0 50px 0 83px;
+    height: 24px;
+    overflow: hidden;
+    -webkit-transition: height .5s;
+    -moz-transition: height .5s;
+    -ms-transition: height .5s;
+    -o-transition: height .5s;
+    transition: height .5s
+}
+.search-options dd .items {
+    padding-top: 2px
+}
+.search-options dd .items a {
+    color: #666
+}
+.search-options dd .items a:hover {
+    color: #ff666b
+}
+.search-options dd .link {
+    float: left;
+    display: inline;
+    width: 202px;
+    height: 18px;
+    margin: 0 10px 8px 0;
+    overflow: hidden
+}
+.search-options dd a.more-btn {
+    position: absolute;
+    top: 3px;
+    right: 5px;
+    margin-right: 0;
+    padding: 0 20px 0 0;
+    color: #ff666b
+}
+.search-options dd a.more-btn:hover {
+    background-color: #fff;
+    text-decoration: none;
+}
+.search-options dd.dd-price {
+    overflow: visible;
+    z-index: 20
+}
+
+.sort {
+    margin: 6px 0 8px
+}
+.sort .sort_bd {
+    margin-left: -15px;
+    color: #bbb
+}
+.sort .sort_bd a {
+    margin: 0 15px;
+    color: #333;
+	cursor:pointer;
+}
+.sort .sort_bd a.current {
+    color: #ff666b
+}

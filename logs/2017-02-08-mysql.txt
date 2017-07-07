@@ -1,0 +1,21 @@
+2017-02-08T14:36:37+08:00:
+   sql:select id,mid,gid,account,reg_time,last_time,status from users where account='18312168363' and password='4c73f36c4fe32b7be7f89ae708290bbd'
+   result:[{"id":80,"mid":0,"gid":0,"account":"18312168363","reg_time":"0000-00-00 00:00:00","last_time":"0000-00-00 00:00:00","status":1}]
+2017-02-08T14:37:12+08:00:
+   sql:select id,mid,gid,account,reg_time,last_time,status from users where account='18312168363' and password='4c73f36c4fe32b7be7f89ae708290bbd'
+   result:[{"id":80,"mid":0,"gid":0,"account":"18312168363","reg_time":"0000-00-00 00:00:00","last_time":"0000-00-00 00:00:00","status":1}]
+2017-02-08T17:03:12+08:00:
+   sql:select id,mid,gid,account,reg_time,last_time,status from users where account='18312168363' and password='4c73f36c4fe32b7be7f89ae708290bbd'
+   result:[{"id":80,"mid":0,"gid":0,"account":"18312168363","reg_time":"0000-00-00 00:00:00","last_time":"0000-00-00 00:00:00","status":1}]
+2017-02-08T17:04:04+08:00:
+   sql:select id,mid,gid,account,reg_time,last_time,status from users where account='18312168363' and password='4c73f36c4fe32b7be7f89ae708290bbd'
+   result:[{"id":80,"mid":0,"gid":0,"account":"18312168363","reg_time":"0000-00-00 00:00:00","last_time":"0000-00-00 00:00:00","status":1}]
+2017-02-08T17:09:32+08:00:
+   sql:select id,mid,gid,account,reg_time,last_time,status from users where account='18312168364' and password='4c73f36c4fe32b7be7f89ae708290bbd'
+   result:[]
+2017-02-08T17:09:37+08:00:
+   sql:select id,mid,gid,account,reg_time,last_time,status from users where account='18312168363' and password='4c73f36c4fe32b7be7f89ae708290bbd'
+   result:[{"id":80,"mid":0,"gid":0,"account":"18312168363","reg_time":"0000-00-00 00:00:00","last_time":"0000-00-00 00:00:00","status":1}]
+2017-02-08T17:46:09+08:00:
+   sql:select id,mid,gid,account,reg_time,last_time,status from users where id=80
+   result:[{"id":80,"mid":0,"gid":0,"account":"18312168363","reg_time":"0000-00-00 00:00:00","last_time":"0000-00-00 00:00:00","status":1}]

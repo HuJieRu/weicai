@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      	<% include ../common/header.html  %> 
+        <link rel="stylesheet" type="text/css" href="/css/plugs/bootstrap.min.css" />
+    </head>
+  
+    <body style="background-color: #FAFAFA">
+    <% include ../common/head2.html  %>
+     <form class="form-horizontal" role="form">
+        <div class="form-group">
+          <label  class="col-sm-2 control-label"> <h4>商品</h4></label>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">商品名</label>
+          <div class="col-sm-3 check-content">
+            <%=info.name%>
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">原价</label>
+          <div class="col-sm-3 check-content">
+            <%=info.originalprice%>
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">价格</label>
+          <div class="col-sm-3 check-content">
+            <%=info.price%>
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">数量</label>
+          <div class="col-sm-3 check-content">
+            <%=info.number%>
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">简介</label>
+          <div class="col-sm-3 check-content">
+            <%=info.caption%>
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">注意事项</label>
+          <div class="col-sm-3 check-content">
+           <%=info.notice%>
+          </div>
+        </div>
+         <div class="form-group">
+        <label  class="col-sm-2 control-label">标签</label>
+        <div class=" col-sm-3 check-content">
+            <%=info.tagname%>   
+         </div>
+        </div>
+      </div>
+       
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">分类</label>
+		   <div class="col-sm-3 check-content">
+           <%=info.typename%>
+          </div>
+         <!--  <div class="col-sm-2 check-content">
+              一级分类：
+          </div>
+           <div class="col-sm-2 check-content">
+			  二级分类：
+          </div> -->
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">商品图片</label>
+        </div>
+		 <div class="form-group">
+          <div class=" check-content" style="margin: 0 50px 0 160px;">
+		   <%info.image.split(",").forEach(function(src){%>
+			 <img src="<%=src%>"  class="check-image" />
+			 <%});%> 
+          </div>
+		   
+        </div>
+		<!--  <div class="form-group">
+        <label  class="col-sm-2 control-label">审核结果</label>
+        <div class=" col-sm-3 check-content">
+         不通过
+        </div>
+      </div>
+	  <div class="form-group">
+        <label  class="col-sm-2 control-label">不通过原因</label>
+        <div class=" col-sm-3 check-content">
+         图片不合法
+        </div>
+      </div> -->
+        <div class="form-group">
+          <div class="col-sm-offset-2 col-sm-3">
+            <a href="/commodity/editCommodity?id=<%=info.id%>" class="btn btn-primary">编辑</a>
+          </div>
+        </div>
+      </form>
+    <% include ../common/footer.html  %>                
+    </body>
+     <script src="/js/Jquery.js"></script>
+         <script type="text/javascript">
+           seajs.use([], function() {
+            
+          });
+         </script>   
+    </html>

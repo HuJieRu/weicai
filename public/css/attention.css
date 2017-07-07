@@ -1,0 +1,38 @@
+.attention-list{
+    margin-top: 5px;
+}
+ .attention{
+    border-top: 1px solid #ccc;
+    padding: 10px 0;
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+ }
+ .attention .face {
+        width: 50px;
+        height: 50px;
+        border-radius: 50px;
+        transition: .8s ease all;
+        -webkit-transition: .8s ease all;
+        -moz-transition: .8s ease all;
+        text-align: center;
+        vertical-align:middle;
+    }
+
+        .attentionattention .face:hover {
+            transform: rotate(360deg);
+            -webkit-transform: rotate(360deg);
+            -moz-transform: rotate(360deg);
+        }
+.attention .more{
+    font-size: 14px;
+    color: #666;
+	display: flex;
+    align-items: center;
+}
+.attention .more:hover{
+   color:#DB89F0;
+}
+.pro_list li{
+    margin-top: 0;
+}

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <% include ../common/header.html  %>
+        <link rel="stylesheet" type="text/css" href="/css/indentAndCart.css" />
+</head>
+    <body style="background-color: #FAFAFA" >
+        <% include ../common/head2.html  %>
+            <div class=" cart comWidth">
+				<h4 class="title">购物车</h4>
+                <form action="/commodity/indent" id="cart-form" method="get" class="form-horizontal">
+                    <table>
+                        <tbody>
+                            <tr >
+                                <th></th>
+                                <th>图片</th>
+                                <th>商品</th>
+                                <th>价格</th>
+                                <th>数量</th>
+                                <th>小计</th>
+                                <th>操作</th>
+                            </tr>
+                            <%if(data.length==0){%>
+                                <tr>
+                                    <th></th>
+                                    <th></th>
+                                    <th></th>
+                                    <th>购物车还没有东西哦</th>
+                                    <th></th>
+                                    <th></th>
+                                    <th></th>
+                                </tr>
+                                <%}%>
+                                    <%data.forEach(function(product){%>
+                                        <tr>
+                                            <td width="20">
+                                                <input type="checkbox" data-total="<%=product.total%>" class="check-box" name="sid[]" value="<%=product.sid%>">
+                                            </td>
+                                            <td width="60">
+                                                <img src="<%=product.image.split(",")[0]%>">
+                                            </td>
+                                            <td>
+                                                <a href="commoditySpecific?id=<%=product.id%>" >
+                                                    <%=product.name%>
+                                                </a>
+                                            </td>
+                                            <td>
+                                                ￥
+                                                <%=product.price%>
+                                            </td>
+                                            <td class="quantity" width="60">
+                                                <%=product.number%>
+                                            </td>
+                                            <td width="140">
+                                                <span class="subtotal">￥<%=product.total%></span>
+                                            </td>
+                                            <td>
+                                                <a href="/commodity/delete_shop_cart?id=<%=product.sid%>" class="delete">删除</a>
+                                            </td>
+                                        </tr>
+                                        <%});%>
+
+                        </tbody>
+                    </table>
+                    <button type="button" class="select-btn" id="selectAll">全选</button>
+                    <button type="button" class="select-btn" id="unSelect">全不选</button>
+
+                    <div class="total">
+                        <em id="promotion"></em> 商品金额: <strong>￥<span id="effectivePrice">0</span>元</strong>
+                    </div>
+                    <div class="bottom">
+                        <a href="/commodity/empty_shop_cart" id="clear" class="clear">清空购物车</a>
+                        <button type="submit" id="submit" class="submit " style=" background: #CA5FE3;color: #fff;padding: 5px;display: inline-block;">结算</button>
+                    </div>
+                </form>
+            </div>
+            <% include ../common/footer.html  %>
+    </body>
+    <script src="/js/Jquery.js"></script>
+    <script type="text/javascript">
+        seajs.use([], function() {
+            //监听checkbox的改变,从而改变总金额
+            $(".check-box").each(function() {
+                $(this).on("change", function(e) {
+                    var value = +$("#effectivePrice").text();
+                    if ($(this).prop("checked")) {
+                        value = value + $(this).data("total");
+                    } else {
+                        value = value - $(this).data("total");
+                    }
+                    $("#effectivePrice").text(value)
+                });
+            });
+            //表单提交
+            $("#submit").on("click", function() {
+                var canSubmit = false;
+                $(".check-box").each(function() {
+                    if ($(this).prop("checked")) { //如果有被选中的checkbox则提交表单
+                        canSubmit = true;
+                        $("#cart-form").submit();
+                    }
+                });
+                if (canSubmit == false) {
+                    alert("没有选中商品");
+                }
+            });
+            //全选，全不选
+            var checkboxs = $(".check-box");
+            $("#selectAll").click(function() {
+                checkboxs.each(function() {
+					 if (!$(this).prop("checked")) { 
+                        $(this).prop("checked",true);
+						$(this).change();
+                    } 
+                });
+
+            });
+            $("#unSelect").click(function() {
+                checkboxs.each(function() {
+                     if ($(this).prop("checked")) { 
+                        $(this).prop("checked",false);
+						$(this).change();
+                    } 
+                });
+            });
+
+        });
+    </script>
+
+</html>

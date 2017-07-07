@@ -1,0 +1,5594 @@
+
+2017-02-13T09:25:25+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:12
+    10|     
+    11|     <body>
+ >> 12| 	<%=JSON.stringify(userinfo())%>
+    13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+
+userinfo is not a function
+
+2017-02-13T09:25:25+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-13T09:25:25+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-13T09:25:44+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T09:25:44+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T09:25:44+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T09:25:44+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T09:25:59+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:12
+    10|     
+    11|     <body>
+ >> 12| 	<%=JSON.stringify(userinfo())%>
+    13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+
+userinfo is not a function
+
+2017-02-13T09:26:24+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T09:26:24+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T09:26:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T09:26:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T09:26:48+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T09:26:48+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T09:26:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T09:26:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T09:27:00+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T09:27:00+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T09:27:00+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T09:27:00+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T09:27:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T09:27:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T09:27:03+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T09:27:03+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T09:29:30+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T09:29:30+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T09:29:39+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T09:29:39+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T09:29:58+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T09:29:58+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T09:44:25+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T09:44:25+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T09:49:05+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T09:49:05+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T09:51:43+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T09:51:43+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T09:53:03+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T09:53:03+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T09:53:32+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T09:53:32+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T09:53:32+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-13T09:53:32+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-13T09:53:32+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-13T09:53:32+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-13T09:53:42+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T09:53:42+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T09:53:50+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T09:53:50+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T09:53:50+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-13T09:53:50+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-13T09:53:54+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T09:53:54+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T09:53:54+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T09:53:54+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T09:53:54+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T09:53:54+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T09:53:54+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T09:53:54+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T09:53:54+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T09:53:54+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T10:07:08+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T10:07:08+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T10:07:12+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T10:07:12+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T10:07:12+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T10:07:12+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T10:07:12+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T10:07:12+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T10:07:12+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T10:07:12+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T10:07:12+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T10:07:12+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T10:08:11+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T10:08:11+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T10:08:11+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-13T10:08:11+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T10:08:15+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T11:12:00+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T11:12:00+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T11:12:08+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T11:12:08+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T11:12:08+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T11:12:08+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T11:12:08+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T11:12:08+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T11:12:08+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T11:12:08+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T11:12:08+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T11:12:08+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T11:13:29+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T11:13:29+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T11:13:29+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T11:13:29+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T11:13:29+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T11:13:29+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T11:13:29+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T11:13:29+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T11:13:29+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T11:13:29+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T11:13:47+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T11:13:47+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T11:13:47+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T11:13:47+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T11:13:47+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T11:13:47+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T11:13:47+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T11:13:47+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T11:13:47+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T11:13:47+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T11:17:31+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T11:17:31+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T11:17:31+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T11:17:31+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T11:17:31+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T11:17:31+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T11:17:31+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T11:17:31+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T11:17:31+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T11:17:31+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T11:32:24+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T11:32:24+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T11:32:24+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T11:32:24+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T11:32:24+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T11:32:24+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T11:32:24+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T11:32:24+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T11:32:24+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T11:32:24+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T11:39:30+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-13T11:39:30+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-13T11:39:33+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T11:39:33+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T11:39:34+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T11:39:34+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T11:39:34+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T11:39:34+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T11:44:25+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:39
+    37|                                 <a href="../commodity/commoditySpecific" >
+    38|                                     <p class="pic">
+ >> 39|                                         <img width="150" height="150"  src="<%product.image.spilt(",")[0]%>"  />
+    40|                                     </p>
+    41|                                     <div class="btm cle">
+    42|                                         <span class="price">
+
+product.image.spilt is not a function
+
+2017-02-13T11:44:47+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T11:44:47+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T11:44:47+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T11:44:47+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T11:44:47+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T11:44:47+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T11:44:47+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T11:44:47+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T11:44:47+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T11:44:47+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T11:44:48+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T11:44:48+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T11:44:48+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T11:44:48+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T11:44:48+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-13T11:44:48+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-13T11:44:48+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T11:44:48+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T11:44:48+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T11:44:48+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T11:46:18+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T11:49:53+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:75
+    73|                     <div class="pro_list">
+    74|                         <ul class="cle">                       
+ >> 75|                             <%hot.forEach(function(product){%>						
+    76|                             <li>
+    77|                                 <a href="../commodity/commoditySpecific" >
+    78|                                     <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-13T11:50:05+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:75
+    73|                     <div class="pro_list">
+    74|                         <ul class="cle">                       
+ >> 75|                             <%hot.forEach(function(product){%>						
+    76|                             <li>
+    77|                                 <a href="../commodity/commoditySpecific" >
+    78|                                     <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-13T11:50:12+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:75
+    73|                     <div class="pro_list">
+    74|                         <ul class="cle">                       
+ >> 75|                             <%hot.forEach(function(product){%>						
+    76|                             <li>
+    77|                                 <a href="../commodity/commoditySpecific" >
+    78|                                     <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-13T11:50:29+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:75
+    73|                     <div class="pro_list">
+    74|                         <ul class="cle">                       
+ >> 75|                             <%hot.forEach(function(product){%>						
+    76|                             <li>
+    77|                                 <a href="../commodity/commoditySpecific" >
+    78|                                     <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-13T11:50:50+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:75
+    73|                     <div class="pro_list">
+    74|                         <ul class="cle">                       
+ >> 75|                             <%hot.forEach(function(product){%>						
+    76|                             <li>
+    77|                                 <a href="../commodity/commoditySpecific" >
+    78|                                     <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-13T11:50:51+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:75
+    73|                     <div class="pro_list">
+    74|                         <ul class="cle">                       
+ >> 75|                             <%hot.forEach(function(product){%>						
+    76|                             <li>
+    77|                                 <a href="../commodity/commoditySpecific" >
+    78|                                     <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-13T11:55:23+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T11:55:23+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T11:55:23+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T11:55:23+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T11:55:23+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T11:55:23+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T11:55:23+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T11:55:23+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T11:55:23+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T11:55:23+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T11:55:24+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T11:55:24+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T11:55:24+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T11:55:24+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:00:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:00:19+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T12:00:19+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T12:00:19+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T12:00:19+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T12:00:19+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T12:00:19+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T12:00:19+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-13T12:00:19+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-13T12:00:19+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T12:00:19+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:01:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:01:13+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:01:13+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:01:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:01:32+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:01:32+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:02:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:02:13+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:02:13+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:03:01+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:03:02+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:03:02+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:04:16+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:04:17+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:04:17+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:04:35+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:05:01+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:05:49+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:05:49+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:08:29+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:08:29+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:09:15+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:09:15+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:10:10+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:10:10+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:11:10+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:11:10+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:11:25+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:11:25+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:11:41+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:11:41+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T12:13:02+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T12:13:04+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:13:04+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:13:04+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:13:04+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:13:04+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:13:04+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:13:04+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:13:04+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:13:04+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:13:04+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:13:05+08:00: 
+     GET --- /commodity/indent : Can't set headers after they are sent.
+
+2017-02-13T12:13:11+08:00: 
+     GET --- /commodity/indent : Can't set headers after they are sent.
+
+2017-02-13T12:13:37+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:13:37+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:13:37+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:13:37+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:13:37+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:13:37+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:13:37+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:13:37+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:13:37+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:13:37+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:17:28+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:17:28+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:17:28+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:17:28+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:17:28+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:17:28+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:17:28+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:17:28+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:17:28+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T12:17:28+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T12:21:06+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:21:06+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:21:06+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:21:06+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:21:06+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:21:06+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:21:07+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T12:21:07+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T12:21:07+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:21:07+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:22:29+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:65
+    63|                     </div>
+    64|                 </div>
+ >> 65| 				<%if(schoolname){ %> 
+    66|                  <div class="series_box">
+    67|                     <div class="series_info cle">
+    68|                         <div class="series_title">
+
+schoolname is not defined
+
+2017-02-13T12:22:49+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:69
+    67|                     <div class="series_info cle">
+    68|                         <div class="series_title">
+ >> 69|                             <strong><a ><%=schoolname%>热销</a></strong>
+    70| 							<a >查看更多>></a>
+    71|                         </div>
+    72|                     </div>
+
+schoolname is not defined
+
+2017-02-13T12:23:02+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:75
+    73|                     <div class="pro_list">
+    74|                         <ul class="cle">                       
+ >> 75|                             <%hot.forEach(function(product){%>						
+    76|                             <li>
+    77|                                 <a href="../commodity/commoditySpecific?id=<%=product.id%>" >
+    78|                                     <p class="pic">
+
+hot is not defined
+
+2017-02-13T12:23:21+08:00: 
+     GET --- / : Missing catch or finally after try in /home/weicai/views/index/index.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-13T12:23:22+08:00: 
+     GET --- / : Missing catch or finally after try in /home/weicai/views/index/index.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-13T12:23:38+08:00: 
+     GET --- / : Missing catch or finally after try in /home/weicai/views/index/index.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:23:57+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:25:24+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:65
+    63|                     </div>
+    64|                 </div>
+ >> 65| 			<%=JSON.stringify(schoolname) %>
+    66|             </div>
+    67|         </div><!-- wrapper结束 -->
+    68| 		<% include ../common/footer.html  %>
+
+schoolname is not defined
+
+2017-02-13T12:25:36+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:65
+    63|                     </div>
+    64|                 </div>
+ >> 65| 			<%=JSON.stringify(hot) %>
+    66|             </div>
+    67|         </div><!-- wrapper结束 -->
+    68| 		<% include ../common/footer.html  %>
+
+hot is not defined
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:25:44+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:26:07+08:00: 
+     GET --- / : /home/weicai/views/index/index.html:65
+    63|                     </div>
+    64|                 </div>
+ >> 65| 				<%if(schoolname){ %> 
+    66|                  <div class="series_box">
+    67|                     <div class="series_info cle">
+    68|                         <div class="series_title">
+
+schoolname is not defined
+
+2017-02-13T12:27:31+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:27:31+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:27:31+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:27:31+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:27:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:27:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:27:31+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:27:31+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:27:32+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:27:32+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:27:32+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:27:32+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:27:42+08:00: 
+     GET --- /commodity/commoditySpecific?id=22 : Can't set headers after they are sent.
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T12:27:46+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T12:27:53+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:27:53+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:27:53+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:27:53+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:27:53+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:27:53+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:27:53+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:27:53+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:27:53+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:27:53+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:28:21+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:28:21+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:28:21+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:28:21+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:28:21+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-13T12:28:21+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-13T12:28:21+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:28:21+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:28:21+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:28:21+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:30:10+08:00: 
+     GET --- /commodity/commoditySpecific?id=22 : /home/weicai/views/commodity/commoditySpecific.html:14
+    12|                <div class="item_cover" id="item_cover">
+    13|                    <div class="view_bd">
+ >> 14|                        <img class="view" style="" src="<%=info.image.split(",")[0]%>"  />
+    15|                        <img class="view" style="display:none" src="<%=info.image.split(",")[0]%>"  />
+    16|                    </div>
+    17|                    <div class="view_thumbs">
+
+Cannot read property 'split' of undefined
+
+2017-02-13T12:30:28+08:00: 
+     GET --- /commodity/commoditySpecific?id=22 : /home/weicai/views/commodity/commoditySpecific.html:14
+    12|                <div class="item_cover" id="item_cover">
+    13|                    <div class="view_bd">
+ >> 14|                        <img class="view" style="" src="<%=info.image.split(",")[0]%>"  />
+    15|                        <img class="view" style="display:none" src="<%=info.image.split(",")[0]%>"  />
+    16|                    </div>
+    17|                    <div class="view_thumbs">
+
+Cannot read property 'split' of undefined
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:30:51+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:31:00+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:31:54+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:31:54+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:31:54+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:31:54+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:31:54+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:31:54+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:31:54+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:31:54+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:31:54+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T12:31:54+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T12:31:56+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:31:56+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:31:56+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:31:56+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:31:56+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:31:56+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:31:56+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:31:56+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T12:31:58+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T12:32:05+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:32:05+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:32:05+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:32:05+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:32:05+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:32:05+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:32:14+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:32:14+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:32:14+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:32:14+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:32:14+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:32:14+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T12:32:23+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T12:32:25+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:32:25+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:32:25+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:32:25+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:32:25+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:32:25+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:32:25+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:32:25+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:32:34+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:32:34+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:32:34+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:32:34+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:32:34+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:32:34+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:32:34+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:32:34+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:32:43+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:32:43+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:32:43+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:32:43+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:32:43+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:32:43+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:32:43+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:32:43+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:32:45+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:32:45+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:32:45+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:32:45+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:32:45+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:32:45+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:32:45+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:32:45+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:32:47+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:32:47+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:32:47+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:32:47+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:32:47+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:32:47+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:32:47+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:32:47+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:32:50+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T12:32:50+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T12:32:50+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T12:32:50+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T12:32:50+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T12:32:50+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T12:32:50+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T12:32:50+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T12:34:12+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:34:12+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:34:13+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:34:13+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:34:13+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T12:34:13+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T12:34:13+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:34:13+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:34:13+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:34:13+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:34:13+08:00: 
+     GET --- /commodity/commoditySpecific?id=22 : /home/weicai/views/commodity/commoditySpecific.html:14
+    12|                <div class="item_cover" id="item_cover">
+    13|                    <div class="view_bd">
+ >> 14|                        <img class="view" style="" src="<%=info.image.split(",")[0]%>"  />
+    15|                        <img class="view" style="display:none" src="<%=info.image.split(",")[0]%>"  />
+    16|                    </div>
+    17|                    <div class="view_thumbs">
+
+Cannot read property 'split' of undefined
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T12:34:19+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:14
+    12|                <div class="item_cover" id="item_cover">
+    13|                    <div class="view_bd">
+ >> 14|                        <img class="view" style="" src="<%=info.image.split(",")[0]%>"  />
+    15|                        <img class="view" style="display:none" src="<%=info.image.split(",")[0]%>"  />
+    16|                    </div>
+    17|                    <div class="view_thumbs">
+
+Cannot read property 'split' of undefined
+
+2017-02-13T12:36:18+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:14
+    12|                <div class="item_cover" id="item_cover">
+    13|                    <div class="view_bd">
+ >> 14|                        <img class="view" style="" src="<%=info.image.split(",")[0]%>"  />
+    15|                        <img class="view" style="display:none" src="<%=info.image.split(",")[0]%>"  />
+    16|                    </div>
+    17|                    <div class="view_thumbs">
+
+Cannot read property 'split' of undefined
+
+2017-02-13T12:36:24+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T12:36:24+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T12:36:24+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T12:36:24+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T12:36:24+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T12:36:24+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T12:36:24+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T12:36:24+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T12:36:24+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T12:36:24+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T13:13:50+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:14
+    12|                <div class="item_cover" id="item_cover">
+    13|                    <div class="view_bd">
+ >> 14|                        <img class="view" style="" src="<%=info.image.split(",")[0]%>"  />
+    15|                        <img class="view" style="display:none" src="<%=info.image.split(",")[0]%>"  />
+    16|                    </div>
+    17|                    <div class="view_thumbs">
+
+Cannot read property 'split' of undefined
+
+2017-02-13T13:14:34+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:14
+    12|                <div class="item_cover" id="item_cover">
+    13|                    <div class="view_bd">
+ >> 14|                        <img class="view" style="" src="<%=info.image.split(",")[0]%>"  />
+    15|                        <img class="view" style="display:none" src="<%=info.image.split(",")[0]%>"  />
+    16|                    </div>
+    17|                    <div class="view_thumbs">
+
+Cannot read property 'split' of undefined
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T13:24:03+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T13:24:04+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T13:24:04+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T13:24:04+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-13T13:24:04+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-13T13:24:04+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T13:24:04+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T13:24:22+08:00: 
+     GET --- /commodity/commoditySpecific?id=22 : /home/weicai/views/commodity/commoditySpecific.html:14
+    12|                <div class="item_cover" id="item_cover">
+    13|                    <div class="view_bd">
+ >> 14|                        <img class="view" style="" src="<%=info.image.split(",")[0]%>"  />
+    15|                        <img class="view" style="display:none" src="<%=info.image.split(",")[0]%>"  />
+    16|                    </div>
+    17|                    <div class="view_thumbs">
+
+Cannot read property 'split' of undefined
+
+2017-02-13T13:24:26+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:14
+    12|                <div class="item_cover" id="item_cover">
+    13|                    <div class="view_bd">
+ >> 14|                        <img class="view" style="" src="<%=info.image.split(",")[0]%>"  />
+    15|                        <img class="view" style="display:none" src="<%=info.image.split(",")[0]%>"  />
+    16|                    </div>
+    17|                    <div class="view_thumbs">
+
+Cannot read property 'split' of undefined
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:25:26+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:28:40+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : Can't set headers after they are sent.
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T13:28:43+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T13:28:45+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:28:45+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:28:45+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:28:45+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:28:45+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:28:45+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:28:45+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:28:45+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:28:53+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:28:53+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:28:53+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:28:53+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:28:53+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:28:53+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:28:53+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:28:53+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:29:43+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:29:43+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:29:43+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:29:43+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:29:43+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:29:43+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:29:43+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:29:43+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:32:47+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:32:47+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:32:47+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:32:47+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:32:47+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:32:47+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:32:47+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:32:47+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:33:56+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:33:56+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:33:56+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:33:56+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:33:56+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:33:56+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:33:56+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:33:56+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:34:48+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:34:48+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:34:48+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:34:48+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:34:48+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:34:48+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:34:48+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:34:48+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:36:34+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:110
+    108|                             <div class="commodity">
+    109|                                 <p class="content"><%=info.caption%></p>
+ >> 110| 								<%info.image.forEach(function(src){%>	
+    111|                                 <img src="src" >
+    112| 								 <%});%>  
+    113|                             </div>
+
+info.image.forEach is not a function
+
+2017-02-13T13:36:55+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:110
+    108|                             <div class="commodity">
+    109|                                 <p class="content"><%=info.caption%></p>
+ >> 110| 								<%info.image.forEach(function(src){%>	
+    111|                                 <img src="<%=src%>" >
+    112| 								 <%});%>  
+    113|                             </div>
+
+info.image.forEach is not a function
+
+2017-02-13T13:36:57+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:110
+    108|                             <div class="commodity">
+    109|                                 <p class="content"><%=info.caption%></p>
+ >> 110| 								<%info.image.forEach(function(src){%>	
+    111|                                 <img src="<%=src%>" >
+    112| 								 <%});%>  
+    113|                             </div>
+
+info.image.forEach is not a function
+
+2017-02-13T13:37:05+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:110
+    108|                             <div class="commodity">
+    109|                                 <p class="content"><%=info.caption%></p>
+ >> 110| 								<%info.image.forEach(function(src){%>	
+    111|                                 <img src="<%=src%>" />
+    112| 								 <%});%>  
+    113|                             </div>
+
+info.image.forEach is not a function
+
+2017-02-13T13:37:06+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:110
+    108|                             <div class="commodity">
+    109|                                 <p class="content"><%=info.caption%></p>
+ >> 110| 								<%info.image.forEach(function(src){%>	
+    111|                                 <img src="<%=src%>" />
+    112| 								 <%});%>  
+    113|                             </div>
+
+info.image.forEach is not a function
+
+2017-02-13T13:37:37+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:110
+    108|                             <div class="commodity">
+    109|                                 <p class="content"><%=info.caption%></p>
+ >> 110| 								<%info.image.forEach(function(src){%>	
+    111|                                 <img src="img/hongtangjiangshui.jpg" alt="">
+    112| 								 <%});%>  
+    113|                             </div>
+
+info.image.forEach is not a function
+
+2017-02-13T13:37:46+08:00: 
+     GET --- /commodity/commoditySpecific?id=21 : /home/weicai/views/commodity/commoditySpecific.html:110
+    108|                             <div class="commodity">
+    109|                                 <p class="content"></p>
+ >> 110| 								<%info.image.forEach(function(src){%>	
+    111|                                 <img src="img/hongtangjiangshui.jpg" alt="">
+    112| 								 <%});%>  
+    113|                             </div>
+
+info.image.forEach is not a function
+
+2017-02-13T13:38:16+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:38:16+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:38:16+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:38:16+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:38:16+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:38:16+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:38:16+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:38:16+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:38:16+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:38:16+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:38:28+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:38:28+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:38:28+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:38:28+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:38:28+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:38:28+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:38:28+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:38:28+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:38:28+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:38:28+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:38:48+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:39:06+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:39:06+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:39:06+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:39:06+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:39:06+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:39:06+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:39:07+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:39:07+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:39:07+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:39:07+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:39:29+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:39:29+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:39:29+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:39:29+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:39:29+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:39:29+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:39:29+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:39:29+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:39:29+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:39:29+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:40:39+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:40:39+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:40:39+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:40:39+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:40:39+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:40:39+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:40:39+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:40:39+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:40:39+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:40:39+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:41:29+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:41:29+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:41:29+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:41:29+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:41:29+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:41:29+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:41:29+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:41:29+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:41:29+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:41:29+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:41:30+08:00: 
+     POST --- /commodity/commoditySpecific?id=21 : undefined
+
+2017-02-13T13:41:30+08:00: 
+     POST --- /commodity/commoditySpecific?id=21 : Not Found
+
+2017-02-13T13:41:49+08:00: 
+     POST --- /commodity/commoditySpecific?id=21 : undefined
+
+2017-02-13T13:41:49+08:00: 
+     POST --- /commodity/commoditySpecific?id=21 : Not Found
+
+2017-02-13T13:42:35+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:42:35+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:42:35+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:42:35+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:42:35+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:42:35+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:42:35+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:42:35+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:42:35+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T13:42:35+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T13:42:36+08:00: 
+     POST --- /commodity/cart : undefined
+
+2017-02-13T13:42:36+08:00: 
+     POST --- /commodity/cart : Not Found
+
+2017-02-13T13:43:14+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:43:14+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:43:14+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:43:14+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:43:43+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T13:43:43+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T13:43:43+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T13:43:43+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T13:43:44+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:43:44+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:44:46+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:44:46+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:54:18+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:54:18+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:54:20+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:54:20+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:54:22+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:54:22+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:54:28+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:54:28+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:54:35+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:54:35+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:54:53+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:54:53+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:54:56+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:54:56+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:55:02+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:55:02+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:55:29+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-13T13:55:29+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T13:55:33+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T13:55:38+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T13:55:38+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T13:55:38+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:55:38+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:55:38+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-13T13:55:38+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-13T13:55:38+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:55:38+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:55:38+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-13T13:55:38+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-13T13:55:41+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T13:55:50+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T13:55:57+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:55:57+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:56:39+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:56:39+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:56:41+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:56:41+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:56:41+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:56:41+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:56:57+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:56:57+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:57:04+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:57:04+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:58:43+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:58:43+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:58:45+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:58:45+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:58:49+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:58:49+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T13:59:03+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T13:59:03+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T14:00:03+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T14:00:03+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T14:00:15+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T14:00:15+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T14:01:32+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T14:01:32+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T14:01:32+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T14:01:32+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T14:01:32+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:01:32+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:01:32+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T14:01:32+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T14:01:45+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:01:45+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:01:55+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:01:55+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:02:02+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:02:02+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:02:19+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:02:20+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:03:34+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:03:34+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:03:34+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T14:03:34+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T14:03:34+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T14:03:34+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T14:03:34+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T14:03:34+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T14:03:44+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:03:44+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:03:50+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:03:50+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:03:54+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:03:54+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:04:40+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:04:40+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:07:03+08:00: 
+     GET --- /commodity/cart : /home/weicai/views/commodity/cart.html:49
+    47|                     </td>
+    48|                     <td>
+ >> 49|                         <a href="/commodity/delete_shop_cart?id=<%=procuct.id%>" class="delete">删除</a>
+    50|                     </td>
+    51|                 </tr>
+    52| 				<%});%> 
+
+procuct is not defined
+
+2017-02-13T14:07:12+08:00: 
+     GET --- /commodity/cart : /home/weicai/views/commodity/cart.html:49
+    47|                     </td>
+    48|                     <td>
+ >> 49|                         <a href="/commodity/delete_shop_cart?id=<%=procuct.id%>" class="delete">删除</a>
+    50|                     </td>
+    51|                 </tr>
+    52| 				<%});%> 
+
+procuct is not defined
+
+2017-02-13T14:07:37+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:07:37+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:07:40+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:07:40+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:07:51+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:07:51+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:07:52+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:07:52+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:07:59+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:07:59+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:08:00+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:08:00+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:08:01+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:08:01+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:08:02+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:08:02+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:08:03+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:08:03+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:08:04+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:08:04+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:08:05+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:08:05+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:08:06+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:08:06+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:08:19+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:08:19+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:10:25+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:10:25+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:10:26+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:10:26+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:10:27+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:10:27+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:10:28+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:10:28+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:10:29+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:10:29+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:10:30+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:10:30+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:10:30+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:10:30+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:10:32+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:10:32+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:10:33+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:10:33+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:12:11+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:12:11+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:13:35+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:13:35+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:13:56+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:13:56+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:15:18+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:15:18+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:16:29+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:16:29+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:16:57+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:16:57+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:19:44+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:19:46+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:19:46+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:19:46+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T14:19:46+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T14:19:46+08:00: 
+     GET --- /upload/files/148688657466445.jpg : undefined
+
+2017-02-13T14:19:46+08:00: 
+     GET --- /upload/files/148688657466445.jpg : Not Found
+
+2017-02-13T14:19:46+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T14:19:46+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T14:19:46+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T14:19:46+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T14:19:48+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:19:48+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:19:53+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T14:19:53+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T14:19:53+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T14:19:53+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T14:19:53+08:00: 
+     GET --- /upload/files/148679608118215.jpg : undefined
+
+2017-02-13T14:19:53+08:00: 
+     GET --- /upload/files/148679608118215.jpg : Not Found
+
+2017-02-13T14:19:53+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T14:19:53+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T14:20:01+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T14:20:01+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T14:20:01+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T14:20:01+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T14:20:01+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T14:20:01+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T14:20:01+08:00: 
+     GET --- /upload/files/148679517468431.jpg : undefined
+
+2017-02-13T14:20:01+08:00: 
+     GET --- /upload/files/148679517468431.jpg : Not Found
+
+2017-02-13T14:20:40+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:20:40+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:20:40+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T14:20:40+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T14:20:40+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T14:20:40+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T14:20:47+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:20:47+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:20:47+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:20:47+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:21:29+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:21:29+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:21:29+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:21:29+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:21:39+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:21:39+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:21:39+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:21:39+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:22:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:22:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:22:18+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:22:18+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:22:37+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:22:37+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-13T14:22:38+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-13T14:23:06+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T14:23:06+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T14:23:06+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T14:23:06+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T14:23:06+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T14:23:06+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T14:23:09+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:23:09+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:23:09+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:23:09+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:23:18+08:00: 
+     GET --- /commodity/commodity/indent?sid%5B%5D=18&id=22&sid%5B%5D=17&id=22 : undefined
+
+2017-02-13T14:23:18+08:00: 
+     GET --- /commodity/commodity/indent?sid%5B%5D=18&id=22&sid%5B%5D=17&id=22 : Not Found
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T14:23:24+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T14:23:29+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:23:29+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:23:29+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:23:29+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:23:55+08:00: 
+     GET --- /commodity/commodity/indent?sid%5B%5D=18&id=22&sid%5B%5D=17&id=22 : undefined
+
+2017-02-13T14:23:55+08:00: 
+     GET --- /commodity/commodity/indent?sid%5B%5D=18&id=22&sid%5B%5D=17&id=22 : Not Found
+
+2017-02-13T14:23:57+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:23:57+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:23:57+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:23:57+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:24:40+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:24:40+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:24:40+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:24:40+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:25:16+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:25:16+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:25:16+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:25:16+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:27:55+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:27:55+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:27:55+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:27:55+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:29:36+08:00: 
+     GET --- /commodity/cart : Can't set headers after they are sent.
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T14:29:39+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T14:29:40+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:29:40+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:29:40+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:29:40+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:30:38+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T14:30:38+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T14:30:43+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:30:43+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:30:43+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:30:43+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:30:47+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T14:30:47+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T14:31:13+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T14:31:13+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T14:31:38+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:31:38+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:31:38+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:31:38+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:31:40+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-13T14:31:40+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T14:38:18+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T14:38:19+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T14:38:19+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:38:19+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:38:19+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:38:19+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:38:23+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:38:23+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:38:39+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:38:39+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:38:51+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:38:51+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:39:06+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:39:06+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:39:27+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:39:27+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:39:36+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:39:36+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:40:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:40:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:40:18+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:40:18+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:40:21+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:40:21+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:41:25+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:41:25+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:41:25+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:41:25+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:42:07+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:42:07+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:42:07+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:42:07+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:42:12+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:42:12+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:42:12+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:42:12+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T14:49:48+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T14:49:51+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-13T14:49:51+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-13T14:49:51+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T14:49:51+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T14:49:51+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-13T14:49:51+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-13T14:49:52+08:00: 
+     GET --- /personCenter/myIndent : /home/weicai/views/personCenter/myIndent.html:9
+    7|     </head>
+    8|     <body style="background-color: #FAFAFA">
+ >> 9|      <% include ../common/head.html  %>
+    10|         <!-- Begin Wrapper -->
+    11|         <div id="wrapper">
+    12|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data is not defined
+
+2017-02-13T14:51:48+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:51:48+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:51:48+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:51:48+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:51:55+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:51:55+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:51:55+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:51:55+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:52:38+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:52:38+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:52:39+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:52:39+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:55:37+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:55:37+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:55:37+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:55:37+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:56:01+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:56:01+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:56:01+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:56:01+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:56:07+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:56:07+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:56:07+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:56:07+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:56:59+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:56:59+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:56:59+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:56:59+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:57:20+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:57:20+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T14:57:20+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:57:20+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:58:08+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T14:58:08+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T14:58:08+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T14:58:08+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:01:16+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:01:16+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:01:16+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:01:16+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:02:43+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:02:43+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:02:43+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:02:43+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:03:32+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:03:32+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:03:32+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:03:32+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:08:13+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:08:13+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:08:13+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:08:13+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:08:36+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:08:36+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:08:36+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:08:36+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:10:32+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:10:32+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:10:32+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:10:32+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:10:53+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:10:53+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:10:53+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T15:10:53+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T15:10:53+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T15:10:53+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T15:10:53+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T15:10:53+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T15:10:55+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:10:55+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:10:55+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:10:55+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:10:55+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:10:55+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:11:06+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:11:06+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:11:06+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:11:06+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:11:06+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:11:06+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:11:22+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:11:22+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:11:57+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:11:57+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:12:39+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:12:39+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:12:54+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:12:54+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:22:52+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:22:52+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:22:52+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:22:52+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:22:52+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:22:52+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T15:23:15+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T15:23:17+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:23:17+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:23:17+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:23:17+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:23:17+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:23:17+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:30:09+08:00: 
+     GET --- /commodity/cart : Can't set headers after they are sent.
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T15:30:12+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T15:30:16+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:30:16+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:30:16+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:30:16+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:30:16+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:30:16+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:30:59+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:30:59+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:30:59+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:30:59+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:30:59+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:30:59+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:32:28+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:32:28+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:32:28+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:32:28+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:32:28+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:32:28+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:32:38+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:32:38+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:32:38+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:32:38+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:32:38+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:32:38+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:42:27+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:42:27+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:42:27+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:42:27+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:42:27+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:42:27+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:43:04+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:43:04+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:43:04+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:43:04+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:43:04+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:43:04+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:43:06+08:00: 
+     GET --- /commodity/indent? : Can't set headers after they are sent.
+
+2017-02-13T15:43:06+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:43:06+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:43:06+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:43:06+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:43:06+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:43:06+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:43:11+08:00: 
+     GET --- /commodity/indent? : Can't set headers after they are sent.
+
+2017-02-13T15:43:11+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:43:11+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:43:11+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:43:11+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:43:11+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:43:11+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:43:15+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:43:15+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:43:15+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:43:15+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:50:05+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:50:06+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:50:06+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:50:06+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T15:50:06+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T15:50:06+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T15:50:06+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T15:50:41+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:50:41+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:50:41+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:50:41+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:50:41+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:50:41+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:50:43+08:00: 
+     GET --- /commodity/indent? : Can't set headers after they are sent.
+
+2017-02-13T15:50:43+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:50:43+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:50:43+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T15:50:43+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T15:50:43+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T15:50:43+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T15:50:46+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:50:46+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:54:04+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:54:04+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:54:08+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:54:08+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:54:17+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:54:17+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:55:38+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:55:38+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:57:44+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:57:44+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T15:59:59+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T15:59:59+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:04:35+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:04:35+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:05:24+08:00: 
+     POST --- /pay : undefined
+
+2017-02-13T16:05:24+08:00: 
+     POST --- /pay : Not Found
+
+2017-02-13T16:25:25+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:25:25+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:25:46+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:25:46+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:26:16+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:26:16+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:26:33+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:26:33+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:26:38+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-13T16:26:38+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T16:26:41+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T16:26:47+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-13T16:26:47+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-13T16:26:47+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T16:26:47+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T16:26:47+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T16:26:47+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T16:26:47+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T16:26:47+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T16:26:47+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-13T16:26:47+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-13T16:26:48+08:00: 
+     POST --- /pay : undefined
+
+2017-02-13T16:26:48+08:00: 
+     POST --- /pay : Not Found
+
+2017-02-13T16:26:51+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T16:26:51+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T16:26:51+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T16:26:51+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T16:26:51+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T16:26:51+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T16:26:56+08:00: 
+     POST --- /pay : undefined
+
+2017-02-13T16:26:56+08:00: 
+     POST --- /pay : Not Found
+
+2017-02-13T16:27:00+08:00: 
+     POST --- /pay : undefined
+
+2017-02-13T16:27:00+08:00: 
+     POST --- /pay : Not Found
+
+2017-02-13T16:27:49+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:27:49+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:28:11+08:00: 
+     GET --- /commodity/commodity/myIndent : undefined
+
+2017-02-13T16:28:11+08:00: 
+     GET --- /commodity/commodity/myIndent : Not Found
+
+2017-02-13T16:30:16+08:00: 
+     GET --- /commodity/indent?sid%5B%5D=17 : Can't set headers after they are sent.
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T16:30:20+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T16:30:24+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T16:30:25+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T16:30:25+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T16:30:25+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T16:30:25+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T16:30:25+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T16:30:25+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T16:30:25+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T16:30:25+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T16:30:30+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T16:30:30+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T16:30:30+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T16:30:30+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T16:30:30+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:30:30+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:30:35+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:30:35+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:30:35+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T16:30:35+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T16:30:50+08:00: 
+     GET --- /commodity/commodity/myIndent : undefined
+
+2017-02-13T16:30:50+08:00: 
+     GET --- /commodity/commodity/myIndent : Not Found
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T16:32:56+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T16:33:00+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T16:33:00+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T16:33:00+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T16:33:00+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T16:33:00+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:33:00+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:33:17+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-13T16:33:17+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-13T16:33:17+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T16:33:17+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T16:33:17+08:00: 
+     GET --- /upload/files/148688657466445.jpg : undefined
+
+2017-02-13T16:33:17+08:00: 
+     GET --- /upload/files/148688657466445.jpg : Not Found
+
+2017-02-13T16:33:17+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-13T16:33:17+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-13T16:33:17+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-13T16:33:17+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-13T16:33:21+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8| 	<% include ../common/head.html  %>
+    9|   <%=JSON.stringify(goods)%>
+    10|      <div id="wrapper">
+    11|         
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-13T17:37:46+08:00: 
+     GET --- /commodity/indent?sid%5B%5D=7 : Can't set headers after they are sent.
+
+2017-02-13T17:37:50+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T17:37:50+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T17:37:50+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T17:37:50+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T17:37:50+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T17:37:50+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T17:37:50+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T17:37:50+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T17:37:50+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T17:37:50+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T17:37:51+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T17:37:51+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T17:37:53+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-13T17:37:53+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-13T17:37:53+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T17:37:53+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T17:37:54+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-13T17:37:54+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-13T17:37:55+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T17:37:55+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T17:37:55+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T17:37:55+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T17:37:55+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T17:37:55+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T17:37:55+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T17:37:55+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T17:38:14+08:00: 
+     GET --- /commodity/commodity/myIndent : undefined
+
+2017-02-13T17:38:14+08:00: 
+     GET --- /commodity/commodity/myIndent : Not Found
+
+2017-02-13T18:07:44+08:00: 
+     GET --- /commodity/commoditySpecific?id=22 : Can't set headers after they are sent.
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-13T18:07:47+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-13T18:07:48+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T18:07:48+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T18:07:48+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T18:07:48+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T18:07:48+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T18:07:48+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T18:08:36+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T18:08:36+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T18:08:36+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T18:08:36+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T18:08:36+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T18:08:36+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T18:08:49+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-13T18:08:49+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-13T18:08:49+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-13T18:08:49+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-13T18:08:49+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T18:08:49+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T18:08:50+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T18:08:50+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T18:12:13+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T18:12:13+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T18:13:49+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-13T18:13:49+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-13T18:13:49+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-13T18:13:49+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-13T18:13:49+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-13T18:13:49+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-13T18:13:49+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T18:13:49+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T18:13:59+08:00: 
+     GET --- /commodity/indent? : Can't set headers after they are sent.
+
+2017-02-13T18:16:04+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T18:16:04+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T18:20:05+08:00: 
+     GET --- /upload/files/14868865746642.jpg : undefined
+
+2017-02-13T18:20:05+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Not Found
+
+2017-02-13T18:28:16+08:00: 
+     GET --- /commodity/myIndent : orderssmodel.getOrders is not a function
+
+2017-02-13T18:28:29+08:00: 
+     GET --- /commodity/myIndent : orderssmodel.getOrders is not a function
+
+2017-02-13T18:30:20+08:00: 
+     GET --- /commodity/myIndent : orderssmodel.getOrders is not a function
+
+2017-02-13T18:31:45+08:00: 
+     GET --- /commodity/myIndent : Failed to lookup view "commodity/myIndent" in views directory "/home/weicai/views"

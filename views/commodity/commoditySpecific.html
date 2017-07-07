@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+         <% include ../common/header.html  %>
+        <link rel="stylesheet" type="text/css" href="/css/commoditySpecific.css"/>
+    </head>
+    <body style="background-color: #FAFAFA">
+      <% include ../common/head.html  %>
+
+        <div id="content">
+           <div class="detail cle" >
+               <div class="item_cover" id="item_cover">
+                   <div class="view_bd">
+                       <img class="view" style="" src="<%=info.image.split(",")[0]%>"  />
+                       <img class="view" style="display:none" src="<%=info.image.split(",")[0]%>"  />
+                   </div>
+                   <div class="view_thumbs">
+                       <ul class="cle" style="width: auto">
+                           <li class="current">
+                               <img src="<%=info.image.split(",")[0]%>"  />
+                               <i class="iconfont arrow">^</i>
+                           </li>
+                          
+                       </ul>
+                   </div>
+               </div>
+
+               <form action="/commodity/push_cart" id="push-cart-form" method="post">
+                   <div class="item_box">
+                       <dl class="item_detail">
+                           <dt class="product_name">
+                           <h1 ><%=info.name%></h1>
+                           <p class="desc"><%=info.notice%></p>
+                       </dt>
+                           <dd id="item_info" >
+                               <ul class="property">
+                                   <li class="cancel">
+                                       <span class="lbl">原&nbsp;&nbsp;&nbsp;价</span>
+                                       <em class="price" id="s_price">&#165;<%=info.originalprice%></em>
+                                   </li>
+                                   <li>
+                                       <span class="lbl">价&nbsp;&nbsp;&nbsp;格</span>
+                                       <em class="price price-val-for-dyn-upd" id="s_nowprice" >￥<span class="price-val-for-dyn-upd-873"><%=info.price%></span> </em>
+                                   </li>
+                                   <li>
+                                       <span class="lbl">标&nbsp;&nbsp;&nbsp;签</span>
+                                      <span ><%=info.tagname%></span> 
+                                   </li>
+                                   <li>
+                                       <span class="lbl">销&nbsp;&nbsp;&nbsp;量</span>
+                                       <span>
+                                       最近售出
+                                       <em class="orange"><%=info.sales%></em>
+                                       件
+                                   </span>
+                                   </li>
+                                   <li>
+										<span class="lbl">库&nbsp;&nbsp;&nbsp;存</span>
+                                       <span>
+                                       
+									   <em class="orange"><%=info.number%></em>
+									   件
+										</span>
+                                   </li>
+                               </ul>
+                               <ul class="tobuy_box">
+                                   <li class="skunum_li cle">
+                                       <span class="lbl">数&nbsp;&nbsp;&nbsp;量</span>
+                                       <div class="skunum" id="s_num">
+                                           <span class="num_op minus" title="减少一个数量">
+                                                   <i class="iconfont">-</i>
+                                           </span>
+                                           <input name="number" id="Quantity" min="1" type="text" value="1">
+										   <input name="id" type="hidden" value="<%=info.id%>">
+                                           <span class="num_op add" title="增加一个数量">
+                                                   <i class="iconfont"> +</i>
+                                           </span>
+                                           <cite class="storage">
+                                            件
+                                           </cite>
+                                       </div>
+                                   </li>
+                                   <li class="add_cart_li">
+                                       <button  type="button" class="btn" id="pushChartBtn">
+                                           <!-- <i class="iconfont">ŭ</i> --> 加入购物车
+                                       </button>
+                                   </li>
+                               </ul>
+                           </dd>
+                       </dl>
+                   </div>
+               </form>
+               <div class="attention">
+                  <a class="item <%=info.coll==0?"":"item-complete"%>"  data-status="<%=info.coll%>" data-url="/coll/collection" data-id="<%=info.id%>"><span><%=info.coll==0?"":"取消"%></span>收藏商品</a>
+                   <a class="item <%=info.followstudent==0?"":"item-complete"%>" data-status="<%=info.followstudent%>" data-url="/follow/followStudent" data-id="<%=info.uid%>"><span><%=info.followstudent==0?"":"取消"%></span>关注<%=info.username%></a>
+                   <a class="item <%=info.followschool==0?"":"item-complete"%>" data-status="<%=info.followschool%>" data-url="/follow/followSchool" data-id="<%=info.sid%>"><span><%=info.followschool==0?"":"取消"%></span>关注<%=info.schoolname%></a>
+               </div>
+               
+           </div>
+		
+           <div class="detail_page">
+               <div class="detail_main cle">
+                    <div class="tab">
+                        <ul class="tab_menu">
+                            <li class="selected">商品详情</li>
+                            <li>评价详情</li>  
+                        </ul> 
+                        <div class="tab_box">
+                            <div class="commodity">
+                                <p class="content"><%=info.caption%></p>
+								<%info.image.split(",").forEach(function(src){%>	
+                                <img src="<%=src%>" alt="">
+								 <%});%>  
+                            </div>
+                            <div class="sectionbox hide" id="part_comment">
+                                  <%if(comm.length!=0){%>
+                                   <div class="cmt_point cle">
+                                       <div class="d_left">
+                                           
+                                           <div class="list">
+                                               <ul id="cmt_point_list">
+                                                   <li>
+                                                       <label>好评：</label>
+                                                       <p>
+                                                           <span style='width:<%=good%>%'></span>
+                                                       </p>
+                                                       <em><%=good%>%</em>
+                                                   </li>
+                                                   <li>
+                                                       <label>中评：</label>
+                                                       <p>
+                                                           <span style='width:<%=medium%>%'></span>
+                                                       </p>
+                                                       <em><%=medium%>%</em>
+                                                   </li>
+                                                   <li>
+                                                       <label>差评：</label>
+                                                       <p>
+                                                           <span style='width:<%=bad%>%'></span>
+                                                       </p>
+                                                       <em><%=bad%>%</em>
+                                                   </li>
+                                               </ul>
+                                           </div>
+                                       </div>
+                                   </div>
+								   <%}%>
+                                   <div class="comment_box">
+
+                                       <div class="comment_list" id="comment_list">
+									    <%if(comm.length==0){%>
+										<div class="commodity-hint"><img  src="/img/hint2.gif"  />很抱歉，暂时还没有评论</div>
+										<%}%>
+									    <%comm.forEach(function(comm){%>
+                                           <div class="com_md cle">
+                                               <div class="com_md_left">
+                                                   <img class="face" src="<%=comm.avatar%>">
+                                               </div>
+                                               <div class="com_md_right">
+                                                   <div class="com_md_right_head cle">
+                                                       <div class="fl">
+                                                           <span class="name"><%=comm.nickname%></span>
+                                                       </div>
+                                                       <div class="fr">
+															
+                                                           <span class="com_time"><%=comm.level==1?"好评":(comm.level==2?"中评":"差评")%>&nbsp;<%=comm.create_time%></span>
+                                                       </div>
+                                                   </div>
+                                                   <div class="com_md_bd">
+                                                       <div class="text">
+                                                           <div class="text_bd">
+                                                               <%=comm.content%>
+                                                           </div>
+                                                       </div>
+                                                   </div>
+                                               </div>
+                                           </div>
+										<%});%>
+                                       </div>
+																		   
+                                   </div>
+                               </div>
+                        </div>
+                    </div>
+               </div>
+           </div>
+       </div><!-- content结束 -->
+ <% include ../common/footer.html  %>   
+    </body>
+    <script src="/js/Jquery1.7.js"></script>
+    <script type="text/javascript">
+    seajs.use(["Slide","Tab","ShopClass"], function() {
+	<!-- 	p.initPagination(); -->
+	//加入购物车
+	$('#pushChartBtn').on('click',function(){
+		if(<%=info.number%>==0){
+			alert('该商品已经卖完，无法购买。');
+		}else{
+			$('#push-cart-form').submit();
+		}
+	});
+	//数量的加减按钮
+     var numberInput=$("#Quantity");
+     $(".minus").on("click",function(){
+		if(numberInput.val()>1)
+		{
+			var value=numberInput.val();
+			value--;
+			numberInput.attr("value",value)
+		}else{
+			alert('数量不能小于0！');
+		}
+		
+	 });
+	 numberInput.on('blur',function(){
+		if($(this).val()<=0){
+			alert('数量不能小于0！');
+			$(this).val(1);
+		}
+		if($(this).val()>=<%=info.number%>){
+			alert('数量不能大于库存数！');
+			$(this).val(1);
+		}
+	 });
+	 $(".add").on("click",function(){
+		if(numberInput.val()<<%=info.number%>)
+		{
+			var value=numberInput.val();
+			value++;
+			numberInput.attr("value",value)
+		}else{
+			alert('数量不能大于库存数！');
+		}
+		
+	 });
+    //关注和取消关注
+	$(".attention").on("click",function(e){
+		var element=$(e.target);
+		var status=element.data("status")==0?1:0;
+		$.ajax({
+			method:"GET",
+			url:element.data("url"),
+			data:{id:element.data("id"),status:status},
+			success:function(data){
+				var error_code=data.error_code;
+				if(error_code==0){//请求成功
+					if(status==1){//关注
+						element.addClass("item-complete");
+						element.find("span").html("取消");
+						element.data("status",1);
+					}else{//取消关注
+						element.removeClass("item-complete");
+						element.find("span").html("");
+						element.data("status",0);
+					}
+				}else{
+					alert(data.content);
+				}
+				
+			}
+		})
+	});
+    });
+    </script>   
+</html>

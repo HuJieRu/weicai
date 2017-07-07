@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+         <% include ../common/header.html  %>
+       <link rel="stylesheet" type="text/css" href="/css/personalCenter.css" />
+       <link rel="stylesheet" type="text/css" href="/css/indentAndCart.css" />
+    </head>
+    <body style="background-color: #FAFAFA">
+     <% include ../common/head.html  %>
+        <!-- Begin Wrapper -->
+        <div id="wrapper">
+            <!-- Begin Sidebar -->
+            <div id="sidebar" >
+            <!-- Begin Menu -->
+            <div id="menu" class="menu-v">
+              <ul>
+                <li><a href="personalCenter">收藏的商品</a>
+                </li>
+                <li><a href="publish">发布的商品</a> 
+                </li>
+                <li><a href="myIndent"  class="active">我的订单</a>
+                </li>
+                <li><a href="attentionPerson">关注的同学</a>
+                </li>
+                <li><a href="attentionSchool">关注的学校</a></li>
+              </ul>
+            </div>
+            <!-- End Menu -->
+                                
+            </div>
+            <!-- End Sidebar -->
+ 
+            <!-- Begin Content -->
+            <div id="content">
+                <div class=" cart ">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th>图片</th>
+                                <th>商品</th>
+                                <th>价格</th>
+                                <th>数量</th>
+                                <th>小计</th>
+                                <th>状态</th>
+                                <th>操作</th>
+                            </tr>
+							<%if(indent.length==0){%>
+							 <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>您没有购买任何商品</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>	
+							<%}%>
+							 <%indent.forEach(function(product){%>
+                            <tr>
+                                <td width="60">
+                                    <input type="hidden" name="id" value="22">
+                                    <img src="<%=product.image.split(",")[0]%>">
+                                </td>
+                                <td>
+                                    <a href="/commodity/commoditySpecific?id=<%=product.gid%>"><%=product.name%></a>
+                                </td>
+                                <td>
+                                    ￥<%=product.price%>
+                                </td>
+                                <td class="quantity" width="60">
+                                    <%=product.number%>
+                                </td>
+                                <td width="140">
+                                    <span class="subtotal">￥<%=product.price*product.number%></span>
+                                </td>
+                                <td width="140">
+                                    <span style='color:#ca5fe3;'><%=product.payment_status==0?"待发货":product.payment_status==1?"已发货":product.payment_status==2?"已收货":"已评论"%></span>
+                                </td>
+                                <td>
+								<%if(product.payment_status==2){%>
+									 <a class="button" href="/personCenter/reviews?id=<%=product.oid%>">评论</a>
+								<%}%>
+                                <%if(product.payment_status==1){%>
+									 <a class="button" href="/personCenter/sign?id=<%=product.oid%>" >确认收货</a>
+								<%}%>  
+								  
+                                </td>
+                            </tr>
+                        </tbody>
+						 <%});%>
+                    </table>
+                </div>
+               <% include ../common/pages.html  %>        
+            </div>
+            <!-- End Content -->
+            
+        </div>
+        <!-- End Wrapper -->
+        <div class="clear"></div>
+        <% include ../common/footer.html  %>   
+    </body>
+         <script src="/js/Jquery1.7.js"></script>
+          <script type="text/javascript">
+          seajs.use(["PanginationControl","Slide","ShopClass"], function(p) {
+			p.initPagination({
+			page:"<%=page%>",
+			currentPage:<%=locals.get.p?(locals.get.p-1):0%>
+			});
+          });
+          </script> 
+</html>
+

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      
+       	<% include ../common/header.html  %>
+        <link rel="stylesheet" type="text/css" href="/css/plugs/bootstrap.min.css" />
+		
+    </head>
+    
+    <body style="background-color: #FAFAFA">
+    <% include ../common/head2.html  %>
+    <form class="form-horizontal" role="form" method="post" id="register-form">
+      <div class="form-group">
+        <label  class="col-sm-2 control-label"> <h4>注册</h4></label>
+      </div>
+       <div class="form-group">
+        <label  class="col-sm-2 control-label"><div class="col-sm-1">
+        </div>手机号</label>
+        <div class="col-sm-3">
+          <input type="text" name="phone" class="form-control"  placeholder="输入手机号" data-rule="手机号:required; mobile" data-rule-mobile="[/^1[3-9]\d{9}$/, '请填写有效的手机号']">
+        </div>
+		 
+      </div>
+      <div class="form-group">
+        <label  class="col-sm-2 control-label">密码</label>
+        <div class="col-sm-3">
+          <input type="password" name="password" class="form-control"  placeholder="输入密码"  data-rule="密码:required;password"
+            data-rule-password="[/^[\w\d]{6,16}$/, '请输入 6-16位 数字、字符、下划线']"
+            data-tip="你可以输入数字、字符、下划线">
+        </div>
+      </div>
+      <div class="form-group">
+        <label  class="col-sm-2 control-label">确认密码</label>
+        <div class="col-sm-3">
+          <input type="password" name="pwdAgain" class="form-control"  placeholder="输入确认密码" data-rule="确认密码: required; match(password)"
+		   data-tip="请再次输入同样的密码">
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-3">
+          <button type="summit" class="btn btn-primary">提交</button>
+        </div>
+      </div>
+    </form>
+         <% include ../common/footer.html  %>                
+    </body>
+	<script src="/js/Jquery.js"></script>
+        <script type="text/javascript">
+		 seajs.use(["Validator"], function() {
+              
+			
+		});
+        </script>
+    </html>

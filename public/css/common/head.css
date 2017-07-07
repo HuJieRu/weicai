@@ -1,0 +1,202 @@
+
+/*topbar*/
+
+.topBar {
+	height: 31px;
+	background-color:#363636;
+	line-height: 31px;
+}
+.topBar a {
+	color: #fff;
+}
+
+
+
+.fr .loginAndRegister {
+	float: left;
+	padding-right: 10px;
+}
+
+.ulContent {
+	float: left;
+}
+
+.ulContent li {
+	float: left;
+	background: url(../img/icon/line.png) no-repeat left center;
+	padding: 0 10px;
+}
+
+/*logo*/
+
+.logoBar {
+	height: 115px;
+	background-color: #FFFFFF;
+	margin-bottom: -17px;
+	padding: 0 100px;
+}
+
+.logo {
+	padding-left: 78px;
+	/* padding-top: 13px; */
+}
+
+
+/*search*/
+
+.searchBox {
+	width: 534px;
+	padding-top: 32px;
+	padding-left: 100px;
+}
+.searchBox li{
+	margin: 5px 10px;
+	float: left;
+	font-size: 12px;
+}
+.searchText {
+	width: 450px;
+	height: 35px;
+	background-color: #FFF;
+	border: 2px solid #ca5fe3;
+	line-height: 35px\9;
+	padding: 0 5px;
+}
+
+.searchBtn {
+	width: 70px;
+	height: 39px;
+	font-size: 14px;
+	font-family: "微软雅黑";
+	background-color: #ca5fe3;
+	color: #FFF
+}
+
+
+/*购物车*/
+
+.shopCar {
+	width: 88px;
+	height: 35px;
+	background-color: #CA5FE3;
+	margin-top: 32px;
+	margin-right: 70px;
+	text-align: center;
+	font: 14px/35px "微软雅黑";
+}
+
+.shopText {
+	color: #FFF;
+	height: 100%;
+	background: url(../img/icon/shop_car.png) 10px center no-repeat;
+	width: 87px;
+}
+
+/*.shopNum {
+	width: 27px;
+	height: 35px;
+	border-left: #F01A27 solid 1px;
+	background: url(../img/arrow_right.png) 33px center no-repeat;
+	text-align: right;
+	padding-right: 29px;
+}*/
+
+
+/*导航*/
+
+.navBox {
+	height: 43px;
+	color: #FFFFFF;
+
+	background-color:  #CA5FE3;
+}
+
+.shopClass {
+	width: 190px;
+	position: absolute;
+	z-index: 100;/*这个很重要*/
+}
+
+
+.nav-bar,.shopClass {
+	font-family: "微软雅黑";
+}
+
+.nav-bar {
+	line-height: 43px;
+	margin-left: 200px;
+	
+}
+
+.nav-bar li {
+	float: left;
+	
+}
+
+.nav-bar a {
+	height: 48px;
+	display: inline-block;
+	padding: 0 25px;
+	color: #fff;
+	font-size: 15px;
+}
+
+/*另外一个头部*/
+#header .hd_bar {
+    background-color: #222;
+    height: 57px;
+}
+.hd_bar .bd {
+    padding-left: 182px;
+    width: 826px;
+    height: 57px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 100;
+}
+
+.hd_bar a.link {
+    display: inline-block;
+    height: 17px;
+    line-height: 17px;
+    color: #eee;
+    padding: 20px 12px;
+    background-color: #222;
+    vertical-align: top;
+}
+
+    .hd_bar a.link:hover {
+        color: #CA5FE3;
+        text-decoration: none;
+    }
+    .hd_bar .hd_lbar {
+    float: left;
+    width: 310px;
+    overflow: hidden;
+    padding-left: 6px;
+}
+
+.hd_bar .hd_rbar {
+    float: right;
+    width: 300px;
+    color: #eee;
+    text-align: right;
+}
+
+    .hd_bar .hd_rbar span {
+        display: inline-block;
+        height: 57px;
+        line-height: 57px;
+    }
+
+#header .logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+    #header .logo a {
+        display: block;
+        width: 182px;
+        overflow: hidden;
+    }

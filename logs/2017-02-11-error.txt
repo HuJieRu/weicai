@@ -1,0 +1,3802 @@
+
+2017-02-11T10:18:22+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:18:22+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:18:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:18:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:18:25+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-11T10:18:25+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-11T10:18:30+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:18:30+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:18:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:18:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:18:38+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-11T10:18:38+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-11T10:19:12+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T10:19:12+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T10:19:12+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:19:12+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:19:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:19:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:19:16+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-11T10:19:16+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-11T10:19:16+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-11T10:19:16+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-11T10:19:29+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T10:19:29+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T10:19:29+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:19:29+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:19:30+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:19:30+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:20:44+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T10:20:44+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T10:20:44+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:20:44+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:20:44+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:20:44+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:21:34+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T10:21:34+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T10:21:34+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:21:34+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:21:34+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:21:34+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:21:52+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-11T10:21:52+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-11T10:21:52+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-11T10:21:52+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-11T10:21:52+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:21:52+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:21:52+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:21:52+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:21:53+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T10:21:53+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T10:22:24+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T10:22:24+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T10:22:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:22:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:22:24+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:22:24+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:22:24+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T10:22:24+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T10:22:55+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:22:55+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:22:55+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:22:55+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:25:18+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:25:18+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:25:19+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:25:19+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:32:15+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:32:15+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:32:16+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:32:16+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:33:11+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:33:11+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:33:11+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:33:11+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:33:23+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:33:23+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:33:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:33:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:33:57+08:00: 
+     GET --- /personCenter/publish : /home/weicai/views/personCenter/publish.html:9
+    7| 	<%=JSON.stringify(data) %>
+    8|     <body style="background-color: #FAFAFA">
+ >> 9|     <% include ../common/head.html  %>
+    10|         <!-- Begin Wrapper -->
+    11|         <div id="wrapper">
+    12|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:68
+    66|                                     <div class="mod_subcate_main">
+    67|                                         <ul >
+ >> 68| 										<%classifyData["small"].forEach(function(twoClassifyData){%>
+    69| 										<a href="#"><li><%=twoClassifyData.name%></li></a>
+    70| 										<%})%> 
+    71|                                         </ul>  
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:34:02+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:34:02+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:34:02+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:34:02+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:34:04+08:00: 
+     GET --- /personCenter/personalCenter : /home/weicai/views/personCenter/personalCenter.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|     <% include ../common/head.html  %>
+    9|         <!-- Begin Wrapper -->
+    10|         <div id="wrapper">
+    11|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data is not defined
+
+2017-02-11T10:34:06+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:34:06+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:34:06+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:34:06+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:34:48+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:34:48+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:34:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:34:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:34:51+08:00: 
+     GET --- /personCenter/publish : /home/weicai/views/personCenter/publish.html:9
+    7| 	<%=JSON.stringify(data) %>
+    8|     <body style="background-color: #FAFAFA">
+ >> 9|     <% include ../common/head.html  %>
+    10|         <!-- Begin Wrapper -->
+    11|         <div id="wrapper">
+    12|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:68
+    66|                                     <div class="mod_subcate_main">
+    67|                                         <ul >
+ >> 68| 										<%classifyData["small"].forEach(function(twoClassifyData){%>
+    69| 										<a href="#"><li><%=twoClassifyData.name%></li></a>
+    70| 										<%})%> 
+    71|                                         </ul>  
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:35:50+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:35:50+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:35:50+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:35:50+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:40:23+08:00: 
+     GET --- /personCenter/myIndent : /home/weicai/views/personCenter/myIndent.html:9
+    7|     </head>
+    8|     <body style="background-color: #FAFAFA">
+ >> 9|      <% include ../common/head.html  %>
+    10|         <!-- Begin Wrapper -->
+    11|         <div id="wrapper">
+    12|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data is not defined
+
+2017-02-11T10:40:25+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:40:25+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:40:25+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:40:25+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:40:38+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:40:38+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:40:38+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:40:38+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:42:01+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T10:42:01+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T10:45:19+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T10:45:19+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T10:45:20+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T10:45:20+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T10:45:50+08:00: 
+     GET --- /personCenter/publish : Could not find matching close tag for "<%=".
+
+2017-02-11T10:45:57+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T10:45:57+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T10:45:57+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T10:45:57+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T10:49:29+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T10:49:29+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T10:49:29+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T10:49:29+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T10:51:29+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-11T10:51:29+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-11T10:51:40+08:00: 
+     GET --- /commodity/commoditySpecific : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|      <% include ../common/head.html  %>
+    9|      <div id="wrapper">
+    10|         <%=JSON.stringify(data)%>
+    11|          <div class="sort">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:51:40+08:00: 
+     GET --- /commodity/commoditySpecific : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|      <% include ../common/head.html  %>
+    9|      <div id="wrapper">
+    10|         <%=JSON.stringify(data)%>
+    11|          <div class="sort">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:51:44+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T10:51:44+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T10:51:44+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T10:51:44+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T10:51:48+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T10:51:48+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T10:51:48+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T10:51:48+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T10:51:48+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T10:51:48+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T10:53:16+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-11T10:53:16+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-11T10:53:21+08:00: 
+     GET --- /commodity/commoditySpecific : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|      <% include ../common/head.html  %>
+    9|      <div id="wrapper">
+    10|         <%=JSON.stringify(data)%>
+    11|          <div class="sort">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:54:15+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-11T10:54:15+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-11T10:54:37+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-11T10:54:37+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-11T10:55:04+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-11T10:55:04+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-11T10:55:12+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:55:12+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:55:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:55:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T10:55:14+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T10:56:57+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : undefined
+
+2017-02-11T10:56:57+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : Not Found
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T10:56:59+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T10:57:02+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:57:02+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:57:02+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:57:02+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:57:06+08:00: 
+     GET --- /commodity/commoditySpecific : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 				<%data.forEach(function(product){%>
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:57:08+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:57:08+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:57:08+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:57:08+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:57:11+08:00: 
+     GET --- /commodity/commoditySpecific : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 				<%data.forEach(function(product){%>
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:57:18+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:57:18+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:57:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:57:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:57:37+08:00: 
+     GET --- /commodity/commoditySpecific : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 				<%data.forEach(function(product){%>
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:57:44+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T10:57:44+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T10:57:44+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T10:57:44+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T10:58:45+08:00: 
+     GET --- /commodity/commoditySpecific : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 				<%data.forEach(function(product){%>
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:58:51+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 				<%data.forEach(function(product){%>
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:59:06+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 				<%data.forEach(function(product){%>
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T10:59:18+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 				<%data.forEach(function(product){%>
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T11:00:06+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|      <% include ../common/head.html  %>
+    9|      <div id="wrapper">
+    10|         
+    11|          <div class="sort">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T11:00:09+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|      <% include ../common/head.html  %>
+    9|      <div id="wrapper">
+    10|         
+    11|          <div class="sort">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T11:00:20+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-11T11:00:20+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-11T11:00:21+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T11:00:21+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T11:01:37+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 			<%data.forEach(function(product){%>			 
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T11:02:38+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-11T11:02:38+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-11T11:02:38+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T11:02:38+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T13:37:20+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T13:37:20+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T13:37:20+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T13:37:20+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T13:37:21+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-11T13:37:21+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-11T13:43:08+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T13:43:08+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T13:43:09+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T13:43:09+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T13:43:17+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T13:43:17+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T13:43:17+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T13:43:17+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T13:45:11+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T13:47:02+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T13:47:04+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T13:47:05+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T13:47:05+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T13:47:05+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T13:50:29+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T13:50:38+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T13:52:22+08:00: 
+     GET --- /index/index : Unexpected token ) in /home/weicai/views/index/index.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T13:52:28+08:00: 
+     GET --- /index/index : Unexpected token ) in /home/weicai/views/index/index.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T14:00:03+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T14:00:04+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:00:04+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:00:04+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:00:04+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:00:06+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-11T14:00:06+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-11T14:00:46+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T14:00:49+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T14:00:53+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:00:53+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:00:53+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:00:53+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:01:47+08:00: 
+     GET --- /index/index : /home/weicai/views/index/index.html:13
+    11|     <body>
+    12| 	
+ >> 13|        <% include ../common/head.html  %>
+    14|         <div class="banner ">
+    15|             <div class="flexslider" id="ad">
+    16|                 <ul class="slides">
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data.forEach is not a function
+
+2017-02-11T14:01:55+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T14:01:55+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T14:01:55+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:01:55+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:01:55+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:01:55+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:01:58+08:00: 
+     GET --- /personCenter/personalCenter : /home/weicai/views/personCenter/personalCenter.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|     <% include ../common/head.html  %>
+    9|         <!-- Begin Wrapper -->
+    10|         <div id="wrapper">
+    11|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data is not defined
+
+2017-02-11T14:02:02+08:00: 
+     GET --- /personCenter/personalCenter : /home/weicai/views/personCenter/personalCenter.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|     <% include ../common/head.html  %>
+    9|         <!-- Begin Wrapper -->
+    10|         <div id="wrapper">
+    11|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data is not defined
+
+2017-02-11T14:05:12+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T14:05:12+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T14:05:12+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:05:12+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:05:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:05:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:05:14+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-11T14:05:14+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-11T14:05:14+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:05:14+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:05:15+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:05:15+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:05:21+08:00: 
+     GET --- /personCenter/publish : /home/weicai/views/personCenter/publish.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8| 		  <% include ../common/head.html  %>
+    9|         <!-- Begin Wrapper -->
+    10|         <div id="wrapper">
+    11|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:68
+    66|                                     <div class="mod_subcate_main">
+    67|                                         <ul >
+ >> 68| 										<%classifyData["small"].forEach(function(twoClassifyData){%>
+    69| 										<a href="#"><li><%=twoClassifyData.name%></li></a>
+    70| 										<%})%> 
+    71|                                         </ul>  
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T14:09:07+08:00: 
+     GET --- /personCenter/publish : /home/weicai/views/personCenter/publish.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8| 		  <% include ../common/head.html  %>
+    9|         <!-- Begin Wrapper -->
+    10|         <div id="wrapper">
+    11|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:68
+    66|                                     <div class="mod_subcate_main">
+    67|                                         <ul >
+ >> 68| 										<%classifyData["small"].forEach(function(twoClassifyData){%>
+    69| 										<a href="#"><li><%=twoClassifyData.name%></li></a>
+    70| 										<%})%> 
+    71|                                         </ul>  
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T14:17:08+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:17:08+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:17:08+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:17:08+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:17:08+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:17:08+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:17:08+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:17:08+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:26:36+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:26:36+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:26:36+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:26:36+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:26:39+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:26:39+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:26:39+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:26:39+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:26:42+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T14:26:42+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T14:26:43+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:26:43+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:26:43+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:26:43+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:26:46+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T14:26:46+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T14:26:46+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:26:46+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:26:46+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:26:46+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:26:48+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:27:00+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:27:00+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:27:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:27:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:27:49+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : undefined
+
+2017-02-11T14:27:49+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : Not Found
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:27:51+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:27:52+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:27:52+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:27:52+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:27:52+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:27:52+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:27:52+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:29:03+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:29:03+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:29:05+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:29:05+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:29:06+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:29:06+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:29:07+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:29:07+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:29:14+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:29:14+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:29:17+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:29:17+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:29:18+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:29:18+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:29:27+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:29:27+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:31:00+08:00: 
+     GET --- /personCenter/publish : /home/weicai/views/personCenter/publish.html:37
+    35|                 <div  id="productlist" class="pro_list" >
+    36|                     <ul class="cle"> 
+ >> 37| 						<%goods.forEach(function(product){%>
+    38| 						<li >
+    39|                             <a href="/commodity/commodityInfo?id=<%=product.id%>">
+    40|                                 <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T14:31:01+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-11T14:31:01+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-11T14:31:16+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T14:31:16+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T14:31:18+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:31:18+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:31:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:31:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:31:20+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:31:21+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:31:21+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:34:14+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:34:15+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:34:15+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:35:50+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:35:50+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:35:51+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:36:03+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:36:04+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:36:04+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:36:07+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:36:08+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:36:08+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:36:08+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:36:08+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:36:08+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:36:08+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:36:34+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:38:11+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:39:29+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-11T14:39:29+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-11T14:39:38+08:00: 
+     GET --- /commodity/commoditySpecific : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 			<%data.forEach(function(product){%>			 
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:39:44+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:39:45+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:39:45+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:39:45+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:39:45+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:39:45+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:39:45+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:39:46+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:39:47+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:39:47+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T14:40:04+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T14:47:55+08:00: 
+     GET --- / : CommodityModel is not defined
+
+2017-02-11T14:49:25+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:49:25+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:49:25+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:49:25+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:52:20+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T14:52:20+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T14:52:20+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:52:20+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:52:20+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:52:20+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:52:22+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:52:22+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:52:22+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-11T14:52:22+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-11T14:52:22+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T14:52:22+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T14:52:22+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T14:52:22+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T14:52:22+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T14:52:22+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T14:53:00+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-11T14:53:00+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-11T14:53:00+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:53:00+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:53:31+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-11T14:53:31+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-11T14:53:39+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:53:39+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:53:39+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-11T14:53:39+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-11T14:53:41+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-11T14:53:41+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-11T14:53:41+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T14:53:41+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T14:54:20+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-11T14:54:20+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-11T14:54:44+08:00: 
+     GET --- /commodity/commoditySpecific : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 			<%data.forEach(function(product){%>			 
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T14:54:47+08:00: 
+     GET --- /commodity/commoditySpecific : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 			<%data.forEach(function(product){%>			 
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T15:00:22+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-11T15:00:22+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-11T15:00:22+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:00:22+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:04:11+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-11T15:04:11+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-11T15:04:11+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:04:11+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:04:53+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:04:53+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:04:53+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:04:53+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:04:56+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-11T15:04:56+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-11T15:04:56+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:04:56+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:06:34+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:06:34+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-11T15:06:55+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-11T15:07:08+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:07:08+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:07:08+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-11T15:07:08+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-11T15:07:08+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-11T15:07:08+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-11T15:07:08+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:07:08+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:07:09+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:07:10+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:07:10+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:07:17+08:00: 
+     GET --- /commodity/commodityInfo?id=20 : undefined
+
+2017-02-11T15:07:17+08:00: 
+     GET --- /commodity/commodityInfo?id=20 : Not Found
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:07:22+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:07:27+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:07:27+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:07:27+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-11T15:07:27+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-11T15:07:29+08:00: 
+     GET --- /commodity/commodityInfo?id=20 : undefined
+
+2017-02-11T15:07:29+08:00: 
+     GET --- /commodity/commodityInfo?id=20 : Not Found
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:07:31+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:07:53+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-11T15:07:53+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-11T15:07:53+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-11T15:07:53+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-11T15:07:53+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-11T15:07:53+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-11T15:07:53+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-11T15:07:53+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-11T15:07:53+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-11T15:07:53+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-11T15:08:10+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 			<%data.forEach(function(product){%>			 
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T15:08:45+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 			<%goods.forEach(function(product){%>			 
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+goods is not defined
+
+2017-02-11T15:08:46+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:26
+    24|          <div  id="productlist" class="pro_list">
+    25|              <ul class="cle">  
+ >> 26| 			<%goods.forEach(function(product){%>			 
+    27|                  <li>
+    28|                      <a >
+    29|                          <p class="pic">
+
+goods is not defined
+
+2017-02-11T15:09:20+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|   <%=JSON.stringify(goods)%>
+    9|      <div id="wrapper">
+    10|         
+    11|          <div class="sort">
+
+goods is not defined
+
+2017-02-11T15:09:24+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|   <%=JSON.stringify(goods)%>
+    9|      <div id="wrapper">
+    10|         
+    11|          <div class="sort">
+
+goods is not defined
+
+2017-02-11T15:10:00+08:00: 
+     GET --- /commodity/commodityList : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8| 	<% include ../common/head.html  %>
+    9|   <%=JSON.stringify(goods)%>
+    10|      <div id="wrapper">
+    11|         
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T15:10:40+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:10:40+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:10:41+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:10:41+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:10:42+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:10:42+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:12:38+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-11T15:12:38+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-11T15:12:38+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:12:38+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:12:38+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-11T15:12:38+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-11T15:12:48+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-11T15:12:48+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-11T15:13:38+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-11T15:13:38+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-11T15:13:49+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-11T15:13:49+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-11T15:13:49+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-11T15:13:49+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-11T15:13:49+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-11T15:13:49+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-11T15:13:49+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-11T15:13:49+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-11T15:13:49+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-11T15:13:49+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-11T15:13:54+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:13:54+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:13:54+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-11T15:13:54+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-11T15:13:55+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:13:55+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:13:55+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-11T15:13:55+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-11T15:13:55+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-11T15:13:55+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-11T15:14:14+08:00: 
+     GET --- /commodity/commodityInfo?id=12 : undefined
+
+2017-02-11T15:14:14+08:00: 
+     GET --- /commodity/commodityInfo?id=12 : Not Found
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : undefined
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /commodity/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /commodity/img/icon/logo.png : undefined
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /commodity/img/icon/logo.png : Not Found
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /commodity/img/specific1.png : undefined
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /commodity/img/specific1.png : Not Found
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : undefined
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /commodity/img/xiaoxing.jpg : Not Found
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /images/seemore-bg.png : undefined
+
+2017-02-11T15:14:52+08:00: 
+     GET --- /images/seemore-bg.png : Not Found
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:17:26+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:17:27+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:17:27+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:17:27+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:17:27+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:17:27+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:17:27+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:17:27+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:17:27+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:17:27+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:17:27+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:24:18+08:00: 
+     GET --- /commodity/commodityInfo?id=12 : undefined
+
+2017-02-11T15:24:18+08:00: 
+     GET --- /commodity/commodityInfo?id=12 : Not Found
+
+2017-02-11T15:25:01+08:00: 
+     GET --- /commodity/commodityInfo?id=12 : undefined
+
+2017-02-11T15:25:01+08:00: 
+     GET --- /commodity/commodityInfo?id=12 : Not Found
+
+2017-02-11T15:26:06+08:00: 
+     GET --- /commodity/commodityInfo?id=12 : undefined
+
+2017-02-11T15:26:06+08:00: 
+     GET --- /commodity/commodityInfo?id=12 : Not Found
+
+2017-02-11T15:26:10+08:00: 
+     GET --- /commodity/commodityInfo?id=12 : undefined
+
+2017-02-11T15:26:10+08:00: 
+     GET --- /commodity/commodityInfo?id=12 : Not Found
+
+2017-02-11T15:29:11+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : Can't set headers after they are sent.
+
+2017-02-11T15:29:15+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T15:29:15+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T15:29:15+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:29:15+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:29:15+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:29:15+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:29:17+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:29:18+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:29:18+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:29:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:29:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:29:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:29:18+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:29:18+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:29:18+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:29:18+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:29:18+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:29:23+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:29:44+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:29:45+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:29:45+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:29:45+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:29:45+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:29:45+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:29:45+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:29:45+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:29:45+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:29:47+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:29:47+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:29:47+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-11T15:29:47+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-11T15:29:47+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-11T15:29:47+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-11T15:29:48+08:00: 
+     GET --- /personCenter/myIndent : /home/weicai/views/personCenter/myIndent.html:9
+    7|     </head>
+    8|     <body style="background-color: #FAFAFA">
+ >> 9|      <% include ../common/head.html  %>
+    10|         <!-- Begin Wrapper -->
+    11|         <div id="wrapper">
+    12|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data is not defined
+
+2017-02-11T15:37:55+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:38:15+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:38:54+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:39:12+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:39:26+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:39:27+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:39:37+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:40:29+08:00: 
+     GET --- /commodity/commoditySpecific : Can't set headers after they are sent.
+
+2017-02-11T15:40:32+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T15:40:32+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T15:40:34+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:40:35+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:41:37+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:41:38+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:41:41+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:41:42+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:42:17+08:00: 
+     GET --- /commodity/commodityInfo?id=13 : missing ) after argument list in /home/weicai/views/commodity/commodityInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-11T15:45:48+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:45:48+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:45:56+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:45:56+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:46:24+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:46:24+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:47:17+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:47:18+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:47:18+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:48:25+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:48:25+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:48:40+08:00: 
+     GET --- /commodity/editCommodity : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8| 	<% include ../common/head.html  %>
+    9|   <%=JSON.stringify(goods)%>
+    10|      <div id="wrapper">
+    11|         
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T15:48:43+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:48:43+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:48:44+08:00: 
+     GET --- /commodity/editCommodity : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8| 	<% include ../common/head.html  %>
+    9|   <%=JSON.stringify(goods)%>
+    10|      <div id="wrapper">
+    11|         
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T15:48:47+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:48:47+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:49:07+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:49:07+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:49:09+08:00: 
+     GET --- /commodity/editCommodity?id= : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8| 	<% include ../common/head.html  %>
+    9|   <%=JSON.stringify(goods)%>
+    10|      <div id="wrapper">
+    11|         
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T15:49:17+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:49:17+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:49:24+08:00: 
+     GET --- /commodity/editCommodity?id= : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8| 	<% include ../common/head.html  %>
+    9|   <%=JSON.stringify(goods)%>
+    10|      <div id="wrapper">
+    11|         
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T15:50:50+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:50:50+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:50:56+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:50:56+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:51:34+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:51:34+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:51:43+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:51:43+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:51:45+08:00: 
+     GET --- /commodity/editCommodity?id= : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8| 	<% include ../common/head.html  %>
+    9|   <%=JSON.stringify(goods)%>
+    10|      <div id="wrapper">
+    11|         
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T15:52:39+08:00: 
+     GET --- /personCenter/personalCenter : Can't set headers after they are sent.
+
+2017-02-11T15:52:42+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-11T15:52:42+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-11T15:52:42+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:52:42+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:52:42+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:52:42+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:52:43+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-11T15:52:43+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-11T15:52:43+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:52:43+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:52:43+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:52:43+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:52:45+08:00: 
+     GET --- /upload/files/148679608118228.jpg : undefined
+
+2017-02-11T15:52:45+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Not Found
+
+2017-02-11T15:52:45+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:52:45+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:52:45+08:00: 
+     GET --- /upload/files/148672036678465.jpg : undefined
+
+2017-02-11T15:52:45+08:00: 
+     GET --- /upload/files/148672036678465.jpg : Not Found
+
+2017-02-11T15:52:54+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:52:54+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:52:56+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:52:56+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:57:45+08:00: 
+     GET --- /commodity/addSchool : SchoolModel is not defined
+
+2017-02-11T15:58:54+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:58:54+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:58:54+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:58:54+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148672041304919.jpg : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148678159887773.jpg : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148678149479258.jpg : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148678165927735.jpg : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148678168000784.jpg : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148678170700295.jpg : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148679517468394.jpg : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Not Found
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-11T15:58:57+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-11T15:58:59+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:58:59+08:00: 
+     GET --- /commodity/src : Not Found
+
+2017-02-11T15:59:05+08:00: 
+     GET --- /commodity/editCommodity?id= : /home/weicai/views/commodity/commodityList.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8| 	<% include ../common/head.html  %>
+    9|   <%=JSON.stringify(goods)%>
+    10|      <div id="wrapper">
+    11|         
+
+/home/weicai/views/common/head.html:59
+    57|                         <div class="mod_cate_hd">全部商品分类</div>
+    58|                         <ul class="tit" style="display: none;">
+ >> 59| 						<%data.forEach(function(classifyData){%>
+    60| 						  <li class="mod_cate">
+    61|                                 <div class="mod_cate_title">
+    62|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+Cannot read property 'forEach' of undefined
+
+2017-02-11T15:59:15+08:00: 
+     GET --- /commodity/src : undefined
+
+2017-02-11T15:59:15+08:00: 
+     GET --- /commodity/src : Not Found

@@ -1,0 +1,241 @@
+
+2017-02-15T09:33:59+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Error: Not Found
+
+2017-02-15T09:33:59+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Error: Not Found
+
+2017-02-15T09:33:59+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Error: Not Found
+
+2017-02-15T09:33:59+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-02-15T09:33:59+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-02-15T09:34:00+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:34:12+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:34:14+08:00: 
+     GET --- /index/img/icon/logo.png : Error: Not Found
+
+2017-02-15T09:34:14+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Error: Not Found
+
+2017-02-15T09:34:14+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-02-15T09:34:14+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-02-15T09:34:14+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Error: Not Found
+
+2017-02-15T09:34:14+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Error: Not Found
+
+2017-02-15T09:34:14+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Error: Not Found
+
+2017-02-15T09:34:14+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Error: Not Found
+
+2017-02-15T09:34:14+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Error: Not Found
+
+2017-02-15T09:34:14+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:34:19+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Error: Not Found
+
+2017-02-15T09:34:19+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Error: Not Found
+
+2017-02-15T09:34:19+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-02-15T09:34:19+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-02-15T09:34:19+08:00: 
+     GET --- /css/images/icon.fw.png : Error: Not Found
+
+2017-02-15T09:34:19+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /css/images/icon.fw.png : Error: Not Found
+
+2017-02-15T09:34:23+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:34:26+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Error: Not Found
+
+2017-02-15T09:34:26+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Error: Not Found
+
+2017-02-15T09:34:26+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Error: Not Found
+
+2017-02-15T09:34:26+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:34:29+08:00: 
+     GET --- /personCenter/attentionPerson : ReferenceError: /home/weicai/views/personCenter/attentionPerson.html:9
+    7|     </head>
+    8|     <body style="background-color: #FAFAFA">
+ >> 9|     <% include ../common/head.html  %>
+    10|     <!-- Begin Wrapper -->
+    11|     <div id="wrapper">
+    12|         <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:61
+    59|                         <div class="mod_cate_hd">全部商品分类</div>
+    60|                         <ul class="tit" style="display: none;">
+ >> 61| 						<%data.forEach(function(classifyData){%>
+    62| 						  <li class="mod_cate">
+    63|                                 <div class="mod_cate_title">
+    64|                                     <a href="#"><%=classifyData.name%></a><i>></i>
+
+data is not defined
+
+2017-02-15T09:34:29+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:34:31+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:34:35+08:00: 
+     GET --- /commodity/img/icon/logo.png : Error: Not Found
+
+2017-02-15T09:34:35+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:54:43+08:00: 
+     GET --- /commodity/img/icon/logo.png : Error: Not Found
+
+2017-02-15T09:54:43+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:58:09+08:00: 
+     GET --- /commodity/img/icon/logo.png : Error: Not Found
+
+2017-02-15T09:58:09+08:00: 
+     GET --- /css/images/icon.fw.png : Error: Not Found
+
+2017-02-15T09:58:09+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:58:30+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:58:36+08:00: 
+     GET --- /commodity/indent? : Error: Can't set headers after they are sent.
+
+2017-02-15T09:58:36+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:58:37+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:59:41+08:00: 
+     GET --- /upload/files/14868865746642.jpg : Error: Not Found
+
+2017-02-15T09:59:41+08:00: 
+     GET --- /upload/files/148679608118228.jpg : Error: Not Found
+
+2017-02-15T09:59:41+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Error: Not Found
+
+2017-02-15T09:59:41+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Error: Not Found
+
+2017-02-15T09:59:41+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Error: Not Found
+
+2017-02-15T09:59:41+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Error: Not Found
+
+2017-02-15T09:59:41+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:59:44+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Error: Not Found
+
+2017-02-15T09:59:44+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Error: Not Found
+
+2017-02-15T09:59:44+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:59:46+08:00: 
+     GET --- /upload/files/148672041304919.jpg : Error: Not Found
+
+2017-02-15T09:59:46+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Error: Not Found
+
+2017-02-15T09:59:46+08:00: 
+     GET --- /upload/files/148678149479258.jpg : Error: Not Found
+
+2017-02-15T09:59:46+08:00: 
+     GET --- /upload/files/148678159887773.jpg : Error: Not Found
+
+2017-02-15T09:59:46+08:00: 
+     GET --- /upload/files/148678165927735.jpg : Error: Not Found
+
+2017-02-15T09:59:46+08:00: 
+     GET --- /upload/files/148678168000784.jpg : Error: Not Found
+
+2017-02-15T09:59:46+08:00: 
+     GET --- /upload/files/148678170700295.jpg : Error: Not Found
+
+2017-02-15T09:59:46+08:00: 
+     GET --- /upload/files/148679517468394.jpg : Error: Not Found
+
+2017-02-15T09:59:46+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:59:47+08:00: 
+     GET --- /commodity/sendCommodity : Error: Not Found
+
+2017-02-15T09:59:47+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-02-15T09:59:49+08:00: 
+     GET --- /favicon.ico : Error: Not Found

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include ../common/header.html  %>
+       <link rel="stylesheet" type="text/css" href="/css/plugs/bootstrap.min.css" />
+    </head>
+    <body style="background-color: #FAFAFA">
+     <% include ../common/head2.html  %>
+
+		<div class="comWidth ">
+			<table class="table table-striped">
+				<tbody>
+					<tr>
+						<th>图片</th>
+						<th>商品</th>
+						<th>价格</th>
+						<th>数量</th>
+						<th>小计</th>
+					</tr>			
+					<tr>
+						<td width="60">
+							<img style="width: 60px;height: 60px;" src="<%=data.image.split(",")[0]%>">
+						</td>
+						<td>
+							<a href="/commodity/commoditySpecific?id=<%=data.gid%>"><%=data.name%></a>
+						</td>
+						<td>
+							￥<%=data.price%>
+						</td>
+						<td class="quantity" width="60">
+							<%=data.number%>
+						</td>
+						<td width="140">
+							<span class="subtotal">￥<%=data.price*data.number%></span>
+						</td>
+					</tr>
+				</tbody>
+				 
+			</table>
+		</div>	 
+      <form class="form-horizontal" method="POST" role="form">
+		<input type="hidden" name="id" value="<%=data.oid%>"/>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label"> <h4>商品评论</h4></label>
+        </div>
+       
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">评论内容</label>
+          <div class="col-sm-3">
+            <textarea name="content" class="form-control" rows="3"></textarea>
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">等级</label>
+          <div class=" col-sm-3">
+           <div class="radio">
+             <label>
+               <input type="radio" name="level"  value="1" checked>
+              好评
+             </label>
+			  <label>
+               <input type="radio" name="level"  value="2">
+              中评
+             </label>
+             <label>
+               <input type="radio" name="level"  value="3">
+              差评
+             </label>
+           </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="col-sm-offset-2 col-sm-3">
+            <button type="submit" class="btn btn-primary">发表评论</button>
+          </div>
+        </div>
+      </form>
+      <% include ../common/footer.html  %> 
+    </body>
+    <script src="/js/Jquery.js"></script>   
+</html>

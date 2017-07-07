@@ -1,0 +1,35 @@
+2017-02-05T14:15:38+08:00:
+   sql:select * from goods where id=?
+   param:[1,2,"毛巾",12,15,"","便宜实惠的毛巾",15654646,1414564313]
+   result:[]
+2017-02-05T14:16:39+08:00:
+   sql:insert into goods(uid,tyepid,name,price,number,image,caption,update_time,create_time) values(?)
+   param:[1,2,"毛巾",12,15,"","便宜实惠的毛巾",15654646,1414564313]
+2017-02-05T14:19:16+08:00:
+   sql:insert into goods(uid,tyepid,name,price,number,image,caption,update_time,create_time) values(?)
+   param:[1,2,"毛巾",12,15,"","便宜实惠的毛巾",15654646,1414564313]
+   error:Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2017-02-05T14:23:07+08:00:
+   sql:insert into goods(uid,tyepid,name,price,number,image,caption,update_time,create_time) values(?,now(),now())
+   param:[1,2,"毛巾",12,15,"","便宜实惠的毛巾"]
+   Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2017-02-05T14:30:04+08:00:
+   sql:insert into goods(uid,typeid,name,price,number,image,caption,update_time,create_time) values(1,2,'毛巾',12,15,'123','便宜实惠的毛巾',now(),now())
+   param:undefined
+   result:{"fieldCount":0,"affectedRows":1,"insertId":2,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2017-02-05T14:30:29+08:00:
+   sql:insert into goods(uid,typeid,name,price,number,image,caption,update_time,create_time) values(?,now(),now())
+   param:undefined
+   Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,now(),now())' at line 1
+2017-02-05T14:31:04+08:00:
+   sql:insert into goods(uid,typeid,name,price,number,image,caption,update_time,create_time) values(?,now(),now())
+   param:[1,2,"毛巾",12,15,"","便宜实惠的毛巾"]
+   Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2017-02-05T14:31:54+08:00:
+   sql:insert into goods(uid,typeid,name,price,number,image,caption) values(?)
+   param:[1,2,"毛巾",12,15,"","便宜实惠的毛巾"]
+   Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2017-02-05T14:37:07+08:00:
+   sql:insert into goods set ?
+   param:{"uid":1,"typeid":2,"name":"毛巾"}
+   result:{"fieldCount":0,"affectedRows":1,"insertId":3,"serverStatus":2,"warningCount":2,"message":"","protocol41":true,"changedRows":0}

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include ../common/header.html  %>
+       <link rel="stylesheet" type="text/css" href="/css/plugs/bootstrap.min.css" /> 
+    </head>
+    <body style="background-color: #FAFAFA">
+    <% include ../common/head2.html  %>
+      <form class="form-horizontal" enctype="multipart/form-data" method="POST" role="form">
+	  <input type="hidden" name="id" value="<%=info.id%>"/>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label"> <h4>编辑商品</h4></label>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">名称</label>
+          <div class="col-sm-3">
+            <input type="text" class="form-control" name="name"   placeholder="输入名称" value="<%=info.name%>">
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">原价</label>
+          <div class="col-sm-3">
+            <input type="text" class="form-control" name="originalprice"  placeholder="输入原价" value="<%=info.originalprice%>">
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">价格</label>
+          <div class="col-sm-3">
+            <input type="text" class="form-control" name="price" placeholder="输入价格" value="<%=info.price%>">
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">数量</label>
+          <div class="col-sm-3">
+            <input type="text" class="form-control" name="number" placeholder="输入数量" value="<%=info.number%>">
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">简介</label>
+          <div class="col-sm-3">
+            <textarea class="form-control" rows="3" name="caption" placeholder="输入简介" ><%=info.caption%></textarea>
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">注意事项</label>
+          <div class="col-sm-3">
+            <input type="text" class="form-control" name="notice" placeholder="输入注意事项" value="<%=info.notice%>">
+          </div>
+        </div>
+        <div class="form-group">
+        <label  class="col-sm-2 control-label">标签</label>
+          <div class=" col-sm-3">
+           <div class="radio">
+		   <%tags.forEach(function(tag){%>
+             <label>
+               <input type="radio" name="tag"  value="<%=tag.id%>" <%=info.tag==tag.id?"checked":""%>/>
+             <%=tag.name%>
+             </label>
+			<%});%>  
+           </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">分类</label>
+           <div class="col-sm-2">
+              <select class="form-control" id="one-classify" >
+                                              
+              </select>   
+           </div>
+            <div class="col-sm-2">
+            <select class="form-control" id="two-classify" name="typeid">
+                                           
+             </select>
+           </div>
+        </div>
+        <div class="form-group">
+          <label  class="col-sm-2 control-label">商品图片</label>
+         
+        </div>
+		 <div class="form-group">
+          <div class=" check-content" style="margin: 0 50px 0 160px;">
+		  
+			  <%info.image.split(",").forEach(function(src){%>
+              <img src="<%=src%>"  name="image" class="check-image" />
+			  <%});%>  
+			
+          </div>
+		   
+        </div>
+        <div class="form-group">
+          <div class="col-sm-offset-2 col-sm-3">
+            <button type="submit" class="btn btn-primary">保存</button>
+          </div>
+        </div>
+      </form>
+	  <div class="big-img-container">
+		<div class="big-img-bg">
+			<a href="#" class="delete-big-img">x</a>
+			<a href="#" class="left-arrows"><</a>
+			<img src="<%=info.student_photo%>"  class="big-img" />
+			<a href="#" class="right-arrows">></a>
+		</div>	
+	  </div>
+    </body>
+      <script src="/js/Jquery.js"></script>
+       <script type="text/javascript">
+         seajs.use(["OptionSelect","LookBigImage","Bootstrap"], function(o,l) {
+          
+           //初始化选项框
+           o.initOption(<%-JSON.stringify(types)%>,{container:$("#one-classify"),childName:"small"},{container:$("#two-classify"),childName:""});
+		   $("#one-classify").val("<%=info.parentid%>").change();
+		   $("#two-classify").val("<%=info.typeid%>");
+		   
+		   l.initLookBigImg();
+		   
+        });
+       </script>   
+</html>

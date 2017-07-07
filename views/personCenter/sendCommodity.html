@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      	<% include ../common/header.html  %> 
+        <link rel="stylesheet" type="text/css" href="/css/plugs/bootstrap.min.css" />
+    </head>
+  
+    <body style="background-color: #FAFAFA">
+    <% include ../common/head2.html  %>
+	
+	  <div class="comWidth ">
+	  <a href="/personCenter/lookSendCommodityResult" class="look-check-result">查看已经发货的商品</a>
+		<table class="table table-striped tablelist" >
+			<caption><h4>商品发货</h4></caption>
+			<tr>
+				<th>id</th>
+				<th>收货人姓名</th>
+				<th>手机号</th>
+				<th>商品名称</th>
+				<th>购买数量</th>
+				<th>收货邮编</th>
+				<th>收货地址</th>
+				<th>发货状态</th>
+				<th>操作</th>
+			</tr>
+
+			<%if(goods.length){%>
+				<%goods.forEach(function(product){%>
+				<tr>
+					<td><%=product.oid%></td>
+					<td><%=product.recipient%></td>
+					<td><%=product.phone%></td>
+					<td><%=product.name%></td>
+					<td><%=product.number%></td>
+					<td><%=product.postcode%></td>
+					<td><%=product.province+product.city+product.area+product.address%></td>
+					<td style='color:#ca5fe3;'>待发货</td>
+					<td><a class="button" href='/personCenter/send?id=<%=product.oid%>'>发货</a></td>
+				</tr>
+				<%});%>
+			<%}else {%>
+				<tr>
+					<td></td>
+					<td></td>
+					<td>没有需要发货的商品</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>	
+				</tr>
+			<%}%>
+		</table>
+	</div>
+    <% include ../common/footer.html  %>                
+    </body>
+     <script src="/js/Jquery.js"></script>
+         <script type="text/javascript">
+           seajs.use([], function() {
+            
+          });
+         </script>   
+    </html>

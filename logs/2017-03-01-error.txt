@@ -1,0 +1,12 @@
+
+2017-03-01T20:53:34+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-03-01T20:53:34+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-03-01T20:53:34+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-03-01T20:53:36+08:00: 
+     GET --- /favicon.ico : Error: Not Found

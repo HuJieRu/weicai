@@ -1,0 +1,10 @@
+[{
+  "name"        : "weicai",
+  "script"      : "./bin/www",
+  "cwd"         : "./", // 指定该app工作目录，这样pm2会相对这个目录去找脚本之类的。
+  "error_file" : "log/app-err.log",
+  "out_file"   : "log/app-out.log",
+  "pid_file"   : "log/app.pid",
+  "one_launch_only"  : "true",
+  "watch":"true"
+}]

@@ -1,0 +1,50 @@
+
+/*商品弹出列表见shopclass*/
+
+/*banner部分*/
+
+.banner {
+	margin-bottom: 25px;
+	position: relative;
+	height: 385px;
+	width: 100%;
+}
+
+/*中间内容wrapper*/
+
+
+
+.series_box {
+    width: 1180px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.series_title {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    float: none;
+    margin: 0;
+	display:flex;
+	justify-content: space-between;
+}
+
+    .series_title strong {
+        font-size: 18px;
+        margin-right: 10px;
+        font-weight:400;
+    }
+
+   
+.series_pics {
+    height: 280px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+
+    .series_pics img {
+        -ms-transition: all .6s;
+        vertical-align: top;
+        height: 280px;
+    }
+

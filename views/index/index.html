@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <% include ../common/header.html  %>
+        <link rel="stylesheet" type="text/css" href="/css/main.css" />
+        <!--焦点图-->
+        <link rel="stylesheet" type="text/css" href="/css/foucs_pic.css" />
+
+</head>
+
+<body>
+    <% include ../common/head.html  %>
+        <div class="banner ">
+            <div class="flexslider" id="ad">
+                <ul class="slides">
+                    <li style="background-color:#DC942E;">
+                        <div style="display: flex;justify-content: center;align-items: center;" class="img">
+                            <a href="#"><img src="/img/banner/ad1.jpg" alt="" /></a>
+                        </div>
+                    </li>
+                    <li style="background-color:#FDE289;">
+                        <div style="display: flex;justify-content: center;align-items: center;" class="img">
+                            <a href="#"><img src="/img/banner/ad2.jpg" alt="" /></a>
+                        </div>
+                    </li>
+                    <li style="background-color:#E8E8E8;">
+                        <div style="display: flex;justify-content: center;align-items: center;" class="img">
+                            <a href="#"><img src="/img/banner/ad3.jpg" alt="" /></a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!--banner结束-->
+        <div id="wrapper">
+            <div class="series_list">
+			<%if(recommend.length!=0){ %>
+                <div class="series_box">
+                    <div class="series_info cle">
+                        <div class="series_title">
+                            <strong><a >热门推荐</a></strong>
+                            <a href="/commodity/recommendList?p=1&&tag=0">查看更多>></a>
+                        </div>
+                    </div>
+                    <div class="pro_list">
+                        <ul class="cle">
+                            <%recommend.forEach(function(product){%>
+                                <li>
+                                    <a href="/commodity/commoditySpecific?id=<%=product.id%>">
+                                        <p class="pic">
+                                            <img width="150" height="150" src="<%=product.image.split(",")[0]%>" />
+                                        </p>
+                                        <div class="btm cle">
+                                            <span class="price">
+                                            &#165;<%=product.price%>
+                                        </span>
+                                            <span class="sales">
+                                            <i >销量</i>
+                                            <%=product.sales%>
+                                        </span>
+                                        </div>
+                                        <p class="title">
+                                            <%=product.name%>
+                                        </p>
+                                        <div class="btm cle">
+                                            <span class="name"><%=product.username%>
+                                     </span>
+                                            <span class="school"> <%=product.schoolname%>
+                                     </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <%});%>
+                        </ul>
+                    </div>
+                </div>
+				 <% }%>
+				
+                <%if(hot.length!=0){ %>
+                    <div class="series_box">
+                        <div class="series_info cle">
+                            <div class="series_title">
+                                <strong><a ><%=schoolname%>热销</a></strong>
+                                <a href="/commodity/schoolGoodsList?key=<%=schoolid%>&&p=1&&tag=0">查看更多>></a>
+                            </div>
+                        </div>
+                        <div class="pro_list">
+                            <ul class="cle">
+                                <%hot.forEach(function(product){%>
+                                    <li>
+                                        <a href="/commodity/commoditySpecific?id=<%=product.id%>">
+                                            <p class="pic">
+                                                <img width="150" height="150" src="<%=product.image.split(",")[0]%>" />
+                                            </p>
+                                            <div class="btm cle">
+                                                <span class="price">
+                                            &#165;<%=product.price%>
+											</span>
+                                                <span class="sales">
+                                            <i >销量</i>
+                                            <%=product.sales%>
+                                        </span>
+                                            </div>
+                                            <p class="title">
+                                                <%=product.name%>
+                                            </p>
+                                            <div class="btm cle">
+                                                <span class="name"><%=product.username%>
+                                     </span>
+                                                <span class="school"> <%=product.schoolname%>
+                                     </span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <%});%>
+                            </ul>
+                        </div>
+                    </div>
+                    <% }%>
+            </div>
+        </div>
+        <!-- wrapper结束 -->
+        <% include ../common/footer.html  %>
+</body>
+
+<script src="/js/Jquery1.7.js"></script>
+<script type="text/javascript">
+    seajs.use([ "Slide", "Focusall", "ShopClass"], function() {
+        $(".tit").show();
+        $(".shopClass").hover(function() {
+            $(".tit").show();
+        }, function() {
+            $(".tit").show();
+        });
+    });
+</script>
+
+</html>

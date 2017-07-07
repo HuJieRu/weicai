@@ -1,0 +1,95 @@
+ <div class="hearderBar">
+                <div class="topBar">
+                    <div class="comWidth clearfix">
+						<div class="fl">
+                             <a class="link" href="/" >微采网首页</a>
+                        </div>
+                        <div class="fr">
+                            <div class="loginAndRegister">
+							<% var userinfo=locals.userinfo%>
+							<%if(userinfo){ %> 
+                               <a href="/personCenter/personalCenter"><%=userinfo.nickname||userinfo.account%></a>
+                            <%}else{%>
+							 <a href="/user/login">请登录</a>
+                                <a href="/user/smallRegister">免费注册</a>
+							<% }%>
+							</div>
+                            <div class="ulContent">
+                                <ul>
+									<%if(locals.isadmin){%>
+									<li><a href="/check/checkUser">审核用户</a></li>
+									<%}%>
+									<!-- <li><a href="/check/checkCommodity">审核商品</a></li> -->
+                                    <li><a href="/personCenter/myIndent">我的订单</a></li>
+                                    <li><a href="/personCenter/publish">我发布的商品</a></li>
+                                    <!-- <li><a href="#">联系我们</a></li> -->
+                                    <li><a href="/personCenter/personalCenter">个人中心</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    <!--topBar结束-->
+                <div class="logoBar">
+                        <div class="logo fl">
+                            <a href="#"><img style="height: 100px;width: 150px;" src="/img/icon/logo.jpg" alt="微采" /></a>
+                        </div>
+                        <div class="searchBox fl">
+							<form  action="/commodity/search" method="get" >
+								<input type="text" name="key" class="searchText fl" />
+								<input type="hidden" name="tag" value=0 />
+								<input type="submit" value="搜索" class="searchBtn fl" />
+							</form>
+                            <ul>
+							<%locals.searchWord.forEach(function(keyword){%>	
+                                <li><a href="/commodity/search?key=<%=keyword.keyword%>&&p=1&&tag=0"><%=keyword.keyword%></a></li>
+                            <%});%>     
+                            </ul>
+                        </div>
+                        
+                        <div class="shopCar fr">
+                           <a href="/commodity/cart"><span  class="shopText fl">购物车</span></a> 
+                        </div>
+                  
+                </div>
+        
+            <!--logobar结束-->
+            <div class="navBox ">
+                <div class="comWidth">
+                    <div class="shopClass fl ">
+                        <div class="mod_cate_hd">全部商品分类</div>
+                        <ul class="tit" style="display: none;">
+						
+						<%locals.types.forEach(function(classifyData){%>
+						  <li class="mod_cate">
+                                <div class="mod_cate_title">
+                                    <a href="/commodity/typeGoodsList?key=<%=classifyData.id %>&&p=1&&tag=0"><%=classifyData.name%></a><i>></i>
+                                </div>
+
+                                <div class="mod_subcate">
+                                    <div class="mod_subcate_main">
+                                        <ul >
+										<%classifyData["small"].forEach(function(twoClassifyData){%>
+										<a href="/commodity/typeGoodsList?key=<%=twoClassifyData.id %>&&p=1&&tag=0"><li><%=twoClassifyData.name%></li></a>
+										<%})%> 
+                                        </ul>  
+                                    </div>
+                                </div>
+                            </li><!--mod_cate结束-->
+						<%})%>
+                        </ul>
+                    </div>
+                    <ul class="nav-bar fl">
+                        <li><a href="/commodity/search?key=手机" class="active">手机</a></li>
+                        <li><a href="/commodity/search?key=教科书">教科书</a></li>
+                        <li><a href="/commodity/search?key=洗刷用品">洗刷用品</a></li>
+                        <li><a href="/commodity/search?key=女装">女装</a></li>
+                        <li><a href="/commodity/search?key=二手">二手</a></li>
+                        <li><a href="/commodity/search?key=四级">四级</a></li>
+                        <li><a href="/commodity/search?key=小说">小说</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!--navBox结束-->
+        </div>
+        <!--hearderBar结束-->

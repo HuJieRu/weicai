@@ -1,0 +1,688 @@
+body,
+ul,
+ol,
+li,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+td,
+img,
+div,
+dl,
+dt,
+dd,
+input {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 12px;
+    background-color: #F5F5F5;
+}
+
+img {
+    border: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+input,
+select,
+textarea {
+    outline: none;
+    border: none;
+    background: none;
+}
+
+textarea {
+    resize: none;
+}
+
+a {
+    text-decoration: none;
+    color: #656565;
+}
+
+
+/*清除浮动*/
+
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+.cle {
+    overflow: hidden;
+}
+
+
+/*以上都是准备工作*/
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+
+/*公共的*/
+
+.comWidth {
+    width: 1200px;
+    margin: 0px auto 20px;
+}
+
+body a:hover {
+    color: #DB89F0;
+}
+
+
+/*以下是全局属性*/
+
+button,
+input,
+select,
+textarea {
+    font-size: 12px;
+    outline: 0;
+    resize: none;
+    color: #34495e;
+}
+
+#wrapper {
+    width: 1180px;
+    margin: 40px auto 100px;
+}
+
+.pagenav {
+    padding: 10px 0;
+    text-align: right;
+}
+
+
+/*button*/
+
+#footer .fsm a:hover,
+#footer .ft_txt .beian_ico a:hover,
+.btn:hover,
+.graybtn:hover,
+.pagenav a:hover {
+    text-decoration: none;
+}
+
+.btn,
+.graybtn {
+    overflow: visible;
+}
+
+.btn,
+.graybtn {
+    margin: 0;
+    height: 30px;
+}
+
+.btn,
+.graybtn,
+.pagenav,
+.pagenav a {
+    font-size: 14px;
+}
+
+.btn,
+.graybtn {
+    display: inline-block;
+    padding: 0 18px;
+}
+
+.btn {
+    color: #E5F9EF;
+    background-color: #4C9ED9;
+    border: 1px solid #4C9ED9;
+}
+
+.btn:hover {
+    color: #fff;
+    background: #CA5FE3;
+}
+
+.btn img {
+    vertical-align: middle;
+}
+
+.graybtn {
+    color: #666;
+    background-color: #f5f5f5;
+    border: 1px solid #dedede;
+}
+
+.graybtn:hover {
+    color: #666;
+    background-color: #eee;
+}
+
+.greenbtn {
+    color: #fff;
+    background-color: #86ce30;
+    border: 1px solid #86ce30;
+}
+
+.greenbtn:hover {
+    color: #fff;
+    background-color: #7ec32c;
+    border: 1px solid #7ec32c;
+}
+
+.btn_ffb72c {
+    color: #fff;
+    background-color: #ffb72c;
+    border: 1px solid #ffb72c;
+}
+
+.btn_ffb72c:hover {
+    color: #fff;
+    background-color: #f0ac28;
+    border: 1px solid #f0ac28;
+}
+
+
+/*尾部*/
+
+#footer .fsm a:hover,
+#footer .ft_txt .beian_ico a:hover,
+.btn:hover,
+.graybtn:hover,
+.pagenav a:hover {
+    text-decoration: none;
+}
+
+#footer .fsm,
+.header_cart_data .fd .fr strong {
+    font-size: 14px;
+}
+
+#footer {
+    border-top: 1px solid #efefef;
+    background-color: #fff;
+    padding: 30px 0;
+    width: 100%;
+}
+
+#footer a {
+    color: #838383;
+}
+
+#footer .ft_main {
+    width: 1200px;
+    margin: 0 auto;
+    color: #838383;
+    position: relative;
+}
+
+#footer .ft_nav {
+    height: 22px;
+}
+
+#footer .ft_nav cite {
+    color: #838383;
+    margin: 0 3px;
+}
+
+#footer .ft_txt p {
+    padding: 5px 0;
+}
+
+#footer .ft_txt .ft_contact span {
+    margin-right: 10px;
+}
+
+#footer .ft_txt .beian_ico {
+    padding-top: 20px;
+}
+
+#footer .ft_txt .beian_ico a {
+    margin-right: 15px;
+}
+
+#footer .ft_txt .beian_ico img {
+    width: 108px;
+    height: 40px;
+    vertical-align: top;
+    border-radius: 2px;
+}
+
+#footer .fsm {
+    position: absolute;
+    right: 20px;
+    top: -5px;
+    width: 140px;
+    text-align: center;
+}
+
+#footer .fsm i {
+    font-size: 20px;
+    vertical-align: top;
+    line-height: 1;
+}
+
+#footer .fsm2 {
+    right: 240px;
+}
+
+
+/*商品列表*/
+
+.pro_list {
+    width: 1180px;
+    +overflow: hidden;
+}
+
+.pro_list ul {
+    margin-right: -20px;
+    overflow: hidden;
+}
+
+.pro_list li {
+    float: left;
+    width: 200px;
+    border: 1px solid #eee;
+    overflow: hidden;
+    margin: 20px 20px 0 0;
+    background-color: #fff;
+    -ms-transition: all .6s;
+}
+
+.pro_list li .pic {
+    text-align: center;
+    padding: 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.pro_list li .pic img {
+    width: 200px;
+    height: 200px;
+    vertical-align: top;
+}
+
+.pro_list li .title {
+    color: #34495e;
+    font-size: 12px;
+    height: 24px;
+    line-height: 24px;
+    overflow: hidden;
+    margin: 0 10px 0;
+}
+
+.pro_list li .title img {
+    position: absolute;
+    width: 48px;
+    height: 53px;
+    left: 0;
+    top: 0;
+    margin-right: 5px;
+    z-index: 1000;
+}
+
+.pro_list li .btm {
+    margin: 0 10px;
+    overflow: hidden;
+}
+
+.pro_list li .btm span {
+    color: #888;
+    margin: 9px 0 5px 0;
+    float: left;
+}
+
+.pro_list li .btm span.sales {
+    float: right;
+}
+
+.pro_list li .btm span.price {
+    color: #ff666b;
+    font-size: 18px;
+}
+
+.pro_list li .btm span.school {
+    float: right;
+}
+
+.pro_list li .btm span.price strong {
+    font-weight: 800;
+    font-family: arial;
+}
+
+.pro_list li .btm span i {
+    font-size: 14px;
+    margin-right: 3px;
+}
+
+.pro_list li a {
+    display: block;
+    height: 300px;
+    cursor: pointer;
+    padding-bottom: 15px;
+    position: relative;
+}
+
+.pro_list li:hover {
+    border: 1px solid #B54F4A;
+    box-shadow: 0 3px 11.64px .36px rgba(0, 0, 0, .18), inset 0 -1px 0 0 rgba(240, 240, 240, .004);
+}
+
+
+/*表单*/
+
+.form li.other a,
+.trig a {
+    text-decoration: underline;
+}
+
+input.text:hover {
+    -webkit-transition: box-shadow linear 0.2s;
+    -moz-transition: box-shadow linear 0.2s;
+    -ms-transition: box-shadow linear 0.2s;
+    -o-transition: box-shadow linear 0.2s;
+    transition: box-shadow linear 0.2s;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+    -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+    border: 1px solid #74b9ef;
+    background: none;
+}
+
+input.text {
+    width: 220px;
+    height: 26px;
+    line-height: 26px;
+    padding: 0px 4px;
+    color: #666666;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid;
+    border-color: #b8b8b8 #dcdcdc #dcdcdc #b8b8b8;
+}
+
+input {
+    vertical-align: middle;
+    outline: none;
+}
+.tablelist{
+	background-color:#fff;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+	background-color:#fff;
+}
+
+span.requiredField {
+    padding-right: 3px;
+    color: #ff6d6d;
+    font-size: 10px;
+}
+
+
+/*分页*/
+
+.pages {
+    width: 720px;
+    margin: 40px auto 0 auto;
+}
+
+.pages #Pagination {
+    float: left;
+    overflow: hidden;
+}
+
+.pages #Pagination .pagination {
+    height: 40px;
+    text-align: right;
+    font-family: \u5b8b\u4f53, Arial;
+}
+
+.pages #Pagination .pagination a,
+.pages #Pagination .pagination span {
+    float: left;
+    display: inline;
+    padding: 11px 13px;
+    border: 1px solid #e6e6e6;
+    border-right: none;
+    background: #fff;
+    color: #666666;
+    font-family: \u5b8b\u4f53, Arial;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.pages #Pagination .pagination .current {
+    background: #C442F5;
+    color: #fff;
+}
+
+.pages #Pagination .pagination .prev,
+.pages #Pagination .pagination .next {
+    float: left;
+    padding: 10px 13px;
+    border: 1px solid #e6e6e6;
+    background: #fff;
+    color: #666666;
+    cursor: pointer;
+}
+
+.pages #Pagination .pagination .prev i,
+.pages #Pagination .pagination .next i {
+    display: inline-block;
+    width: 4px;
+    height: 11px;
+    margin-right: 5px;
+    background: url(../images/icon.fw.png) no-repeat;
+}
+
+.pages #Pagination .pagination .prev {
+    border-right: none;
+}
+
+.pages #Pagination .pagination .prev i {
+    background-position: -144px -1px;
+    *background-position: -144px -4px;
+}
+
+.pages #Pagination .pagination .next i {
+    background-position: -156px -1px;
+    *background-position: -156px -4px;
+}
+
+.pages #Pagination .pagination .pagination-break {
+    padding: 11px 5px;
+    border: none;
+    border-left: 1px solid #e6e6e6;
+    background: none;
+    cursor: default;
+}
+
+.pages .searchPage {
+    float: left;
+    padding: 8px 0;
+}
+
+.pages .searchPage .page-sum {
+    padding: 11px 13px;
+    color: #999999;
+    font-family: \u5b8b\u4f53, Arial;
+    font-size: 14px;
+}
+
+.pages .searchPage .page-go {
+    padding: 8px 0;
+    color: #999999;
+    font-family: \u5b8b\u4f53, Arial;
+    font-size: 14px;
+    padding: 10px 0\9;
+    *padding: 6px 0;
+}
+
+.pages .searchPage .page-go input {
+    width: 21px;
+    height: 20px;
+    margin: 0 5px;
+    padding-left: 5px;
+    border: 1px solid #e4e4e4;
+}
+
+.pages .searchPage .page-btn {
+    margin: 9px 0 5px 5px;
+    padding: 2px 5px;
+    background: #C442F5;
+    border-radius: 2px;
+    color: #ffffff;
+    font-family: Arial, 'Microsoft YaHei';
+    font-size: 14px;
+    text-decoration: none;
+}
+
+
+/* 检查*/
+
+.look-check-result {
+    position: absolute;
+    right: 71px;
+    top: 74px;
+}
+
+.check-content {
+    padding-top: 7px;
+    margin-bottom: 0;
+}
+
+.check-image {
+    width: 200px;
+    height: 200px;
+}
+
+.big-img-container {
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.big-img-bg {
+    background-color: rgba(104, 104, 104, 0.5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.big-img {}
+
+.delete-big-img {
+    font-size: 50px;
+    position: absolute;
+    top: 100px;
+    right: 155px;
+}
+
+.check-season {
+    display: none;
+}
+
+.left-arrows,
+.right-arrows {
+    background-color: #ccc;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 44px;
+    font-weight: 700;
+    position: absolute;
+}
+
+.left-arrows {
+    left: 200px
+}
+
+.right-arrows {
+    right: 200px
+}
+
+
+/*提示*/
+
+.hint {
+    text-align: center;
+    margin-top: 12px;
+}
+
+.hint>* {
+    margin-bottom: 20px;
+}
+
+.main-icon {}
+
+.content {
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.ahref {
+    font-size: 14px;
+    color: #0c86f7;
+    text-decoration: none;
+}
+
+.jump {
+    font-size: 14px;
+    color: #5a5555;
+}
+
+#wait {
+    margin-right: 10px;
+    font-size: 30px;
+    color: #f74e4e;
+}
+.commodity-hint{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+   
+/*全选和全部选按钮组*/
+
+.select-btn {
+    padding: 5px;
+    display: inline-block;
+    /*border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #ccc;*/
+}
+
+.button{
+	border: 1px solid #10A1F3;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #10A1F3;
+    color: #fff;
+}

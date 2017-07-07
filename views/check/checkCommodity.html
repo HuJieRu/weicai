@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      	<% include ../common/header.html  %> 
+        <link rel="stylesheet" type="text/css" href="/css/plugs/bootstrap.min.css" />
+    </head>
+  
+    <body style="background-color: #FAFAFA">
+    <% include ../common/head2.html  %>
+	<div class="comWidth ">
+		<table class="table table-striped tablelist" >
+				<caption>审核商品</caption>
+				<tr>
+				  <th>id</th>
+				  <th>发布人</th>
+				  <th>商品名称</th>
+				  <th>审核状态</th>
+				  <th>操作</th>
+				</tr>
+				<tr>
+				  <td>1</td>
+				  <td>小兰</td>
+				  <td>毛巾</td>
+				  <td>待审核</td>
+				  <td><a href="/check/checkCommodityInfo">审核</a></td>
+				</tr>
+				<tr>
+				  <td>1</td>
+				  <td>小兰</td>
+				  <td>毛巾</td>
+				  <td>待审核</td>
+				  <td><a href="/check/checkCommodityInfo">审核</a></td>
+				</tr>
+			</table>
+		</div>
+    <% include ../common/footer.html  %>                
+    </body>
+     <script src="/js/Jquery.js"></script>
+         <script type="text/javascript">
+           seajs.use([], function() {
+            
+          });
+         </script>   
+    </html>

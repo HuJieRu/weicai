@@ -1,0 +1,6 @@
+
+2017-04-20T16:55:55+08:00: 
+{"fieldCount":0,"affectedRows":1,"insertId":9,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+
+2017-04-20T17:59:10+08:00: 
+{"fieldCount":0,"affectedRows":1,"insertId":10,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}

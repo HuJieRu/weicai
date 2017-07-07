@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+	<link rel="stylesheet" type="text/css" href="/css/common/reset.css" /> 	
+    </head>
+    
+    <body style="background-color:#58a5a3;">
+	 <div class="hint" >
+		<img src="/img/hint.gif"/>
+         <p class="content"><%=content %></p>
+         <a class="ahref" href="<%=url%>">点击直接跳转</a>
+         <p class="jump"><span id="wait">5</span>秒钟后页面自动跳转....</p>
+       </div>
+	 </body>
+	<script language="javascript" type="text/javascript">
+		var i = 4;
+		var intervalid;
+		intervalid = setInterval("fun()", 1000);
+		function fun() {
+		if (i == 0) {
+		window.location.href = "<%=url%>";
+		clearInterval(intervalid);
+		}
+		document.getElementById("wait").innerHTML = i;
+		i--;
+		}
+	</script> 
+</html>

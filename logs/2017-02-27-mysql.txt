@@ -1,0 +1,766 @@
+2017-02-27T09:26:26+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T09:26:27+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T09:26:27+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 5
+2017-02-27T09:26:30+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T09:26:30+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T09:26:30+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T09:26:30+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:50:22+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:50:22+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:50:22+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 5
+2017-02-27T15:50:22+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:50:22+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:50:23+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:50:23+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:50:23+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:50:23+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:50:46+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:50:46+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:50:46+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 5
+2017-02-27T15:50:46+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:50:46+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:50:46+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:50:46+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:50:48+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:50:48+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:15+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:15+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:15+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 5
+2017-02-27T15:57:16+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:16+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:16+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 5
+2017-02-27T15:57:17+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:17+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:17+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 5
+2017-02-27T15:57:20+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:21+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:21+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:22+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:25+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:25+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:25+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 5
+2017-02-27T15:57:47+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:47+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:47+08:00:
+   sql:select g.*,um.nickname username,s.id sid,s.name schoolname,t.name tagname,ifnull(a.num,0) sales from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.id='28'
+2017-02-27T15:57:47+08:00:
+   sql:select * from coll where uid=NULL and gid='28'
+2017-02-27T15:57:48+08:00:
+   sql:select * from follow_student where uid=NULL and to_uid=81
+2017-02-27T15:57:48+08:00:
+   sql:select * from follow_school where uid=NULL and sid=30
+2017-02-27T15:57:48+08:00:
+   sql:select count(oid) number from goods g left join orders o on g.id=o.gid left join comm c on c.oid=o.id where g.id='28'
+2017-02-27T15:57:48+08:00:
+   sql:select c.*,um.nickname,um.avatar from goods g join orders o on g.id=o.gid join users u on u.id=g.uid join users_msg um on um.id=u.mid join comm c on c.oid=o.id where g.id='28' limit 0, 30
+2017-02-27T15:57:48+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=1 and o.gid='28'
+2017-02-27T15:57:48+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=2 and o.gid='28'
+2017-02-27T15:57:48+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=3 and o.gid='28'
+2017-02-27T15:57:50+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:51+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:51+08:00:
+   sql:select g.*,um.nickname username,s.id sid,s.name schoolname,t.name tagname,ifnull(a.num,0) sales from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.id='28'
+2017-02-27T15:57:51+08:00:
+   sql:select * from coll where uid=NULL and gid='28'
+2017-02-27T15:57:51+08:00:
+   sql:select * from follow_student where uid=NULL and to_uid=81
+2017-02-27T15:57:51+08:00:
+   sql:select * from follow_school where uid=NULL and sid=30
+2017-02-27T15:57:51+08:00:
+   sql:select count(oid) number from goods g left join orders o on g.id=o.gid left join comm c on c.oid=o.id where g.id='28'
+2017-02-27T15:57:51+08:00:
+   sql:select c.*,um.nickname,um.avatar from goods g join orders o on g.id=o.gid join users u on u.id=g.uid join users_msg um on um.id=u.mid join comm c on c.oid=o.id where g.id='28' limit 0, 30
+2017-02-27T15:57:51+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=1 and o.gid='28'
+2017-02-27T15:57:51+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=2 and o.gid='28'
+2017-02-27T15:57:51+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=3 and o.gid='28'
+2017-02-27T15:57:51+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:51+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:51+08:00:
+   sql:select g.*,um.nickname username,s.id sid,s.name schoolname,t.name tagname,ifnull(a.num,0) sales from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.id='28'
+2017-02-27T15:57:51+08:00:
+   sql:select * from coll where uid=NULL and gid='28'
+2017-02-27T15:57:51+08:00:
+   sql:select * from follow_student where uid=NULL and to_uid=81
+2017-02-27T15:57:51+08:00:
+   sql:select * from follow_school where uid=NULL and sid=30
+2017-02-27T15:57:51+08:00:
+   sql:select count(oid) number from goods g left join orders o on g.id=o.gid left join comm c on c.oid=o.id where g.id='28'
+2017-02-27T15:57:51+08:00:
+   sql:select c.*,um.nickname,um.avatar from goods g join orders o on g.id=o.gid join users u on u.id=g.uid join users_msg um on um.id=u.mid join comm c on c.oid=o.id where g.id='28' limit 0, 30
+2017-02-27T15:57:51+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=1 and o.gid='28'
+2017-02-27T15:57:51+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=2 and o.gid='28'
+2017-02-27T15:57:51+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=3 and o.gid='28'
+2017-02-27T15:57:51+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:51+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:51+08:00:
+   sql:select g.*,um.nickname username,s.id sid,s.name schoolname,t.name tagname,ifnull(a.num,0) sales from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.id='28'
+2017-02-27T15:57:51+08:00:
+   sql:select * from coll where uid=NULL and gid='28'
+2017-02-27T15:57:51+08:00:
+   sql:select * from follow_student where uid=NULL and to_uid=81
+2017-02-27T15:57:52+08:00:
+   sql:select * from follow_school where uid=NULL and sid=30
+2017-02-27T15:57:52+08:00:
+   sql:select count(oid) number from goods g left join orders o on g.id=o.gid left join comm c on c.oid=o.id where g.id='28'
+2017-02-27T15:57:52+08:00:
+   sql:select c.*,um.nickname,um.avatar from goods g join orders o on g.id=o.gid join users u on u.id=g.uid join users_msg um on um.id=u.mid join comm c on c.oid=o.id where g.id='28' limit 0, 30
+2017-02-27T15:57:52+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=1 and o.gid='28'
+2017-02-27T15:57:52+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=2 and o.gid='28'
+2017-02-27T15:57:52+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=3 and o.gid='28'
+2017-02-27T15:57:52+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:52+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:52+08:00:
+   sql:select g.*,um.nickname username,s.id sid,s.name schoolname,t.name tagname,ifnull(a.num,0) sales from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.id='28'
+2017-02-27T15:57:52+08:00:
+   sql:select * from coll where uid=NULL and gid='28'
+2017-02-27T15:57:52+08:00:
+   sql:select * from follow_student where uid=NULL and to_uid=81
+2017-02-27T15:57:52+08:00:
+   sql:select * from follow_school where uid=NULL and sid=30
+2017-02-27T15:57:52+08:00:
+   sql:select count(oid) number from goods g left join orders o on g.id=o.gid left join comm c on c.oid=o.id where g.id='28'
+2017-02-27T15:57:52+08:00:
+   sql:select c.*,um.nickname,um.avatar from goods g join orders o on g.id=o.gid join users u on u.id=g.uid join users_msg um on um.id=u.mid join comm c on c.oid=o.id where g.id='28' limit 0, 30
+2017-02-27T15:57:52+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=1 and o.gid='28'
+2017-02-27T15:57:52+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=2 and o.gid='28'
+2017-02-27T15:57:52+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=3 and o.gid='28'
+2017-02-27T15:57:57+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:57+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:57:57+08:00:
+   sql:select g.*,um.nickname username,s.id sid,s.name schoolname,t.name tagname,ifnull(a.num,0) sales from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.id='28'
+2017-02-27T15:57:57+08:00:
+   sql:select * from coll where uid=NULL and gid='28'
+2017-02-27T15:57:57+08:00:
+   sql:select * from follow_student where uid=NULL and to_uid=81
+2017-02-27T15:57:57+08:00:
+   sql:select * from follow_school where uid=NULL and sid=30
+2017-02-27T15:57:57+08:00:
+   sql:select count(oid) number from goods g left join orders o on g.id=o.gid left join comm c on c.oid=o.id where g.id='28'
+2017-02-27T15:57:57+08:00:
+   sql:select c.*,um.nickname,um.avatar from goods g join orders o on g.id=o.gid join users u on u.id=g.uid join users_msg um on um.id=u.mid join comm c on c.oid=o.id where g.id='28' limit 0, 30
+2017-02-27T15:57:57+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=1 and o.gid='28'
+2017-02-27T15:57:57+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=2 and o.gid='28'
+2017-02-27T15:57:57+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=3 and o.gid='28'
+2017-02-27T15:57:58+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:57:58+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:58:00+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:58:00+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:58:00+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:58:00+08:00:
+   sql:select g.*,um.nickname username,s.id sid,s.name schoolname,t.name tagname,ifnull(a.num,0) sales from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.id='28'
+2017-02-27T15:58:00+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:58:00+08:00:
+   sql:select * from coll where uid=NULL and gid='28'
+2017-02-27T15:58:00+08:00:
+   sql:select g.*,um.nickname username,s.id sid,s.name schoolname,t.name tagname,ifnull(a.num,0) sales from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.id='28'
+2017-02-27T15:58:00+08:00:
+   sql:select * from follow_student where uid=NULL and to_uid=81
+2017-02-27T15:58:00+08:00:
+   sql:select * from coll where uid=NULL and gid='28'
+2017-02-27T15:58:00+08:00:
+   sql:select * from follow_school where uid=NULL and sid=30
+2017-02-27T15:58:00+08:00:
+   sql:select * from follow_student where uid=NULL and to_uid=81
+2017-02-27T15:58:00+08:00:
+   sql:select count(oid) number from goods g left join orders o on g.id=o.gid left join comm c on c.oid=o.id where g.id='28'
+2017-02-27T15:58:00+08:00:
+   sql:select * from follow_school where uid=NULL and sid=30
+2017-02-27T15:58:00+08:00:
+   sql:select c.*,um.nickname,um.avatar from goods g join orders o on g.id=o.gid join users u on u.id=g.uid join users_msg um on um.id=u.mid join comm c on c.oid=o.id where g.id='28' limit 0, 30
+2017-02-27T15:58:00+08:00:
+   sql:select count(oid) number from goods g left join orders o on g.id=o.gid left join comm c on c.oid=o.id where g.id='28'
+2017-02-27T15:58:00+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=1 and o.gid='28'
+2017-02-27T15:58:00+08:00:
+   sql:select c.*,um.nickname,um.avatar from goods g join orders o on g.id=o.gid join users u on u.id=g.uid join users_msg um on um.id=u.mid join comm c on c.oid=o.id where g.id='28' limit 0, 30
+2017-02-27T15:58:00+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=2 and o.gid='28'
+2017-02-27T15:58:00+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=1 and o.gid='28'
+2017-02-27T15:58:00+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=3 and o.gid='28'
+2017-02-27T15:58:00+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=2 and o.gid='28'
+2017-02-27T15:58:00+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=3 and o.gid='28'
+2017-02-27T15:58:01+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:58:01+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:58:01+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:58:01+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:58:03+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:58:04+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:58:08+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:58:08+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T15:58:11+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T15:58:11+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T16:16:29+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T16:16:29+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T16:16:29+08:00:
+   sql:select g.*,um.nickname username,s.id sid,s.name schoolname,t.name tagname,ifnull(a.num,0) sales from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.id='28'
+2017-02-27T16:16:29+08:00:
+   sql:select * from coll where uid=NULL and gid='28'
+2017-02-27T16:16:29+08:00:
+   sql:select * from follow_student where uid=NULL and to_uid=81
+2017-02-27T16:16:29+08:00:
+   sql:select * from follow_school where uid=NULL and sid=30
+2017-02-27T16:16:29+08:00:
+   sql:select count(oid) number from goods g left join orders o on g.id=o.gid left join comm c on c.oid=o.id where g.id='28'
+2017-02-27T16:16:29+08:00:
+   sql:select c.*,um.nickname,um.avatar from goods g join orders o on g.id=o.gid join users u on u.id=g.uid join users_msg um on um.id=u.mid join comm c on c.oid=o.id where g.id='28' limit 0, 30
+2017-02-27T16:16:29+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=1 and o.gid='28'
+2017-02-27T16:16:29+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=2 and o.gid='28'
+2017-02-27T16:16:29+08:00:
+   sql:select count(o.gid) number from comm c join orders o on c.oid=o.id  where c.level=3 and o.gid='28'
+2017-02-27T16:16:34+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T16:16:34+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:53:51+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:53:51+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:53:51+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 5
+2017-02-27T21:53:51+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:53:51+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:53:51+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:53:51+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:53:51+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:53:52+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:25+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:25+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:25+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 30
+2017-02-27T21:55:25+08:00:
+   sql:select count(g.id) number from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left  join school s on um.school=s.id
+2017-02-27T21:55:25+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:25+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:30+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:30+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:30+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:30+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:32+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:32+08:00:
+   sql:select keyword from search where uid=? group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:32+08:00:
+   sql:select id,mid,gid,account,reg_time,last_time,status from users where account='18312168363' and password='4c73f36c4fe32b7be7f89ae708290bbd'
+2017-02-27T21:55:32+08:00:
+   sql:select um.*,u.account phone from users_msg um join users u on u.mid=um.id where um.id=4
+2017-02-27T21:55:32+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:32+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:32+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 5
+2017-02-27T21:55:32+08:00:
+   sql:select s.id,s.name from users_msg um join users u on u.mid=um.id join school s on um.school=s.id where u.id=80 
+2017-02-27T21:55:32+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,s.id sid,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left  join users_msg um on um.id=u.mid left  join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid  where s.id=35 group by g.id order by g.create_time  DESC limit 0, 5
+2017-02-27T21:55:32+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:32+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:32+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:32+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:32+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:32+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:33+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:33+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:41+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:41+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:41+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,t.name tagname from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.name like '%手机%' or s.name like '%手机%' or um.nickname like '%手机%' or t.name like '%手机%' group by g.id limit 0, 30
+2017-02-27T21:55:42+08:00:
+   sql:select count(g.id) number from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id where g.name like '%手机%' or s.name like '%手机%' or um.nickname like '%手机%' or t.name like '%手机%'
+2017-02-27T21:55:42+08:00:
+   sql:insert into search set `uid` = 80, `keyword` = '手机',create_time=now()
+2017-02-27T21:55:42+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:42+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:42+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:42+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:42+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:42+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:42+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:42+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:44+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:44+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:44+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,t.name tagname from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.name like '%教科书%' or s.name like '%教科书%' or um.nickname like '%教科书%' or t.name like '%教科书%' group by g.id limit 0, 30
+2017-02-27T21:55:44+08:00:
+   sql:insert into search set `uid` = 80, `keyword` = '教科书',create_time=now()
+2017-02-27T21:55:44+08:00:
+   sql:select count(g.id) number from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id where g.name like '%教科书%' or s.name like '%教科书%' or um.nickname like '%教科书%' or t.name like '%教科书%'
+2017-02-27T21:55:44+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:44+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:44+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:44+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:44+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:44+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:44+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:44+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:44+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:44+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:44+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,t.name tagname from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.name like '%洗刷用品%' or s.name like '%洗刷用品%' or um.nickname like '%洗刷用品%' or t.name like '%洗刷用品%' group by g.id limit 0, 30
+2017-02-27T21:55:45+08:00:
+   sql:insert into search set `uid` = 80, `keyword` = '洗刷用品',create_time=now()
+2017-02-27T21:55:45+08:00:
+   sql:select count(g.id) number from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id where g.name like '%洗刷用品%' or s.name like '%洗刷用品%' or um.nickname like '%洗刷用品%' or t.name like '%洗刷用品%'
+2017-02-27T21:55:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:45+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,t.name tagname from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.name like '%女装%' or s.name like '%女装%' or um.nickname like '%女装%' or t.name like '%女装%' group by g.id limit 0, 30
+2017-02-27T21:55:45+08:00:
+   sql:select count(g.id) number from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id where g.name like '%女装%' or s.name like '%女装%' or um.nickname like '%女装%' or t.name like '%女装%'
+2017-02-27T21:55:45+08:00:
+   sql:insert into search set `uid` = 80, `keyword` = '女装',create_time=now()
+2017-02-27T21:55:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:46+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:46+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,t.name tagname from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.name like '%二手%' or s.name like '%二手%' or um.nickname like '%二手%' or t.name like '%二手%' group by g.id limit 0, 30
+2017-02-27T21:55:46+08:00:
+   sql:insert into search set `uid` = 80, `keyword` = '二手',create_time=now()
+2017-02-27T21:55:46+08:00:
+   sql:select count(g.id) number from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id where g.name like '%二手%' or s.name like '%二手%' or um.nickname like '%二手%' or t.name like '%二手%'
+2017-02-27T21:55:46+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:46+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:46+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:46+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:46+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:46+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:46+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:46+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:46+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:46+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:46+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,t.name tagname from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.name like '%四级%' or s.name like '%四级%' or um.nickname like '%四级%' or t.name like '%四级%' group by g.id limit 0, 30
+2017-02-27T21:55:46+08:00:
+   sql:select count(g.id) number from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id where g.name like '%四级%' or s.name like '%四级%' or um.nickname like '%四级%' or t.name like '%四级%'
+2017-02-27T21:55:46+08:00:
+   sql:insert into search set `uid` = 80, `keyword` = '四级',create_time=now()
+2017-02-27T21:55:46+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:46+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:55:47+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:55:47+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:03+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:04+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:04+08:00:
+   sql:select id from goods_type where parentid in ('60')
+2017-02-27T21:56:04+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left  join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.typeid in('60') group by g.id order by g.create_time DESC limit 0, 30
+2017-02-27T21:56:04+08:00:
+   sql:select count(*) number from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left  join school s on um.school=s.id where g.typeid='60'
+2017-02-27T21:56:04+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:04+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:04+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:04+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:08+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:08+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:08+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,t.name tagname from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.name like '%手机%' or s.name like '%手机%' or um.nickname like '%手机%' or t.name like '%手机%' group by g.id limit 0, 30
+2017-02-27T21:56:08+08:00:
+   sql:insert into search set `uid` = 80, `keyword` = '手机',create_time=now()
+2017-02-27T21:56:08+08:00:
+   sql:select count(g.id) number from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id where g.name like '%手机%' or s.name like '%手机%' or um.nickname like '%手机%' or t.name like '%手机%'
+2017-02-27T21:56:09+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:09+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:09+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:09+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:13+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:13+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:13+08:00:
+   sql:select sc.id sid,g.id,g.uid,g.typeid,g.name,g.originalprice,g.price,g.image,g.notice,g.caption,sum(sc.number) number,(sum(sc.number)*g.price) total from shop_cart sc join goods g on sc.gid=g.id where sc.uid=80 group by sc.gid,g.number
+2017-02-27T21:56:14+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:14+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:15+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:15+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:16+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:16+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:16+08:00:
+   sql:select count(g.id) number from goods g left  join users u on u.id =g.uid left  join users_msg um on um.id=u.mid left  join school s on um.school=s.id left join orders o on o.gid=g.id left join coll c on c.gid=g.id where c.uid=80
+2017-02-27T21:56:17+08:00:
+   sql:select g.*,um.name username,s.name schoolname,ifnull(count(o.number),0) sales from goods g left  join users u on u.id =g.uid left  join users_msg um on um.id=u.mid left  join school s on um.school=s.id left join orders o on o.gid=g.id left join coll c on c.gid=g.id where c.uid=80  group by g.id,o.number  order by g.create_time  DESC limit 0, 30
+2017-02-27T21:56:17+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:17+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:17+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:17+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:18+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:18+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:18+08:00:
+   sql:select count(g.id) number from goods g join orders o on o.gid=g.id where g.uid=80 group by g.id,o.number
+2017-02-27T21:56:18+08:00:
+   sql:select g.*,um.nickname username,um.avatar,ifnull(a.num,0) sales,s.name schoolname from goods g left join users u on u.id=g.uid left join users_msg um on um.id=u.mid left join school s on s.id=um.school left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.uid=80 group by g.id  limit 0, 30
+2017-02-27T21:56:18+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:18+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:18+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:18+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:20+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:20+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:20+08:00:
+   sql:select g.*,gt.parentid,gt.name typename,t.name tagname from goods g join goods_type gt on gt.id=g.typeid join tags t on t.id=g.tag  where g.id='25'
+2017-02-27T21:56:20+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:20+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:22+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:22+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:22+08:00:
+   sql:select g.*,gt.parentid,gt.name typename,t.name tagname from goods g join goods_type gt on gt.id=g.typeid join tags t on t.id=g.tag  where g.id='25'
+2017-02-27T21:56:22+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:22+08:00:
+   sql:select * from tags
+2017-02-27T21:56:23+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:23+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:35+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:35+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:35+08:00:
+   sql:update goods set `name` = '毛巾', `originalprice` = '12', `price` = '11', `number` = '1', `caption` = '1', `notice` = '1', `tag` = '2', `typeid` = '86' where id='25'
+2017-02-27T21:56:35+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:35+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:38+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:38+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:38+08:00:
+   sql:select g.*,gt.parentid,gt.name typename,t.name tagname from goods g join goods_type gt on gt.id=g.typeid join tags t on t.id=g.tag  where g.id='25'
+2017-02-27T21:56:38+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:38+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:41+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:41+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:41+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid group by g.id order by g.create_time DESC limit 0, 5
+2017-02-27T21:56:41+08:00:
+   sql:select s.id,s.name from users_msg um join users u on u.mid=um.id join school s on um.school=s.id where u.id=80 
+2017-02-27T21:56:41+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,s.id sid,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left  join users_msg um on um.id=u.mid left  join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid  where s.id=35 group by g.id order by g.create_time  DESC limit 0, 5
+2017-02-27T21:56:42+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:42+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:44+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:45+08:00:
+   sql:select count(uid) number from orders where uid=80
+2017-02-27T21:56:45+08:00:
+   sql:select g.*,o.*,o.id oid from orders o join goods g on g.id=o.gid where o.uid=80 order by o.create_time DESC limit 0, 30
+2017-02-27T21:56:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:45+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:45+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:53+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:53+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:53+08:00:
+   sql:select count(*) number from follow_student where uid=80
+2017-02-27T21:56:53+08:00:
+   sql:select to_uid from follow_student where uid=80
+2017-02-27T21:56:53+08:00:
+   sql:select g.*,um.nickname username,um.avatar,ifnull(a.num,0) sales,s.name schoolname from goods g left join users u on u.id=g.uid left join users_msg um on um.id=u.mid left join school s on s.id=um.school left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.uid=81 group by g.id  limit 0, 4
+2017-02-27T21:56:53+08:00:
+   sql:select g.*,um.nickname username,um.avatar,ifnull(a.num,0) sales,s.name schoolname from goods g left join users u on u.id=g.uid left join users_msg um on um.id=u.mid left join school s on s.id=um.school left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.uid=80 group by g.id  limit 0, 4
+2017-02-27T21:56:53+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:53+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:53+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:53+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:53+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:53+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:56:53+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:56:53+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:57:01+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:57:01+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:57:01+08:00:
+   sql:select count(*) number from follow_school where uid=80
+2017-02-27T21:57:01+08:00:
+   sql:select sid from follow_school where uid=80 limit 0, 30
+2017-02-27T21:57:01+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,s.id sid,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left  join users_msg um on um.id=u.mid left  join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid  where s.id=30 group by g.id order by g.create_time  DESC limit 0, 4
+2017-02-27T21:57:01+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,s.id sid,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left  join users_msg um on um.id=u.mid left  join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid  where s.id=35 group by g.id order by g.create_time  DESC limit 0, 4
+2017-02-27T21:57:01+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:57:01+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:57:01+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:57:01+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:57:06+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:57:06+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:57:06+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,s.id sid,ifnull(a.num,0) sales from goods g left  join users u on u.id =g.uid left  join users_msg um on um.id=u.mid left  join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid  where s.id='30' group by g.id order by g.create_time  DESC limit 0, 30
+2017-02-27T21:57:06+08:00:
+   sql:select count(g.id) number from goods g left  join users u on u.id =g.uid left  join users_msg um on um.id=u.mid left  join school s on um.school=s.id where s.id='30'
+2017-02-27T21:57:06+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:57:06+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:57:06+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:57:06+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:57:10+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:57:10+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:57:10+08:00:
+   sql:select g.*,um.nickname username,s.name schoolname,t.name tagname from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id left join orders o on o.gid=g.id left join (select gid,sum(number) num from orders group by gid,number,payment_status having payment_status>1) a on a.gid=o.gid where g.name like '%手机%' or s.name like '%手机%' or um.nickname like '%手机%' or t.name like '%手机%' group by g.id limit 0, 30
+2017-02-27T21:57:10+08:00:
+   sql:insert into search set `uid` = 80, `keyword` = '手机',create_time=now()
+2017-02-27T21:57:10+08:00:
+   sql:select count(g.id) number from goods g left join tags t on t.id=g.tag left join users u on u.id =g.uid left join users_msg um on um.id=u.mid left join school s on um.school=s.id where g.name like '%手机%' or s.name like '%手机%' or um.nickname like '%手机%' or t.name like '%手机%'
+2017-02-27T21:57:10+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:57:10+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6
+2017-02-27T21:57:10+08:00:
+   sql:select id,name,parentid from goods_type
+2017-02-27T21:57:10+08:00:
+   sql:select keyword from search where uid=80 group by keyword ORDER BY count(id) DESC limit 0,6

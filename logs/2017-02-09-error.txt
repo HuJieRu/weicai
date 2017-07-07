@@ -1,0 +1,1947 @@
+
+2017-02-09T10:31:10+08:00: 
+/favicon.ico : undefined
+
+2017-02-09T10:31:10+08:00: 
+/favicon.ico : Not Found
+
+2017-02-09T10:31:13+08:00: 
+/img/icon/logo.png : undefined
+
+2017-02-09T10:31:13+08:00: 
+/img/icon/logo.png : Not Found
+
+2017-02-09T10:31:13+08:00: 
+/css/img/icon/line.png : undefined
+
+2017-02-09T10:31:13+08:00: 
+/css/img/icon/line.png : Not Found
+
+2017-02-09T10:31:13+08:00: 
+/css/img/icon/shop_car.png : undefined
+
+2017-02-09T10:31:13+08:00: 
+/css/img/icon/shop_car.png : Not Found
+
+2017-02-09T10:31:21+08:00: 
+/index/img/icon/logo.png : undefined
+
+2017-02-09T10:31:21+08:00: 
+/index/img/icon/logo.png : Not Found
+
+2017-02-09T10:31:25+08:00: 
+/personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T10:31:25+08:00: 
+/personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T10:31:25+08:00: 
+/personCenter/img/icon/logo.png : undefined
+
+2017-02-09T10:31:25+08:00: 
+/personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T10:31:25+08:00: 
+/css/images/icon.fw.png : undefined
+
+2017-02-09T10:31:25+08:00: 
+/css/images/icon.fw.png : Not Found
+
+2017-02-09T10:31:27+08:00: 
+/personCenter/img/icon/logo.png : undefined
+
+2017-02-09T10:31:27+08:00: 
+/personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T10:31:52+08:00: 
+/css/img/loading.gif : undefined
+
+2017-02-09T10:31:52+08:00: 
+/css/img/loading.gif : Not Found
+
+2017-02-09T10:32:08+08:00: 
+/user/register : undefined
+
+2017-02-09T10:32:08+08:00: 
+/user/register : Not Found
+
+2017-02-09T10:54:03+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T10:54:03+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T11:06:43+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T11:06:43+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T11:10:16+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T11:10:16+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T11:15:05+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T11:15:05+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T11:22:27+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T11:22:27+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T11:30:14+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T11:30:14+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T11:33:40+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T11:33:40+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T11:36:14+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T11:36:14+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T11:39:21+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T11:39:21+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T11:39:22+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T11:39:22+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T11:39:22+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T11:39:22+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T11:39:35+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-09T11:39:35+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-09T11:39:35+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-09T11:39:35+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-09T11:43:06+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T11:43:06+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T11:45:38+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T11:45:38+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T11:49:36+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T11:49:36+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T12:51:45+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T12:51:45+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T12:51:45+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T12:51:45+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T12:51:45+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T12:51:45+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T12:54:03+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-09T12:54:03+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-09T12:54:07+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T12:54:07+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T12:54:07+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T12:54:07+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T12:54:07+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T12:54:07+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T12:54:09+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T12:54:09+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T12:54:09+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T12:54:09+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T12:54:09+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T12:54:09+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T12:54:10+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T12:54:10+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T12:54:36+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T12:54:36+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T12:56:05+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T12:56:05+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T13:01:14+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T13:01:14+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T13:01:33+08:00: 
+     GET --- /personCenter/personalCenter%7D) : undefined
+
+2017-02-09T13:01:33+08:00: 
+     GET --- /personCenter/personalCenter%7D) : Not Found
+
+2017-02-09T13:06:18+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:06:18+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:06:24+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:06:24+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:06:24+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:06:24+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:06:25+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:06:25+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:07:33+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:07:33+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:07:40+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:07:40+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:08:56+08:00: 
+     GET --- /check/checkUser : Can't set headers after they are sent.
+
+2017-02-09T13:09:04+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:09:04+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:09:04+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:09:04+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:09:04+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:09:04+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:09:13+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:09:13+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:09:13+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:09:13+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:09:13+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:09:13+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:09:13+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:09:13+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /personCenter/img/xiaolan.jpg : undefined
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /personCenter/img/xiaolan.jpg : Not Found
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /personCenter/img/xiaoxing.jpg : undefined
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /personCenter/img/xiaoxing.jpg : Not Found
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /personCenter/img/hongtangjiangshui.jpg : undefined
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /personCenter/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:10:16+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:10:19+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:10:19+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:10:19+08:00: 
+     GET --- /personCenter/img/hongtangjiangshui.jpg : undefined
+
+2017-02-09T13:10:19+08:00: 
+     GET --- /personCenter/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-09T13:10:19+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:10:19+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:10:19+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:10:19+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:10:19+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:10:19+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:10:22+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:10:22+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:10:22+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:10:22+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:10:22+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:10:22+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:10:22+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:10:22+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:10:31+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:10:31+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:10:47+08:00: 
+     GET --- /user/register : res is not defined
+
+2017-02-09T13:10:47+08:00: 
+     GET --- /user/register : res is not defined
+
+2017-02-09T13:10:54+08:00: 
+     GET --- /user/register : res is not defined
+
+2017-02-09T13:11:38+08:00: 
+     GET --- /user/register : Can't set headers after they are sent.
+
+2017-02-09T13:11:42+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:11:42+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:11:44+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:11:44+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:11:44+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:11:44+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:11:45+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:11:45+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:11:54+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:11:54+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:11:54+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:11:54+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:11:54+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:11:54+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:11:54+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:11:54+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:12:06+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T13:12:06+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T13:12:23+08:00: 
+     GET --- /personCenter/personalCenter%7D) : undefined
+
+2017-02-09T13:12:23+08:00: 
+     GET --- /personCenter/personalCenter%7D) : Not Found
+
+2017-02-09T13:13:04+08:00: 
+     GET --- /personCenter/personalCenter : Can't set headers after they are sent.
+
+2017-02-09T13:13:05+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T13:13:05+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T13:13:09+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:13:09+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:13:09+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:13:09+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:13:09+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:13:09+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:13:11+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:13:11+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:13:11+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:13:11+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:13:11+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:13:11+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:13:11+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:13:11+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:13:11+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:13:11+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:13:12+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:13:12+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:13:13+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:13:13+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:13:13+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:13:13+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:13:15+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:13:15+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:13:16+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:13:16+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:13:16+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:13:16+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:13:16+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:13:16+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:13:16+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:13:16+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:14:03+08:00: 
+     GET --- /css/img/loading.gif : undefined
+
+2017-02-09T13:14:03+08:00: 
+     GET --- /css/img/loading.gif : Not Found
+
+2017-02-09T13:14:31+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:14:31+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:14:31+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:14:31+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:14:31+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:14:31+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:14:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:14:31+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:14:31+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:14:31+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:14:36+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:14:36+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:14:36+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:14:36+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:14:36+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:14:36+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:14:36+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:14:36+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:14:36+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:14:36+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:15:39+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:15:39+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:15:39+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:15:39+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:15:39+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:15:39+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:15:39+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:15:39+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:15:39+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:15:39+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:19:10+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:19:10+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:19:10+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:19:10+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:19:10+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:19:10+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:19:10+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:19:10+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:19:10+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:19:10+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:19:28+08:00: 
+     GET --- /personCenter/personalCenter : /home/weicai/views/personCenter/personalCenter.html:8
+    6|     </head>
+    7|     <body style="background-color: #FAFAFA">
+ >> 8|     <% include ../common/head.html  %>
+    9|         <!-- Begin Wrapper -->
+    10|         <div id="wrapper">
+    11|             <!-- Begin Sidebar -->
+
+/home/weicai/views/common/head.html:6
+    4|                         <div class="fr">
+    5|                             <div class="loginAndRegister">
+ >> 6| 								<%=JSON.stringify(userinfo())%>
+    7| 							<%if(userinfo){ %> 
+    8|                                <a href="/personCenter/personalCenter"><%=userinfo.nickname||userinfo.account%></a>
+    9|                             <%}else{%>
+
+userinfo is not a function
+
+2017-02-09T13:19:46+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:19:46+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:19:46+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:19:46+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:19:46+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:19:46+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:19:46+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:19:46+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:19:46+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:19:46+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:20:24+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:20:24+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:20:24+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:20:24+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:20:24+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:20:24+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:20:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:20:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:20:24+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:20:24+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:25:42+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:25:42+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:25:42+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:25:42+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:25:42+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:25:42+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:25:42+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:25:42+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:25:42+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:25:42+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:25:43+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:25:43+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:27:23+08:00: 
+     GET --- /check/checkUser : Failed to lookup view "check/checkCUser" in views directory "/home/weicai/views"
+
+2017-02-09T13:27:28+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:27:28+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:27:29+08:00: 
+     GET --- /check/checkUser : Failed to lookup view "check/checkCUser" in views directory "/home/weicai/views"
+
+2017-02-09T13:29:05+08:00: 
+     GET --- /check/checkUser : Can't set headers after they are sent.
+
+2017-02-09T13:29:10+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:29:10+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:29:39+08:00: 
+     GET --- /check/checkUser : Can't set headers after they are sent.
+
+2017-02-09T13:29:42+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:29:42+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:29:42+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:29:42+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:29:43+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:29:43+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:40:50+08:00: 
+     GET --- /check/checkUser : Could not find matching close tag for "<%".
+
+2017-02-09T13:41:39+08:00: 
+     GET --- /check/checkUser : /home/weicai/views/check/checkUser.html:23
+    21| 			<%=JSON.stringify(data)%>
+    22| 
+ >> 23| 			<%if(data.length){%>
+    24| 				<%data.forEach(function(user){%>
+    25| 				<tr>
+    26| 					<td><%=user.id%></td>
+
+Cannot read property 'length' of undefined
+
+2017-02-09T13:41:43+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:41:43+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:41:43+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:41:43+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:41:43+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:41:43+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:41:45+08:00: 
+     GET --- /check/checkUser : /home/weicai/views/check/checkUser.html:23
+    21| 			<%=JSON.stringify(data)%>
+    22| 
+ >> 23| 			<%if(data.length){%>
+    24| 				<%data.forEach(function(user){%>
+    25| 				<tr>
+    26| 					<td><%=user.id%></td>
+
+Cannot read property 'length' of undefined
+
+2017-02-09T13:41:49+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:41:49+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:41:49+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:41:49+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:41:49+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:41:49+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:42:00+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:42:00+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:42:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:42:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:42:00+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:42:00+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:45:27+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:45:27+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:45:27+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:45:27+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:45:27+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:45:27+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:45:30+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:45:30+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:45:30+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:45:30+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:45:30+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:45:30+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:48:15+08:00: 
+     GET --- /check/checkUser : Invalid left-hand side in assignment
+
+2017-02-09T13:50:25+08:00: 
+     GET --- /check/checkUser : Can't set headers after they are sent.
+
+2017-02-09T13:50:27+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T13:50:27+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T13:54:24+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:54:24+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:54:34+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T13:54:34+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T13:54:34+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:54:34+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:54:34+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:54:34+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:55:24+08:00: 
+     GET --- /check/checkUser : Unexpected token ) in /home/weicai/views/check/checkUser.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-09T13:55:39+08:00: 
+     GET --- /check/checkUser : Unexpected token ) in /home/weicai/views/check/checkUser.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-09T13:55:54+08:00: 
+     GET --- /check/checkUser : Unexpected token < in /home/weicai/views/check/checkUser.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-09T13:56:03+08:00: 
+     GET --- /check/checkUser : Unexpected string in /home/weicai/views/check/checkUser.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-09T13:58:48+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T13:58:48+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T13:58:48+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:58:48+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:58:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:58:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:59:00+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:59:00+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:59:00+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:59:00+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:59:00+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:59:00+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:59:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:59:00+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:59:00+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:59:00+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T13:59:49+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T13:59:49+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T13:59:49+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T13:59:49+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T13:59:49+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T13:59:49+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T13:59:49+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T13:59:49+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T13:59:49+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T13:59:49+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T14:05:04+08:00: 
+     GET --- /check/checkUserInfo?id=2 : /home/weicai/views/check/checkUserInfo.html:55
+    53|           <label  class="col-sm-2 control-label">学校</label>
+    54|            <div class="col-sm-2 check-content">
+ >> 55|            <%=user.school_city+school%>
+    56|           </div>
+    57|       </div>
+    58|       <div class="form-group">
+
+school is not defined
+
+2017-02-09T14:05:07+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T14:05:07+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T14:05:07+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T14:05:07+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T14:05:07+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T14:05:07+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T14:05:12+08:00: 
+     GET --- /check/checkUserInfo?id=2 : /home/weicai/views/check/checkUserInfo.html:55
+    53|           <label  class="col-sm-2 control-label">学校</label>
+    54|            <div class="col-sm-2 check-content">
+ >> 55|            <%=user.school_city+school%>
+    56|           </div>
+    57|       </div>
+    58|       <div class="form-group">
+
+school is not defined
+
+2017-02-09T14:05:44+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : undefined
+
+2017-02-09T14:05:44+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : Not Found
+
+2017-02-09T14:05:44+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : undefined
+
+2017-02-09T14:05:44+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : Not Found
+
+2017-02-09T14:05:44+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : undefined
+
+2017-02-09T14:05:44+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : Not Found
+
+2017-02-09T14:06:09+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : undefined
+
+2017-02-09T14:06:09+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : Not Found
+
+2017-02-09T14:06:09+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : undefined
+
+2017-02-09T14:06:09+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : Not Found
+
+2017-02-09T14:06:09+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : undefined
+
+2017-02-09T14:06:09+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : Not Found
+
+2017-02-09T14:06:21+08:00: 
+     GET --- /check/checkUserInfo?id=2 : missing ) after argument list in /home/weicai/views/check/checkUserInfo.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+
+2017-02-09T14:06:31+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : undefined
+
+2017-02-09T14:06:31+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : Not Found
+
+2017-02-09T14:06:31+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : undefined
+
+2017-02-09T14:06:31+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : Not Found
+
+2017-02-09T14:06:31+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : undefined
+
+2017-02-09T14:06:31+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : Not Found
+
+2017-02-09T14:07:15+08:00: 
+     GET --- /check/checkUserInfo?id=2 : Can't set headers after they are sent.
+
+2017-02-09T14:07:15+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-09T14:07:15+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-09T14:07:18+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T14:07:18+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T14:07:18+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T14:07:18+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T14:07:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T14:07:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T14:07:21+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : undefined
+
+2017-02-09T14:07:21+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : Not Found
+
+2017-02-09T14:07:21+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : undefined
+
+2017-02-09T14:07:21+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : Not Found
+
+2017-02-09T14:07:21+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : undefined
+
+2017-02-09T14:07:21+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : Not Found
+
+2017-02-09T14:08:56+08:00: 
+     GET --- /home/weicai/upload/files/148661726530046.png : undefined
+
+2017-02-09T14:08:56+08:00: 
+     GET --- /home/weicai/upload/files/148661726530046.png : Not Found
+
+2017-02-09T14:08:56+08:00: 
+     GET --- /home/weicai/upload/files/148661726530053.png : undefined
+
+2017-02-09T14:08:56+08:00: 
+     GET --- /home/weicai/upload/files/148661726530053.png : Not Found
+
+2017-02-09T14:08:56+08:00: 
+     GET --- /home/weicai/upload/files/148661726530026.png : undefined
+
+2017-02-09T14:08:56+08:00: 
+     GET --- /home/weicai/upload/files/148661726530026.png : Not Found
+
+2017-02-09T14:09:11+08:00: 
+     GET --- /home/weicai/upload/files/148661726530046.png : undefined
+
+2017-02-09T14:09:11+08:00: 
+     GET --- /home/weicai/upload/files/148661726530046.png : Not Found
+
+2017-02-09T14:09:11+08:00: 
+     GET --- /home/weicai/upload/files/148661726530053.png : undefined
+
+2017-02-09T14:09:11+08:00: 
+     GET --- /home/weicai/upload/files/148661726530053.png : Not Found
+
+2017-02-09T14:09:11+08:00: 
+     GET --- /home/weicai/upload/files/148661726530026.png : undefined
+
+2017-02-09T14:09:11+08:00: 
+     GET --- /home/weicai/upload/files/148661726530026.png : Not Found
+
+2017-02-09T14:09:15+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : undefined
+
+2017-02-09T14:09:15+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : Not Found
+
+2017-02-09T14:09:15+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : undefined
+
+2017-02-09T14:09:15+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : Not Found
+
+2017-02-09T14:09:15+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : undefined
+
+2017-02-09T14:09:15+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : Not Found
+
+2017-02-09T14:09:43+08:00: 
+     GET --- /home/weicai/upload/files/148661726530046.png : undefined
+
+2017-02-09T14:09:43+08:00: 
+     GET --- /home/weicai/upload/files/148661726530046.png : Not Found
+
+2017-02-09T14:09:43+08:00: 
+     GET --- /home/weicai/upload/files/148661726530053.png : undefined
+
+2017-02-09T14:09:43+08:00: 
+     GET --- /home/weicai/upload/files/148661726530053.png : Not Found
+
+2017-02-09T14:09:43+08:00: 
+     GET --- /home/weicai/upload/files/148661726530026.png : undefined
+
+2017-02-09T14:09:43+08:00: 
+     GET --- /home/weicai/upload/files/148661726530026.png : Not Found
+
+2017-02-09T14:10:31+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T14:10:31+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T14:10:41+08:00: 
+     GET --- /home/weicai/upload/files/148661726530046.png : undefined
+
+2017-02-09T14:10:41+08:00: 
+     GET --- /home/weicai/upload/files/148661726530046.png : Not Found
+
+2017-02-09T14:10:41+08:00: 
+     GET --- /home/weicai/upload/files/148661726530053.png : undefined
+
+2017-02-09T14:10:41+08:00: 
+     GET --- /home/weicai/upload/files/148661726530053.png : Not Found
+
+2017-02-09T14:10:41+08:00: 
+     GET --- /home/weicai/upload/files/148661726530026.png : undefined
+
+2017-02-09T14:10:41+08:00: 
+     GET --- /home/weicai/upload/files/148661726530026.png : Not Found
+
+2017-02-09T14:10:42+08:00: 
+     GET --- /check/checkUser : Can't set headers after they are sent.
+
+2017-02-09T14:10:47+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T14:10:47+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T14:10:51+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : undefined
+
+2017-02-09T14:10:51+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : Not Found
+
+2017-02-09T14:10:51+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : undefined
+
+2017-02-09T14:10:51+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : Not Found
+
+2017-02-09T14:10:51+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : undefined
+
+2017-02-09T14:10:51+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : Not Found
+
+2017-02-09T14:12:26+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T14:12:26+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T14:12:29+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T14:12:29+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T14:12:29+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T14:12:29+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T14:12:29+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T14:12:29+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T14:12:34+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T14:12:34+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T14:12:34+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T14:12:34+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T14:15:02+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : undefined
+
+2017-02-09T14:15:02+08:00: 
+     GET --- /home/weicai/upload/files/148661713797170.jpg : Not Found
+
+2017-02-09T14:15:02+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : undefined
+
+2017-02-09T14:15:02+08:00: 
+     GET --- /home/weicai/upload/files/148661713797141.jpg : Not Found
+
+2017-02-09T14:15:02+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : undefined
+
+2017-02-09T14:15:02+08:00: 
+     GET --- /home/weicai/upload/files/148661713797126.jpg : Not Found
+
+2017-02-09T14:16:49+08:00: 
+     GET --- /check/upload/files/148661713797141.jpg : undefined
+
+2017-02-09T14:16:49+08:00: 
+     GET --- /check/upload/files/148661713797141.jpg : Not Found
+
+2017-02-09T14:16:49+08:00: 
+     GET --- /check/upload/files/148661713797170.jpg : undefined
+
+2017-02-09T14:16:49+08:00: 
+     GET --- /check/upload/files/148661713797170.jpg : Not Found
+
+2017-02-09T14:16:49+08:00: 
+     GET --- /check/upload/files/148661713797126.jpg : undefined
+
+2017-02-09T14:16:49+08:00: 
+     GET --- /check/upload/files/148661713797126.jpg : Not Found
+
+2017-02-09T14:16:54+08:00: 
+     GET --- /check/upload/files/148661713797126.jpg : undefined
+
+2017-02-09T14:16:54+08:00: 
+     GET --- /check/upload/files/148661713797126.jpg : Not Found
+
+2017-02-09T14:16:54+08:00: 
+     GET --- /check/upload/files/148661713797170.jpg : undefined
+
+2017-02-09T14:16:54+08:00: 
+     GET --- /check/upload/files/148661713797170.jpg : Not Found
+
+2017-02-09T14:16:54+08:00: 
+     GET --- /check/upload/files/148661713797141.jpg : undefined
+
+2017-02-09T14:16:54+08:00: 
+     GET --- /check/upload/files/148661713797141.jpg : Not Found
+
+2017-02-09T14:21:14+08:00: 
+     GET --- /check/checkUserInfo?id=2 : Can't set headers after they are sent.
+
+2017-02-09T14:21:18+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T14:21:18+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T14:21:18+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T14:21:18+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T14:21:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T14:21:18+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T14:22:16+08:00: 
+     GET --- /check/checkUserInfo?id=2 : Can't set headers after they are sent.
+
+2017-02-09T14:22:33+08:00: 
+     GET --- /check/checkUser : Can't set headers after they are sent.
+
+2017-02-09T14:22:35+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T14:22:35+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T14:35:05+08:00: 
+     GET --- /check/checkUserInfo?id=3 : Can't set headers after they are sent.
+
+2017-02-09T14:35:08+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T14:35:08+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T15:17:06+08:00: 
+     GET --- /check/checkUserInfo?id=2 : Can't set headers after they are sent.
+
+2017-02-09T15:21:22+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T15:21:22+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T15:21:22+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T15:21:22+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T15:21:22+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T15:21:22+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T15:33:12+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T15:33:12+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T15:38:03+08:00: 
+     GET --- /check/checkUser : Can't set headers after they are sent.
+
+2017-02-09T15:38:06+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T15:38:06+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T16:01:20+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T16:01:20+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T16:20:35+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T16:20:35+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T16:20:35+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T16:20:35+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T16:20:35+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T16:20:35+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T16:20:49+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T16:20:49+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T16:20:50+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T16:20:50+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T16:20:50+08:00: 
+     GET --- /personCenter/img/hongtangjiangshui.jpg : undefined
+
+2017-02-09T16:20:50+08:00: 
+     GET --- /personCenter/img/hongtangjiangshui.jpg : Not Found
+
+2017-02-09T16:20:53+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T16:20:53+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T16:20:53+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T16:20:53+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T20:54:11+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T20:54:11+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T20:54:12+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T20:54:12+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T20:54:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T20:54:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T20:54:12+08:00: 
+     GET --- /favicon.ico : undefined
+
+2017-02-09T20:54:12+08:00: 
+     GET --- /favicon.ico : Not Found
+
+2017-02-09T20:54:24+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T20:54:24+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T20:54:24+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T20:54:24+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T20:54:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T20:54:24+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T21:05:04+08:00: 
+     GET --- /index/index : Cannot read property 'userinfo' of undefined
+
+2017-02-09T21:05:07+08:00: 
+     GET --- /index/index : Cannot read property 'userinfo' of undefined
+
+2017-02-09T21:05:11+08:00: 
+     GET --- / : Cannot read property 'userinfo' of undefined
+
+2017-02-09T21:05:38+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T21:05:38+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T21:05:38+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T21:05:38+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T21:05:38+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T21:05:38+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T21:05:42+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T21:05:42+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T21:05:42+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T21:05:42+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T21:05:42+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T21:05:42+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T21:05:49+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T21:05:49+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T21:05:49+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T21:05:49+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T21:05:49+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T21:05:49+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T21:05:51+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T21:05:51+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T21:05:51+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T21:05:51+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T21:05:51+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T21:05:51+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T21:40:12+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T21:40:12+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T21:40:12+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T21:40:12+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T21:40:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T21:40:12+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T22:07:29+08:00: 
+     GET --- /img/icon/logo.png : undefined
+
+2017-02-09T22:07:29+08:00: 
+     GET --- /img/icon/logo.png : Not Found
+
+2017-02-09T22:07:29+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T22:07:29+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T22:07:29+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T22:07:29+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T22:07:33+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T22:07:33+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T22:07:33+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T22:07:33+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T22:07:33+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T22:07:33+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T22:08:48+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T22:08:48+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T22:08:48+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T22:08:48+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T22:08:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T22:08:48+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T22:08:50+08:00: 
+     GET --- /index/img/icon/logo.png : undefined
+
+2017-02-09T22:08:50+08:00: 
+     GET --- /index/img/icon/logo.png : Not Found
+
+2017-02-09T22:08:50+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T22:08:50+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T22:08:50+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T22:08:50+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T22:09:03+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T22:09:03+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T22:09:03+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T22:09:03+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T22:09:03+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T22:09:03+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T22:09:03+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T22:09:03+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T22:09:03+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T22:09:03+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T22:09:05+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T22:09:05+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T22:09:05+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T22:09:05+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T22:09:05+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T22:09:05+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T22:09:06+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T22:09:06+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found
+
+2017-02-09T22:09:06+08:00: 
+     GET --- /commodity/commodityInfo : undefined
+
+2017-02-09T22:09:06+08:00: 
+     GET --- /commodity/commodityInfo : Not Found
+
+2017-02-09T22:09:19+08:00: 
+     GET --- /personCenter/img/icon/logo.png : undefined
+
+2017-02-09T22:09:19+08:00: 
+     GET --- /personCenter/img/icon/logo.png : Not Found
+
+2017-02-09T22:09:19+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : undefined
+
+2017-02-09T22:09:19+08:00: 
+     GET --- /personCenter/img/qunzi.jpg : Not Found
+
+2017-02-09T22:09:19+08:00: 
+     GET --- /css/img/icon/line.png : undefined
+
+2017-02-09T22:09:19+08:00: 
+     GET --- /css/img/icon/line.png : Not Found
+
+2017-02-09T22:09:19+08:00: 
+     GET --- /css/img/icon/shop_car.png : undefined
+
+2017-02-09T22:09:19+08:00: 
+     GET --- /css/img/icon/shop_car.png : Not Found
+
+2017-02-09T22:09:19+08:00: 
+     GET --- /css/images/icon.fw.png : undefined
+
+2017-02-09T22:09:19+08:00: 
+     GET --- /css/images/icon.fw.png : Not Found

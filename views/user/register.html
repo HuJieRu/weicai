@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      	<% include ../common/header.html  %>
+       
+        <link rel="stylesheet" type="text/css" href="/css/plugs/bootstrap.min.css" />
+         <link type="text/css" rel="stylesheet" href="/css/plugs/fileinput.min.css" />
+    </head>
+  
+    <body style="background-color: #FAFAFA">
+    <% include ../common/head2.html  %>
+    <form class="form-horizontal"  method="post" enctype="multipart/form-data" role="form" id="register-form">
+      <div class="form-group">
+        <label  class="col-sm-2 control-label"> <h4>完善信息</h4></label>
+      </div>
+     
+	  <div class="form-group">
+        <label  class="col-sm-2 control-label">用户名</label>
+        <div class="col-sm-3">
+          <input type="text" class="form-control" name="nickname"  placeholder="输入用户名"  data-rule="用户名:required;">
+        </div>
+      </div>
+     <!--  <div class="form-group">
+        <label  class="col-sm-2 control-label">密码</label>
+        <div class="col-sm-3">
+          <input type="password" name="password" class="form-control"  placeholder="输入密码"  data-rule="密码: required; length(8~16)"
+            data-tip="请输入8到16个字符">
+        </div>
+      </div>
+      <div class="form-group">
+        <label  class="col-sm-2 control-label">确认密码</label>
+        <div class="col-sm-3">
+          <input  type="password" name="pwdAgain" class="form-control"  placeholder="输入确认密码" data-rule="确认密码: required; match(password)"
+		  data-tip="必须与密码相同">
+        </div>
+      </div> -->
+      <div class="form-group">
+        <label  class="col-sm-2 control-label">学号</label>
+        <div class="col-sm-3">
+          <input type="text" class="form-control" name="student_card" placeholder="输入学号" data-rule="学号:required; length(12); integer[+0];">
+        </div>
+      </div>
+      <div class="form-group">
+        <label  class="col-sm-2 control-label">身份证号码</label>
+        <div class="col-sm-3">
+          <input type="text" class="form-control" name="card" placeholder="输入身份证号码" data-rule="身份证号:required;idcard;"
+            data-rule-idcard="[/^(\d{15}$|^\d{18}$|^\d{17}(\d|X|x))$/, '请输入有效的身份证号']"
+            data-tip="请输入有效的身份证号">
+        </div>
+      </div>
+     <!--  <div class="form-group">
+        <label  class="col-sm-2 control-label">手机号</label>
+        <div class="col-sm-3">
+          <input type="text" class="form-control" name="phone"  placeholder="输入手机号" data-rule="手机号:required; mobile" data-rule-mobile="[/^1[3-9]\d{9}$/, '请填写有效的手机号']">
+        </div>
+      </div> -->
+       <div class="form-group">
+        <label  class="col-sm-2 control-label">真实姓名</label>
+        <div class="col-sm-3">
+          <input type="text" class="form-control" name="name" placeholder="输入真实姓名" data-rule="真实姓名:required; truename" data-rule-truename="[/^([\u4e00-\u9fa5]{1,20}|[a-zA-Z\.\s]{1,20})$/, '请填写真实的姓名']">
+        </div>
+      </div>
+      <div class="form-group">
+        <label  class="col-sm-2 control-label">性别</label>
+        <div class=" col-sm-3">
+         <div class="radio">
+           <label>
+             <input type="radio" name="sex"  value="1" checked>
+            男
+           </label>
+         </div>
+         <div class="radio">
+           <label>
+             <input type="radio" name="sex"  value="0">
+            女
+           </label>
+         </div>
+        </div>
+      </div>
+       <div class="form-group">
+          <label  class="col-sm-2 control-label">学校</label>
+           <div class="col-sm-2">
+            <select class="form-control" id="school-city" name="school_city">
+                                
+            </select>
+          </div>
+           <div class="col-sm-2">
+            <select class="form-control" id="school" name="school">
+                                            
+            </select>
+          </div>
+      </div>
+      <div class="form-group">
+        <label  class="col-sm-2 control-label">上传头像</label>
+        <div class="col-sm-3">
+            <input id="head-input" name="avatar" type="file" data-show-caption="true" >  
+        </div>
+		<div id="headimage-error" style="display:none;" class="col-sm-3">
+            <span class="msg-box n-right" for="headimage"><span role="alert" class="msg-wrap n-error"><span class="n-icon"></span><span class="n-msg">请上传头像</span></span></span> 
+        </div>
+      </div>
+       <div class="form-group">
+        <label  class="col-sm-2 control-label">上传身份证照片</label>
+        <div class="col-sm-3">
+           <input id="identity-input" name="card_photo" type="file" data-show-caption="true" > 
+        </div>
+		<div id="identityimage-error" style="display:none;" class="col-sm-3">
+            <span class="msg-box n-right" for="headimage"><span role="alert" class="msg-wrap n-error"><span class="n-icon"></span><span class="n-msg">请上传身份证照片</span></span></span> 
+        </div>
+      </div>
+      <div class="form-group">
+        <label  class="col-sm-2 control-label">上传学生证照片</label>
+        <div class="col-sm-3">
+           <input id="student-input" name="student_photo" type="file" data-show-caption="true" > 
+        </div>
+		<div id="studentimage-error" style="display:none;" class="col-sm-3">
+            <span class="msg-box n-right" for="headimage"><span role="alert" class="msg-wrap n-error"><span class="n-icon"></span><span class="n-msg">请上传学生证照片</span></span></span> 
+        </div>
+      </div>
+	  
+      <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-3">
+          <button type="summit" class="btn btn-primary">提交</button>
+        </div>
+      </div>
+    </form>
+         <% include ../common/footer.html  %>                
+    </body>
+     <script src="/js/Jquery.js"></script>
+         <script type="text/javascript">
+           seajs.use(["FileInputControl","OptionSelect","JsonData","Fileinput","Bootstrap","Validator"], function(f,o,j) {
+            //初始化照片上传
+             f.initFileInput({
+              ctrlName:"head-input",
+             }); 
+             f.initFileInput({
+              ctrlName:"identity-input",
+             }); 
+             f.initFileInput({
+              ctrlName:"student-input",
+             });
+             //初始化选项框
+             o.initOption(<%-JSON.stringify(schoolData)%>,{container:$("#school-city"),childName:"school"},{container:$("#school"),childName:""});
+			//得到图片的输入框及其对应提示
+			var avatar=$("input[name='avatar']");
+			var avatarError=$("#headimage-error");
+			var cardphoto=$("input[name='card_photo']");
+			var cardphotoError=$("#identityimage-error");
+			var studentphoto=$("input[name='student_photo']");
+			var studentphotoError=$("#studentimage-error");
+			//表单提交
+			$('#register-form').validator({
+				valid: function(form) {
+				//如果有图片是空的，则提示用户
+					if(avatar.val()=='')
+					{
+						avatarError.show();
+					}else if(cardphoto.val()==''){
+						cardphotoError.show();
+					}else if(studentphoto.val()==''){
+						studentphotoError.show();
+					}
+					else{//照片都上传了则提交表单
+						
+						form.submit();
+					}
+					
+				}
+			});
+			//图片改变，有图片就将提示隐藏
+			avatar.on("change",function(){
+				if($(this).val()!='')
+					{
+						avatarError.hide();
+					}
+			});
+			cardphoto.on("change",function(){
+				if($(this).val()!='')
+					{
+						cardphotoError.hide();
+					}
+			});
+			studentphoto.on("change",function(){
+				if($(this).val()!='')
+					{
+						studentphotoError.hide();
+					}
+			});
+		  });
+         </script>   
+    </html>

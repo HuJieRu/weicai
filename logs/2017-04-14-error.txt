@@ -1,0 +1,116 @@
+
+2017-04-14T17:21:49+08:00: 
+     GET --- / : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-14T17:21:49+08:00: 
+     GET --- /favicon.ico : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-14T17:22:57+08:00: 
+     GET --- / : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-14T17:22:57+08:00: 
+     GET --- /favicon.ico : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-14T17:24:29+08:00: 
+     GET --- / : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-14T17:24:29+08:00: 
+     GET --- /favicon.ico : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-14T17:30:05+08:00: 
+     GET --- / : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-14T17:30:05+08:00: 
+     GET --- /favicon.ico : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-14T17:30:08+08:00: 
+     GET --- / : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-14T17:30:08+08:00: 
+     GET --- /favicon.ico : TypeError: Cannot read property 'uid' of undefined
+
+2017-04-14T17:30:28+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-14T17:30:28+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-14T17:30:28+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:30:31+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:30:53+08:00: 
+     GET --- /user/register : Error: Can't set headers after they are sent.
+
+2017-04-14T17:30:58+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:50:20+08:00: 
+     GET --- /index/img/icon/logo.jpg : Error: Not Found
+
+2017-04-14T17:50:20+08:00: 
+     GET --- /css/img/icon/shop_car.png : Error: Not Found
+
+2017-04-14T17:50:20+08:00: 
+     GET --- /css/img/icon/line.png : Error: Not Found
+
+2017-04-14T17:50:20+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:50:24+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:50:29+08:00: 
+     GET --- /commodity/indent? : TypeError: D:\hjr\毕业设计\weicai\views\commodity\indent.html:96
+    94| 			  </div>
+    95| 			  <div class="modal-body">
+ >> 96| 	        <input name="id" value="<%=locals.get.sid.join(",")%>" type="hidden"/>
+    97| 			<div class="form-group">
+    98| 	         <label  class="col-sm-2 control-label">姓名</label>
+    99| 	         <div class="col-sm-4">
+
+Cannot read property 'join' of undefined
+
+2017-04-14T17:50:29+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:50:30+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:50:31+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:50:35+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-04-14T17:50:35+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:50:45+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-04-14T17:50:45+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:50:56+08:00: 
+     GET --- /personCenter/img/icon/logo.jpg : Error: Not Found
+
+2017-04-14T17:50:56+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:51:00+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:51:07+08:00: 
+     GET --- /favicon.ico : Error: Not Found
+
+2017-04-14T17:51:11+08:00: 
+     GET --- /commodity/img/icon/logo.jpg : Error: Not Found
+
+2017-04-14T17:51:11+08:00: 
+     GET --- /images/seemore-bg.png : Error: Not Found
+
+2017-04-14T17:51:11+08:00: 
+     GET --- /favicon.ico : Error: Not Found

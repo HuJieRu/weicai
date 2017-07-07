@@ -1,0 +1,79 @@
+
+/*.shopClass{width:190px;position:relative;top:-41px;background:#4593FD;z-index:1;box-shadow:4px 2px 5px rgba(0, 0, 0, 0.3);}*/
+/*总的构架商品弹出列表*/
+
+
+.shopClass .mod_cate_hd{
+	height:43px;
+	line-height:43px;
+	font-size:17px;
+	color:#FFFFFF;
+	text-indent:7px;
+	box-shadow:2px -1px 3px rgba(55,55,55,0.5);
+	background-color: rgba(252,211,211,.5);
+	}
+
+
+.mod_cate {
+	line-height: 35px;
+	text-align: left;
+	background: rgba(0,0,0,.5);
+	font-size: 13px;
+	
+}
+
+.mod_cate_title a{
+	padding-left: 10px;
+	color: #FFFFFF;
+}
+
+
+
+.mod_cate_title i {
+	float: right;
+	margin-right: 10px;
+}
+
+
+ .mod_subcate{
+	display:none;
+	border:2px #CA5FE3 solid;
+	background:#F7F7F7;
+	box-shadow:5px 5px 10px rgba(0, 0, 0, 0.4);
+	position:absolute;
+	z-index:-1;
+	top:43px;
+	left:188px;
+	overflow:hidden;
+	height: 400px;
+	}
+
+ .mod_subcate_main{
+	min-width: 350px;
+	padding:0 20px;
+	border-right:1px #ddd solid;
+	}
+ .mod_subcate_main ul {
+	display: flex;
+	flex-wrap: wrap;
+	}
+	 .mod_subcate_main ul li{
+		padding:0 5px;
+		}
+.shopClass .on{
+	border-left: 1px solid #CA5FE3;
+	border-bottom: 1px solid #CA5FE3;
+	background:#F7F7F7;
+	}
+.shopClass .on  .mod_cate_title a{
+	color:#CA5FE3;
+	}
+.shopClass .on  .mod_cate_title img{
+	display: none;
+	}
+.shopClass .on .mod_subcate{
+	display:block !important;
+	  
+	}
+	
+

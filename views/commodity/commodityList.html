@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include ../common/header.html  %>
+       <link rel="stylesheet" type="text/css" href="/css/searchProduct.css" />
+    </head>
+    <body style="background-color: #FAFAFA">
+	<% include ../common/head.html  %>
+     <div id="wrapper">
+         <%if(goods.length==0){%>
+			<div class="commodity-hint"><img  src="/img/hint2.gif"  />很抱歉，没有你要的商品</div>
+		 <%}else{%>
+		  <div class="sort" id="sort">
+             <div class="sort_bd">
+                 <a  data-tag=0	class='<%=locals.get.tag==0?"current":"" %>' >
+                     <span>默认</span>
+                 </a>|
+                 <a  data-tag=1 class='<%=locals.get.tag==1?"current":"" %>' >
+                     <span>价格</span>
+                 </a>|
+                 <a  data-tag=2 class='<%=locals.get.tag==2?"current":"" %>' >
+                     <span>销量</span>
+                 </a>
+             </div>
+         </div>
+		 <%} %>
+		 
+        
+         <div  id="productlist" class="pro_list">
+             <ul class="cle">  
+
+			<%goods.forEach(function(product){%>			 
+                 <li>
+                     <a href="/commodity/commoditySpecific?id=<%=product.id%>"">
+                         <p class="pic">
+                             <img width="150" height="150"  src="<%=product.image.split(",")[0]%>"  />
+                         </p>
+                         <div class="btm cle">
+                             <span class="price">
+                                 &#165;<%=product.price%>
+                             </span>
+                             <span class="sales">
+                                 <i >销量</i>
+                                <%=product.sales%>
+                             </span>
+                         </div>
+                         <p class="title">
+                             <%=product.name%>
+                         </p>
+                      <div class="btm cle">
+                          <span class="name"><%=product.username%>
+                          </span>
+                          <span class="school"> <%=product.schoolname%>
+                          </span>
+                      </div>
+                     </a>
+                 </li>
+				 <%});%>  
+             </ul>
+         </div>
+          <% include ../common/pages.html  %>  
+     </div>
+     <% include ../common/footer.html  %>
+    </body>
+          <script src="/js/Jquery1.7.js"></script>
+           <script type="text/javascript">
+            seajs.use(["PanginationControl","Slide","ShopClass"], function(p) {
+			let key=p.getQueryString('key');
+			p.initPagination({
+				page:"<%=page%>",
+				currentPage:<%=locals.get.p?(locals.get.p-1):0%>,
+				key:key
+			});
+			 $('#sort').on('click','a',function(){
+				if(key!=null){//有参数
+					window.location.href = window.location.href.split("?")[0]+"?key="+p.getQueryString('key')+ "&&p=1&&tag="+$(this).data('tag');
+				}else{
+					window.location.href = window.location.href.split("?")[0]+"?&&p=1&&tag="+$(this).data('tag');
+				}
+				
+			});
+          });
+		 
+           </script> 
+</html>
